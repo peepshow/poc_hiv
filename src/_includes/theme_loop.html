@@ -58,7 +58,7 @@
               <img src="{{site.baseurl}}/assets/images/{{extra.image}}" alt="">
               <div class="caption">
                 <h2>{{extra.title[site.active_lang]}}</h2>
-                <p>{{extra.oneliner[site.active_lang]}}</p>
+                <p>{{extra.oneliner[site.active_lang] | truncatewords: 15 }}</p>
               </div>
             </a>
 
