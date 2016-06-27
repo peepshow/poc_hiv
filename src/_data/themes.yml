@@ -1,918 +1,2108 @@
-- id: 2_1
+- id: 1_1
   chapter_number: "1"
   title:
     en: "The Science"
     vi: "Khoa Học"
   content:
-    en: "This science behind this disease is truly amazing. The malaria lifecycle is highly specialised, having evolved over thousands of years to ensure the parasite continues to thrive into the future."
-    vi: "Khoa học đằng sau căn bệnh này thật sự rất tuyệt vời. Vòng đời của bệnh sốt rét có chuyên môn hoá rất cao, tiến hoá qua hàng ngàn năm để đảm bảo ký sinh trùng tiếp tục phát triển mạnh trong tương lai"
-  video: 0113_POC_PRO2_2_What_Is_It_2.1
-  youtube: Gu3kQojh0-A
+    en: "HIV stands for human immunodeficiency virus. It is the virus that can lead to acquired immunodeficiency syndrome, or AIDS. Unlike some other viruses, the human body cannot get rid of HIV. That means that once you have HIV, you have it for life." CDCInvestigate how HIV works and learn how scientists have tried to beat it."
+    vi: "HIV là viết tắt của vi-rút gây suy giảm miễn dịch ở người. Nó là loại vi-rút có thể dẫn đến Hội Chứng Suy Giảm Miễn Dịch, còn gọi là AIDS. Không như các loại vi-rút khác, cơ thể người không thể loại bỏ HIV. Điều đó có nghĩa là một khi bạn mắc HIV, nó sẽ theo bạn suốt đời.” CDCĐiều tra cách HIV hoạt động và tìm hiểu các nhà khoa học đã cố gắng chống lại nó thế nào."
+  video: 
+  youtube: ue6WJHSgln0
   image: thumb_placeholder.jpg
   extras:
     - title:
-        en: "Symptoms"
-        vi: "Triệu Chứng"
+        en: "The Unbeatable Virus"
+        vi: "Virus không thể đánh bại"
       oneliner:
-        en: "A very small stage in a vast cosmic ocean, courage of our questions intelligent"
-        vi:
-      video: 0113_POC_PRO2_2_What_Is_It_2.1.B1
-      youtube: n2mqJYVllXc
+        en: "Why is it that HIV has proved so hard to control? A number of conditions ensure that HIV is a very hard virus to beat. Why is it so unbeatable?"
+        vi: “Tại sao lại rất khó kiểm soát HIV? Một số điều kiện đảm bảo rằng HIV là một loại vi-rút rất khó chống lại. Tại sao nó lại không thể bị đánh bại?”
+      video: 
+      youtube: f3GJ7AKaKW8
       type: "professional"
       image: thumb_placeholder.jpg
     - title:
-        en: “Complicated Malaria”
-        vi: "Sự Rắc Rối của Sốt Rét"
+        en: “HIV is for Life”
+        vi: "HIV là suốt đời"
       oneliner:
-        en: “XXX”
-        vi:
-      video: 0113_POC_PRO2_Lem_4_2
-      youtube: -929_4n84Ik
-      type: “community”
+        en: “Once someone has HIV, the best we can do is control the disease. Learn why once you have it, it's with you for life.”
+        vi: “Khi có người mắc HIV, cách duy nhất là kiểm soát căn bệnh. Tìm hiểu tại sao một khi bạn đã mắc phải nó, nó sẽ ở cùng bạn suốt đời.”
+      video: 
+      youtube: YZdYxZ-NLVg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Scientific History”
+        vi: "Lịch sử khoa học"
+      oneliner:
+        en: “The history of HIV research is a long and winding path despite the relatively short time we have been investigating it.  Dr. Ngô Thị Kim Cúc , a HIV specialist doctor gives some detail about how things have progressed.”
+        vi: “Tuy chúng ta mới chỉ điều tra về nó không lâu, lịch sử nghiên cứu HIV là một con đường dài và gian khổ. Bác sĩ Ngô Thị Kim Cúc, một bác sĩ chuyên khoa về HIV cho biết thêm chi tiết về cách mọi thứ đã biến chuyển.”
+      video: 
+      youtube: VrcWdqX7mSI
+      type: “professional”
       image: thumb_placeholder.jpg
 
-- id: 2_2
+- id: 1_2
   chapter_number: "1"
   title:
-    en: "The Disease Trends"
-    vi: "Xu Hướng Bệnh"
+    en: "The Stages of HIV"
+    vi: "Các giai đoạn của HIV"
   content:
-    en: "The global and local trends in malaria show a significant decrease over recent years. However, history shows that the disease has and can emerge when the right factors combine. Right now drug resistance is fast emerging so it's time to keep an eye on places like South-East Asia (and Vietnam) where resistance often starts."
-    vi: "Các xu hướng toàn cầu và địa phương của bệnh sốt rét cho thấy một sự suy giảm đáng kể trong những năm gần đây. Tuy nhiên, lịch sử cho thấy bệnh đã và có thể tăng đột biến nếu có những yếu tố thích hợp tác động lên. Tại thời điểm này kháng thuốc đang gia tăng, vì vậy đã đến lúc chúng ta phải kiểm soát những nơi như Đông Nam Á (Việt Nam), nơi tình trạng kháng thuốc thường khởi đầu."
-  video: 0113_POC_PRO2_2_What_Is_It_2.2
-  youtube: S4AKiYFrEyg
-
-- id: 2_3
-  chapter_number: "1"
-  title:
-    en: "Impact: Professionals"
-    vi: "Tác Động: Các Chuyên Gia"
-  content:
-    en: "Hear what healthcare workers have to say about the damaging impact of malaria on individuals and the communities they come from. What does it do to your body and what is the bigger social and economic impact?"
-    vi: "Nghe các nhân viên y tế nói về các tác động gây hại của bệnh sốt rét lên từng cá nhân và cộng đồng nơi họ sinh sống. Nó sẽ tác động gì vào cơ thể bạn, và tác động lớn hơn vào kinh tế và xã hội?"
-  video: 0113_POC_PRO2_2_What_Is_It_2.3
-  youtube: OKfLHq-v5j4
+    en: “HIV progresses in some well defined stages from the initial infection through to the 3rd stage and AIDS. Hear how it develops over time."
+    vi: "HIV biến chuyển trong một số giai đoạn rõ ràng, từ giai đoạn đầu bị nhiễm trùng đến giai đoạn ba và AIDS. Hãy lắng nghe cách nó phát triển với thời gian."
+  video: 
+  youtube: jpjQB_E8SMk
   extras:
     - title:
-        en: "The Global Cycle"
-        vi: "Chu Kỳ Toàn Cầu"
+        en: “Time to Develop”
+        vi: "Thời gian phát triển"
       oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_What_Is_It_2.3.B1
-      youtube: D0tN9FcBia0
+        en: “When first infected HIV takes a variable time to develop and become more active. Learn how these first stages can progress over time and when symptoms may appear.”
+        vi: “Khi mới bị nhiễm, HIV mất một khoảng thời gian không cố định để phát triển và trở nên năng động hơn. Cùng tìm hiểu cách những giai đoạn tiền đề này có thể tiến triển theo thời gian và khi các triệu chứng có thể xuất hiện.”
+      video: 
+      youtube: SsiVHFOC1yM
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 1_3
+  chapter_number: "1"
+  title:
+    en: “What is AIDS?“
+    vi: "AIDS là gì?"
+  content:
+    en: "Acquired Immune Deficiency Syndrome or AIDS is the last stage of HIV and can often result in death. Because it's a syndrome and not a disease, AIDS is defined by various markers or an "AIDS defining illness"."
+    vi: "Hội Chứng Suy Giảm Miễn Dịch do vi-rút, hay còn gọi là AIDS, là giai đoạn cuối của HIV và thường có thể dẫn đến cái chết. Bởi vì nó là một hội chứng và không phải bệnh, AIDS được xác định bởi các dấu hiệu khác nhau hoặc bởi “bệnh tính AIDS"
+  video: 
+  youtube: Nd_oWAdcgjM
+
+- id: 1_4
+  chapter_number: "1"
+  title:
+    en: “What is CD4?”
+    vi: "CD4 là gì?"
+  content:
+    en: "CD4 is found on the surface of the cells that carry our immunity. They provide essential support to our immunity but also provide a critical measure of HIV."
+    vi: "CD4 được tìm thấy trên bề mặt của các tế bào mang hệ miễn dịch của chúng ta. Chúng mang đến các hỗ trợ thiết yếu cho hệ miễn dịch nhưng cũng cung cấp một thước đo HIV quan trọng."
+  video: 
+  youtube: 96uk8id7njk
+  extras:
     - title:
-        en: “Interrupted Education”
-        vi: "Gián Đoạn Việc Học"
+        en: “CD4 as a Benchmark”
+        vi: "Tiêu chuẩn CD4"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_9
-      youtube: Eis4SR_ccH0
-      type: "community"
+        en: “Learn how CD4 works as a benchmark in monitoring HIV and why it is critical we keep a track of our CD4 count. It’s an important marker but are there others?”
+        vi: “Tìm hiểu cách CD4 hoạt động như một điểm chuẩn trong việc quan sát HIV và tại sao việc chúng ta theo dõi số lượng CD4 lại rất quan trọng. Nó là một dấu hiệu quan trọng nhưng liệu có những dấu hiệu khác?”
+      video: 
+      youtube: XVHB2duen68
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 1_5
+  chapter_number: "1"
+  title:
+    en: "Opportunistic & Co-infections"
+    vi: "Đồng nhiễm & Nhiễm trùng cơ hội"
+  content:
+    en: "The "S" in AIDS refers to it being a syndrome: a series of diseases not a singular pathogen. This means that AIDS can be defined by a long list of other potential infections that arrive through the opportunities caused by HIV and low immunity. The two main types of infection are “co-infections” and “opportunistic-infections”."
+    vi: "Chữ “S” trong AIDS để chỉ nó là một Hội Chứng: một loạt các bệnh mà không có mầm bệnh. Điều này có nghĩa là AIDS có thể được xác định bởi một danh sách dài các khả năng nhiễm trùng khác xuất hiện từ các khả năng gây ra bởi HIV và hệ miễn dịch yếu. Hai dạng nhiễm trùng chính là “đồng nhiễm” và “nhiễm trùng cơ hội”.”
+  video: 
+  youtube: ZLe6eQ_tOrA
+  extras:
+    - title:
+        en: "Co-infection Transmission Paths"
+        vi: "Đường lây bệnh đồng nhiễm"
+      oneliner:
+        en: “Learn how Co-infections take advantage of how HIV is transmitted and becomes common in people living with HIV.”
+        vi: “Tìm hiểu cách Đồng Nhiễm lợi dụng cách HIV lây truyền và trở nên phổ biến ở những người sống chung với HIV.”
+      video: 
+      youtube: adhmQ1y_Axg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Researching Opportunistic Infections"
+        vi: "Nghiên cứu nhiễm trùng cơ hội"
+      oneliner:
+        en: “There is a lot of research into HIV related infections in Vietnam. Look through this and the next films to understand what is being done.”
+        vi: “Có rất nhiều nghiên cứu về các bệnh nhiễm trùng liên quan đến HIV ở Việt Nam. Xem qua phim này và các phim tiếp theo để hiểu hơn về những gì đang được thực hiện.”
+      video: 
+      youtube: MLjFRnI-o_M
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: "Hepatitis Co-Infections"
+        vi: "Đồng nhiễm gan"
+      oneliner:
+        en: “Hepatitis is one of the most common Co-infections and is highly prevalent in Vietnam even outside the HIV+ community. Hear more on its impact in this video.”
+        vi: “Viêm gan là một trong những đồng nhiễm phổ biến nhất và cực kỳ hay gặp tại Việt Nam, thậm chí cả ở ngoài cộng đồng HIV+. Hãy lắng nghe thêm về ảnh hưởng của nó trong video này.”
+      video: 
+      youtube: _etYJ_F089U
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: "An Opportunistic Infection"
+        vi: "Bệnh nhiễm trùng cơ hội"
+      oneliner:
+        en: “Meet Dr. Jeremy Day, one of the dedicated researchers investigating opportunistic infections around the world. Hear what work he is doing on a specific infection in Vietnam.”
+        vi: “Gặp bác sĩ Jeremy Day, một trong những nhà nghiên cứu tận tuỵ trong việc điều tra các nhiễm trùng cơ hội trên khắp thế giới.”
+      video: 
+      youtube: zKPzf59gBFg
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+# Chapter 2
+- id: 2_1
+  chapter_number: "2"
+  title:
+    en: "Transmission Paths"
+    vi: "Đường lây truyền"
+  content:
+    en: "In general HIV is transmitted by the passing of bodily fluids, but watch here to learn why it can only be passed on under very specific conditions. This is why HIV/AIDS tends to affect certain risk groups rather than the general population."
+    vi: "HIV  nhìn chung lây truyền qua trao đổi dịch cơ thể, nhưng hãy tìm hiểu xem ở đây tại sao HIV chỉ lây qua các trường hợp cụ thể. Đây là lý do tại sao HIV/AIDS thường tác động các nhóm nguy cơ hơn là đại số đông dân chúng."
+  video: 
+  youtube: RpStc6Uingk
+  extras:
+    - title:
+        en: “Bodily Fluids”
+        vi: "Dịch cơ thể"
+      oneliner:
+        en: “Yes HIV highly infectious but here we learn more about the specific ways bodily fluids might help in transmitting it.”
+        vi: “Đúng vậy HIV có độ lây nhiễm cao nhưng chúng ta sẽ biết thêm về cách dịch cơ thể giúp truyền bệnh.”
+      video: 
+      youtube: kELtNpeKoHk
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 2_2
+  chapter_number: "2"
+  title:
+    en: "Transmission History"
+    vi: "Lịch sử các đường lây"
+  content:
+    en: "Transmission has happened more often in different risk groups over time, which provides an interesting picture of the epidemic and the problems it has created."
+    vi: "Thời gian vừa qua hiện tượng lây nhiễm xảy ra cao hơn trong các nhóm nguy cơ, tạo một bức tranh thú vị về dịch và những vấn đề nó tạo ra."
+  video: 
+  youtube: _0NnPf8S_Kw
+
+- id: 2_3
+  chapter_number: "2"
+  title:
+    en: “Changing Risks“
+    vi: "Thay đổi về nguy cơ"
+  content:
+    en: "Risk taking is an essential factor of HIV transmission in places such as Vietnam where the biggest impact of the infection has been in high-risk communities. Hear more about how the how the risks have changed over time.”
+    vi: "Hành vi nguy cơ là một trong những yếu tố quan trọng trong việc lây truyền HIV tại các nước như Việt Nam nơi mà tác động lớn nhất của dịch được ghi nhận ở cộng đồng  nguy cơ cao. Hãy nghe thêm về các xu hướng nguy cơ đã thay đổi qua thời gian như thế nào. "
+  video: 
+  youtube: tuD6crycEh4
+  extras:
+    - title:
+        en: “Changes for IDU”
+        vi: "Thay đổi với nhóm IDU"
+      oneliner:
+        en: “Historically, intravenous drug use (IDU) has represented the highest HIV infection risk in Vietnam, due to people sharing needles and therefore often exchanging blood. Learn how things have changed for this community.”
+        vi: “Về mặt lịch sử,  nguy cơ lây nhiễm HIV tại Việt Nam tập trung phần lớn ở nhóm người sử dụng tiêm chích ma tuý, đa phần vì việc sử dụng chung kim chích và vì vậy trao đổi máu. Hãy tìm hiểu thêm về những thay đổi trong cộng đồng này.”
+      video: 
+      youtube: Fc7SyRoODts
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Changes for Sex Workers”
+        vi: "Thay đổi với nhóm Sex workers "
+      oneliner:
+        en: “Commercial Sex work (CSW) have been carried the other great burden of HIV infections in Vietnam. Hear how risk has changed for this community.”
+        vi: “Nhóm lao động tình dục (CSW) cũng là cộng đồng chia sẻ gánh nặng tỉ lệ lây nhiễm HIV tại Việt Nam. Hãy lắng nghe các nguy cơ đã thay đổi như thế nào cho cộng đồng này.”
+      video: 
+      youtube: 6xSW6-HtVrg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Changes for MSM”
+        vi: "Thay đổi với nhóm MSM "
+      oneliner:
+        en: “Men who have sex with men (MSM) are the third most significant risk group and throughout the world they have been heavily affected by the HIV/AIDS pandemic.   Find out how risk has changed for this community.”
+        vi: “Nam quan hệ tình dục với nam (MSM) là nhóm nguy cơ cao thứ 3 và trên thế giới họ đã bị ảnh hưởng nặng nề bởi dịch HIV/ AIDS. . Hãy tìm hiểu thêm về những thay đổi trong cộng đồng này.”
+      video: 
+      youtube: EWEQO87BCZA
+      type: “professional”
       image: thumb_placeholder.jpg
 
 
 - id: 2_4
-  chapter_number: "1"
+  chapter_number: "2"
   title:
-    en: "Impact: Community"
-    vi: "Tác Động: Cộng Đồng"
+    en: "Stigma & Transmission"
+    vi: "Kỳ thị & Đường lây"
   content:
-    en: "Malaria is often said to be a social, economic and health affecting disease. Hear from communities about how malaria has affected them directly."
-    vi: "Sốt rét thường được cho là một căn bệnh ảnh hưởng đến kinh tế, xã hội và sức khỏe. Hãy lắng nghe những thành viên cộng đồng chia sẻ căn bệnh sốt rét đã tác động trực tiếp đến họ như thế nào?"
-  video: 0113_POC_PRO2_What_Is_It_2.4
-  youtube: rhNcNCjroSM
+    en: "The discrimination experienced by people living with HIV has created significant transmission problems. In countries such as Vietnam it has had a massive impact on our ability to control the infection rate."
+    vi: "Vấn đề kỳ thị mà người sống chung với HIV phải đối mặt đã tạo ra vấn đề lây nhiễm trầm trọng. Tại các nước như Việt Nam nó đã ảnh hưởng rất lớn đến khả năng kiểm soát mật độ lây nhiễm."
+  video: 
+  youtube: HtAFLy_uFes
+
 
 - id: 2_5
-  chapter_number: "1"
+  chapter_number: "2"
   title:
-    en: "Risk Behaviour"
-    vi: "Hành Vi Nguy Cơ"
+    en: "Maternal Transmission"
+    vi: "Đường truyền từ mẹ sang con"
   content:
-    en: "The conditions that keep malaria going in Vietnam are very different to places such as Africa, where the disease has a much higher death toll. Here, the people who get sick tend to only be members of high-risk groups who need to go deep into malaria rich forests to earn their living."
-    vi: "Các điều kiện khiến bệnh sốt rét vẫn còn đang hoành hành ở Việt Nam rất khác những nơi như Châu Phi, nơi mà căn bệnh này gây ra số tử vong lớn hơn rất nhiều. Ở đây, những người bị bệnh chủ yếu là những người trong nhóm có nguy cơ cao, phải đi vào rừng sâu, vùng sốt rét để kiếm sống."
-  video: 0113_POC_PRO2_What_Is_It_2.5
-  youtube: AnMSpL--2tEs
+    en: "When HIV is passed on from a pregnant mother to her child before, during or after the birth, it is called Maternal or Mother-to-Child transmission. They are not known as a “high-risk” group but they do represent a significant HIV challenge in Vietnam."
+    vi: "Khi HIV được truyền từ thai phụ sang con trước, trong khi hoặc sau khi sinh, hiện tượng này được gọi là lây truyền từ Mẹ - sang –Con. Đây không phải là nhóm nguy cơ cao nhưng đại diện cho một trong những thử thách đáng kể trong công tác phòng chống HIV."
+  video: 
+  youtube: Es8-du1D97E
   extras:
     - title:
-        en: "Free Flow migration"
-        vi: "Di Dân Tự Do"
+        en: “Impact of Care"
+        vi: "Tác động của dịch vụ chăm sóc"
       oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_What_Is_It_2.5.B1
-      youtube: AAtlDCfICto
-    - title:
-        en: "The Mosquito"
-        vi: "Con Muỗi"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_What_Is_It_2.5.B2
-      youtube: nqr7Cjhg-44
-    - title:
-        en: "Risk in the Forest"
-        vi: "Nguy Cơ Trong Rừng"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_2_What_Is_It_2.5.B3
-      youtube: n6uFZop4IW8
+        en: “Hear how effective care is when introduced at different stages in a pregnancy and learn how well babies are protected as a result.”
+        vi: “Hãy nghe thêm về các các dịch vụ chăm sóc hiệu quả đã được áp dụng ở các thời kỳ khác nhau của thai kỳ và biết thêm nhờ vậy trẻ sơ sinh được bảo vệ toàn diện như thế nào.”
+      video: 
+      youtube: 9EjXbyt7kms
+      type: “professional”
+      image: thumb_placeholder.jpg
 
 - id: 2_6
-  chapter_number: "1"
+  chapter_number: "2"
   title:
-    en: "Border Challenges"
-    vi: "Thách Thức tại Biên Giới"
+    en: “Adolescent Risks”
+    vi: "Nguy cơ với trẻ vị thành niên"
   content:
-    en: "Any border area is hard to control but when that border is covered in rich green forests and plantations - like Binh Phuoc - the task of control seems near impossible. Learn what makes fluid human movement around the border so good for malaria and so bad for those who need to work in the forested areas and plantations."
-    vi: "Bất kỳ khu vực biên giới nào cũng khó kiểm soát, nhưng biên giới được phủ bởi rừng xanh và nương rẫy - như Bình Phước - công việc quản lý dường như bất khả thi. Tìm hiểu thêm điều gì khiến sự dịch chuyển của con người ở gần biên giới có lợi cho bệnh sốt rét, và có hại cho những người phải làm việc trong rừng và nương rẫy."
-  video:  0113_POC_PRO2_What_Is_It_2.6
-  youtube: MB3amVLqF9c
-
+    en: "Most young people with HIV have been infected by their mother unknowingly in pregnancy or the birth. Hear about some of the risks for young people who are HIV positive."
+    vi: "Đa phần người trẻ sống chung với HIV bị lây nhiễm bởi mẹ của họ một cách vô tình khi mang thai hoặc khi sinh. Hãy nghe thêm về những nguy cơ họ phải đối mặt."
+  video: 
+  youtube: Ua4-UVAThVw
+    
 - id: 2_7
-  chapter_number: "1"
-  title:
-    en: "The Research"
-    vi: "Nghiên Cứu"
-  content:
-    en: "Over recent years, science has had the upper hand over malaria, with some help from changing weather patterns. However, without continuing research it is clear that malaria is mounting a new attack and would soon be ready to return with growing drug resistance. Hear what local scientist are doing to stay in front and keep malaria under control and heading towards elimination."
-    vi: "Trong những năm gần đây, khoa học đã tiến xa hơn bệnh sốt rét với sự giúp đỡ từ việc thay đổi thời tiết. Tuy nhiên, nếu không tiếp tục việc nghiên cứu, có thể thấy rõ là bệnh sốt rét đang chuẩn bị tấn công trở lại, và kèm theo đó là sự gia tăng của tình trạng kháng thuốc. Hãy xem những nhà khoa học địa phương đang làm gì để ngăn chặn, kiểm soát và tiến hành loại bỏ sốt rét."
-  video: 0113_POC_PRO2_What_Is_It_2.7
-  youtube: wenyqLM8WlA
-
-
-
-# Chapter 2
-- id: 3_1
   chapter_number: "2"
   title:
-    en: "Seasonality"
-    vi: "Tính Mùa Vụ"
+    en: “Changes for Community Groups”
+    vi: "Thay đổi cho các nhóm cộng đồng"
   content:
-    en: "Malaria is mosquito born, so the amount of the disease around is heavily determined by the seasons and weather. Hear about the local factors that drive malaria and how the seasons and weather affect the amount of disease we see."
-    vi: "Sốt rét là do muỗi sinh ra, vì vậy số người mắc bệnh phụ thuộc rất nhiều vào mùa màng và thời tiết. Lắng nghe về những yếu tố địa phương dẫn đến sốt rét, và mùa màng, thời tiết đã ảnh hưởng đến tần suất sốt rét chúng ta thấy."
-  video: 0113_POC_PRO2_Transmission_3.1
-  youtube: 8kMKL7lAMEg
-  extras:
-    - title:
-        en: “Mosquitoes and Seasons”
-        vi: "Muỗi và Mùa Màng"
-      oneliner:
-        en: “XXX”
-        vi:
-      video: 0113_POC_PRO2_Lem_4_7
-      youtube: HYp-E2m8M7I
-      type: “community”
-      image: thumb_placeholder.jpg
-
-- id: 3_2
-  chapter_number: "2"
-  title:
-    en: "Local Transmission"
-    vi: "Lây Nhiễm Tại Địa Phương"
-  content:
-    en: "There are quite a number of unique factors that decide just how much malaria we see in this border area of Vietnam and Cambodia. Hear what the local healthcare workers have observed and learnt over time as they fight to control malaria in the region."
-    vi: "Có nhiều yếu tố riêng biệt để xác định số lượng sốt rét mà ta thấy ở vùng biên giới Việt Nam và Campuchia. Lắng nghe các nhân viên y tế địa phương nói về những gì họ đã quan sát và học hỏi theo thời gian khi họ chiến đấu để kiểm soát sốt rét trong khu vực."
-  video: 0113_POC_PRO2_Transmission_3.2
-  youtube: RHctIUGECjU
-
-- id: 3_3
-  chapter_number: "2"
-  title:
-    en: "New Mosquito Behaviour"
-    vi: "Hành Vi Mới Của Muỗi"
-  content:
-    en: "There are a number of important changes that have affected the mosquito lifecycle in the region. Learn how their biting behaviour has changed so they now bite all day and night. Also, learn how the drastic changes to the local environment has changed life for the mosquito."
-    vi: "Có nhiều sự thay đổi quan trọng đã ảnh hưởng đến vòng đời của con muỗi trong khu vực. Tìm hiểu hành vi cắn đã thay đổi thế nào khiến chúng bây giờ cắn cả ban ngày và ban đêm. Ngoài ra tìm hiểu việc môi trường biến đổi mạnh mẽ đã thay đổi vòng đời của muỗi như thế nào."
-  video: 0113_POC_PRO2_Transmission_3.3
-  youtube: Z2CLGix1VTo
-
-- id: 3_4
-  chapter_number: "2"
-  title:
-    en: "Transmission Challenges"
-    vi: "Thách Thức Từ Lây Nhiễm"
-  content:
-    en: "Why is Binh Phuoc and the Cambodian border still such a hotspot for malaria?  There are plenty of reasons that controlling malaria here is still such a challenge."
-    vi: "Tại sao Bình Phước và biên giới Campuchia vẫn là một điểm nóng về sốt rét? Có rất nhiều lý do để việc quản lý sốt rét ở đây vẫn còn là một thách thức."
-  video: 0113_POC_PRO2_Transmission_3.4
-  youtube: JHF8BVP5ySQ
-
-
-- id: 3_5
-  chapter_number: "2"
-  title:
-    en: "The Risk Groups"
-    vi: "Các Nhóm Nguy Cơ"
-  content:
-    en: "The very nature of malaria in this region is driven exclusively by risk groups.  These are various workers who rely on the forests and plantations to generate an income - both legally and illegally. Sometimes with whole families but often just men alone, in these poorer border regions, the forests are a magnet for those with few options for making money to support their families."
-    vi: "Bản chất thật sự của bệnh sốt rét trong khu vực này là nó chỉ tồn tại mạnh mẽ trong nhóm nguy cơ cao. Đây là những tầng lớp lao động khác nhau dựa vào rừng rẫy để kiếm thu nhập, cả hợp pháp và bất hợp pháp. Đôi khi với các gia đình, nhưng thường là đàn ông, trong những khu vực biên giới nghèo, rừng là một nam châm cho những người ít lựa chọn để kiếm tiền phụ giúp gia đình."
-  video: 0113_POC_PRO2_Transmission_3.5
-  youtube: TfcM8pyIP0g
-  extras:
-    - title:
-        en: "Life in the Forest"
-        vi: "Cuộc Sống Trong Rừng"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Transmission_3.5.B1
-      youtube: C7hfqYdZ1Rg
-    - title:
-        en: “Hung Falls Sick“
-        vi: "Hùng Ngả Bệnh"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_1
-      youtube: fLyx3nrTsqg
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Getting Bitten“
-        vi: "Bị Cắn"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_4
-      youtube: dqcEYgcS4nA
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Communities in the Forest“
-        vi: "Cuộc Sống Trong Rừng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_10
-      youtube: LGjjuxARk2Y
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Supplies in the Forest“
-        vi: "Dụng Cụ Đi Rừng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_11
-      youtube: fVvsVC-qVVg
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Health Risks“
-        vi: "Nguy Cơ Sức Khỏe"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_12
-      youtube: 0Sl0qb_hAB8
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Risk at Work”
-        vi: "Nguy Cơ Tại Công Việc "
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_1
-      youtube: kgl3SH6i7N8
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Loss of Income”
-        vi: "Hao Hụt Thu Nhập"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_4
-      youtube: dSlqr6NcWW8
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Income for Risk”
-        vi: "Thu Nhập Cho Nguy Cơ"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_8
-      youtube: 7Vy3_694lBE
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Improved Health”
-        vi: "Sức Khỏe Được Cải Thiện"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_10
-      youtube: RSVCQuySWhA
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Income and Migrants”
-        vi: "Thu Nhập và Dân Nhập Cư"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_6
-      youtube: A6zXL4LbOQ0
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Risk of the Forest”
-        vi: " Nguy Cơ Của Rừng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_9
-      youtube: LeHxnMYGyag
-      type: "community"
-      image: thumb_placeholder.jpg
-
+    en: "The work of community groups is critical in controlling HIV and supporting people who live with HIV.  Hear how their work has changed over time and what they think might be in store in the near future."
+    vi: "Công việc của nhóm cộng đồng là rất quan trọng trong công tác phòng chống HIV và hỗ trợ người sống chung với HIV. Hãy nghe về công việc của họ đã thay đổi như thế nào và điều gì đang chờ đón họ trong tương lai."
+  video: 
+  youtube: DVcSKdqZmA8
 
 
 # Chapter 3
-- id: 4_1
+- id: 3_1
   chapter_number: "3"
   title:
-    en: "Research and Benefits"
-    vi: "Nghiên Cứu và Lợi Ích"
+    en: “Past Methods“
+    vi: "Các phương pháp cũ"
   content:
-    en: "Learn more about what malaria research is trying to achieve right now. At the same time, learn how research aims to help the risk-groups and broader community."
-    vi: "Tìm hiểu thêm những gì nghiên cứu bệnh sốt rét đang cố gắng đạt được hiện tại. Đồng thời, tìm hiểu những gì nghiên cứu đang cố gắng giúp đỡ các nhóm nguy cơ cao, và cộng đồng lớn."
-  video: 0113_POC_PRO2_Prevention_4.1
-  youtube: pMIYLRD181k
-
-- id: 4_2
-  chapter_number: "3"
-  title:
-    en: "Past Prevention"
-    vi: "Phòng Chống Trong Quá Khứ"
-  content:
-    en: "A lot has changed in the recent decades with regard to malaria prevention and control. Hear what has changed over time and learn how things have come more targeted and effective now there are more resources and better drugs available - all provided for free by the government or by major organisations such as the United Nations World Health Organisation (WHO)."
-    vi: "Trong những thập kỷ gần đây, nhiều thứ đã thay đổi trong việc quản lý và phòng chống sốt rét. Hãy nghe những gì đã thay đồi qua thời gian và tìm hiểu xem mọi thứ đã có mục tiêu rõ ràng hơn, và hiệu quả hơn như thế nào khi đã có nhiều nguồn lực hơn, và thuốc tốt cũng nhiều hơn hơn - tất cả đều được hỗ trợ miễn phí bởi chính phủ hay các tổ chức quốc tế lớn như Liên Hợp Quốc và Tổ Chức Y tế Thế Giới."
-  video: 0113_POC_PRO2_Prevention_4.2
-  youtube: VwnhYKwJoMw
+    en: "Approaches to preventing HIV transmission have changed over time, especially in how the risks of HIV was communicated. From the infamous fear campaigns to the brighter future presented today, the history of HIV control is an interesting one."
+    vi: "Các cách tiếp cận để phòng chống lây nhiễm HIV đã thay đổi theo thời gian, đặc biệt trong cách các nguy cơ HIV được truyền đạt.Từ các chiến dịch nỗi sợ tai tiếng đến một tương lai tươi sáng được giới thiệu ngày nay, lịch sử của kiểm soát HIV khá thú vị."
+  video: 
+  youtube: uRn06FFRRJo
   extras:
     - title:
-        en: “Community Attitudes“
-        vi: "Phòng Chống Trong Qúa Khứ"
+        en: “Tailoring Activities”
+        vi: "Thiết kế hoạt động"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_3
-      youtube: kRoycCFIukY
-      type: "community"
+        en: “Learn how prevention activities have been tailored to suit different risk groups over time. Sex workers, injecting drug users and Men who have sex with men, all take unique HIV risks so they need special approaches.”
+        vi: “Tìm hiểu về cách các hoạt động phòng ngừa đã được thiết kế để phù hợp với các nhóm nguy cơ khác nhau theo thời gian. Người làm mại dâm, người tiêm chích ma tuý và những người đàn ông quan hệ tình dục với nhau, tất cả đều nhận những rủi ro HIV khác nhau nên họ cần các biện pháp tiếp cận đặc biệt.”
+      video: 
+      youtube: XWld2U9Qq-I
+      type: “professional”
       image: thumb_placeholder.jpg
-
-- id: 4_3
-  chapter_number: "3"
-  title:
-    en: "Challenges in Prevention"
-    vi: "Thách Thức Trong Phòng Chống"
-  content:
-    en: "Prevention is the key to malaria control and elimination and there is one seemingly simple principle for malaria control: reduce the number of Anophelene mosquito bites and mosquitoes. However, there are a number of social, scientific, economic and organisational barriers to this solution that makes disease control an ongoing concern."
-    vi: "Phòng ngừa là biện pháp để kiểm soát và loại trừ sốt rét, và nó có 1 nguyên tắc tưởng chừng như đơn giản: giảm số lượng muỗi và vết cắn của muỗi An-do-phe. Mặc dù vậy, có nhiều rào cản kinh tế, xã hội, khoa học và cả tổ chức tác động đến giải pháp này, và làm cho việc quản lý bệnh vẫn là một mối quan ngại."
-  video: 0113_POC_PRO2_Prevention_4.3
-  youtube: GkWZq0uUZYs
   extras:
     - title:
-        en: "Dipping and Spraying"
-        vi: "Phun và Tẩm"
+        en: “City Strategy”
+        vi: "Chiến lược của thành phố"
       oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.3.B1
-      youtube: vZwQbjNzULU
-    - title:
-        en: “Bednets & Spraying“
-        vi: "Tẩm Mùng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_9
-      youtube: aWgdmO8fZ6o
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Don’t Like Bendnets“
-        vi: "Không Thích Màn"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_2
-      youtube: 2VklrrmZr1w
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Husband Doesn’t Take Bednets“
-        vi: "Chồng Không Lấy Mùng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_5
-      youtube: 5HbmVdxGnOw
-      type: "community"
+        en: “Many people are proud of the work done by the Provincial AIDS Committee in Ho Chi Minh City, who was one of the first groups set up to fight the initial HIV outbreak in Vietnam in the early 1990’s. Hear what their strategy has been and how it worked. ”
+        vi: “Nhiều người rất tự hào về những gì đã được thực hiện bởi Uỷ ban Phòng chống AIDS cấp Tỉnh tại thành phố Hồ Chí Minh, một trong những nhóm đầu tiên được thành lập để chiến đấu với đại dịch bùng phát HIV đầu tiên tại Việt Nam đầu những năm 90. Lắng nghe về chiến dịch của họ và cách nó hoạt động.”
+      video: 
+      youtube: MCFaZEpsiXs
+      type: “professional”
       image: thumb_placeholder.jpg
 
-- id: 4_4
-  chapter_number: "3"
-  title:
-    en: "Other Prevention Ideas"
-    vi: "Những Ý Tưởng Phòng Chống Khác"
-  content:
-    en: "There are many important factors and methods for controlling malaria and so here are some other essential ideas.  See how much there is we can do?!"
-    vi: "Có rất nhiều yếu tố quan trọng và phương pháp để quản lý bệnh sốt rét, và đây là một vài ý tưởng thiết yếu khác. Bạn đã thấy chúng ta có thể làm được những gì chưa?!"
-  video: 0113_POC_PRO2_Prevention_4.4
-  youtube: Tpxib7YhmhE
 
-- id: 4_5
+- id: 3_2
   chapter_number: "3"
   title:
-    en: "Poverty Reduction"
-    vi: "Giảm Nghèo"
+    en: “Funding Prevention"
+    vi: "Nguồn tài trợ cho việc phòng ngừa"
   content:
-    en: "Poverty and family incomes are a key aspect that keeps malaria alive in this part of the world. However, there are already a number of strategies in place to help fight this difficult aspect of the disease. How well do these projects work and are they good at reaching those most in need?"
-    vi: "Nghèo và thu nhập gia đình là một khía cạnh chủ đạo làm cho bệnh sốt rét vẫn còn tồn tại ở khu vực này trên thế giới. Tuy nhiên, đã có nhiều chiến lược được đặt ra để đối phó với vấn đề nan giải này của bệnh. Làm sao để những dự án này có kết quả và đến được với những người cần chúng?"
-  video: 0113_POC_PRO2_Prevention_4.5
-  youtube: BcluW19Tlo8
-
-- id: 4_6
-  chapter_number: "3"
-  title:
-    en: "Prevention Communication"
-    vi: "Phòng Chống Qua Truyền Thông"
-  content:
-    en: "As you know by now, communication and prevention are the key aspects of disease control when it comes to malaria in this region. Here we discuss how prevention communication works and how it has changed over time."
-    vi: "Như bạn đã biết, truyền thông và phòng ngừa chính là những khía cạnh chủ đạo của việc kiểm soát bệnh khi nói đến sốt rét ở khu vực này. Ở đây chúng ta thảo luận về truyền thông phòng ngừa và nó đã thay đổi thế nào qua thời gian."
-  video: 0113_POC_PRO2_Prevention_4.6
-  youtube: CMCkpgnjj_c
+    en: "As a low-income, developing nation, Vietnam has used its initiative to do what it can in controlling HIV. However, the introduction of significant international funding through major global organisations has pushed control forward at a rapid rate. This has been great for the country and for the HIV+ communities but now Vietnam has an improved financial status. What’s the next step in funding their fight against HIV?"
+    vi: "Là một đất nước đang phát triển với thu nhập thấp, Việt Nam đã sử dụng sáng kiến của mình để làm những gì có thể để kiểm soát HIV. Tuy nhiên, sự ra đời của các nguồn tài trợ quốc tế quan trọng thông qua các tổ chức lớn toàn cầu đã thúc đẩy việc kiểm soát với tốc độ nhanh chóng.Điều này đã rất tuyệt vời cho đất nước và cho các cộng đồng HIV+ nhưng hiện nay Việt Nam đang có tình hình tài chính cải thiện. Bước tiếp theo trong việc tài trợ cho cuộc chiến chống lại HIV là gì?"
+  video: 
+  youtube: 7SjStWwijbI
   extras:
     - title:
-        en: "Connection with Minorities"
-        vi: "Kết Nối Với Người Dân Tộc"
+        en: “Financial Challenges“
+        vi: "Thử thách kinh phí"
       oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.6.B1
-      youtube: LtbUJlh4Ogs
-    - title:
-        en: "At the Border"
-        vi: "Tại Biên Giới"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.6.B2
-      youtube: -R2fvYy39r1o
-    - title:
-        en: “Sanitizing The Home”
-        vi: "Vệ Sinh Nhà Cửa"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_3
-      youtube: lQ0uzlVufWs
-      type: "community"
+        en: “Learn more about the challenges faced around the country as Vietnam seeks to develop a system that can efficiently and sustainably ensure HIV care into the long term – critical given the lifelong need for treatment for HIV+ communities.”
+        vi: "Tìm hiểu thêm về các thách thức phải đối mặt trên khắp đất nước khi Việt Nam tìm kiếm cách phát triển một hệ thống có thể đảm bảo một cách hiệu quả và bền vững cách chăm sóc HIV trong thời gian dài – rất quan trọng trong bối cảnh cần cả một đời người để điểu trị cho cộng đồng HIV+."
+      video: 
+      youtube: H1x9IxyXmY4
+      type: “professional”
       image: thumb_placeholder.jpg
     - title:
-        en: “Awareness and Methods”
-        vi: "Nhận Thức và Phương Thức"
+        en: “Change: Impact & Goals“
+        vi: "Thay đổi: Tác động & Mục tiêu"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_7
-      youtube: _XD1wXK5iLU
-      type: "community"
+        en: “How will the change in HIV control funding affect the activities and communities. What goals do we set for the future of HIV care and control?”
+        vi: "Sự thay đổi trong tài trợ chống HIV sẽ ảnh hưởng đến các hoạt động và cộng đồng như thế nào. Chúng ta đặt ra những mục tiêu gì cho tương lai của dịch vụ chăm sóc và kiểm soát HIV?"
+      video: 
+      youtube: VgyuQarD1XU
+      type: “professional”
       image: thumb_placeholder.jpg
 
-- id: 4_7
+
+- id: 3_3
   chapter_number: "3"
   title:
-    en: "Resource Shortages"
-    vi: "Thiếu Hụt Nguồn Lực"
+    en: “Outreach Channels”
+    vi: "Các kênh tiếp cận"
   content:
-    en: "Any large-scale system like the one fighting malaria needs resources. Listen here to Mr. Quan, head of the Malaria Centre in Binh Phuoc as he honestly explains what resources would help them improve their success against malaria. Find out what it would take to further dent the grip of malaria over Binh Phuoc and the border region."
-    vi: "Bất kỳ một hệ thống quy mô lớn nào, như chiến đấu với sốt rét, đều cần nguồn lực. Hãy nghe ông Quân, Trưởng Viện Sốt Rét ở Bình Phước thật lòng trình bày những nguồn lực sẽ giúp ích thế nào cho sự thành công của họ trong việc chống lại sốt rét. Tìm hiểu thêm chúng ta cần gì để phá vỡ gọng kìm kẹp của bệnh sốt rét ở Bình Phước và các vùng biên giới."
-  video: 0113_POC_PRO2_Prevention_4.7
-  youtube: OK5kTwdkW90
+    en: "How do prevention messages and activities reach their target? With such different groups affected by HIV/AIDS the methods for outreach must be broad and varied."
+    vi: "Làm thế nào để các thông điệp và các hoạt động phòng chống đạt được mục tiêu của chúng? Với các nhóm khác nhau bị ảnh hưởng bởi HIV/AIDS các phương pháp tiếp cận phải được mở rộng và đa dạng."
+  video: 
+  youtube: UnwJ2jh-3lU
 
-- id: 4_8
+- id: 3_4
   chapter_number: "3"
   title:
-    en: "Current Prevention"
-    vi: "Phòng Chống Hiện Nay"
+    en: “The Peer Model“
+    vi: "Mô hình đồng đẳng viên"
+  content:
+    en: "The peer model has been highly valued in Vietnam, allowing care and support to reach those most in need, as provided by people from the same community. Learn how the peer model has been widely used in different ways in Vietnam."
+    vi: "Mô hình đồng đẳng đã được đánh giá cao tại Việt Nam, cho phép chăm sóc và hỗ trợ để đến được với những người cần nhất, được cung cấp bởi những người trong cùng một cộng đồng. Tìm hiểu làm thế nào mô hình đồng đẳng đã được sử dụng rộng rãi trong nhiều cách khác nhau tại Việt Nam."
+  video: 
+  youtube: GKbwBrGBCRs
+  extras:
+    - title:
+        en: “Success in HCMC“
+        vi: "Thành công tại TPHCM"
+      oneliner:
+        en: “Explore how peer power has been extremely valuable with those who are potentially HIV+, seeing more people tested and cared for as a result in Ho Chi Minh City.”
+        vi: "Khám phá mô hình đồng đẳng đã rất có giá trị với những người có khả năng nhiễm HIV+ như thế nào, xem kết quả về nhiều người đã được thử nghiệm và chăm sóc tại thành phố Hồ Chí Minh."
+      video: 
+      youtube: Ye74dgqW0gg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Organising Peers“
+        vi: "Phối hợp đồng đẳng viên"
+      oneliner:
+        en: “Plenty of training, lots of time and heaps of compassion; hear what goes into making a peer program successful.”
+        vi: "Rất nhiều huấn luyện, rất nhiều thời gian và đống từ bi; lắng nghe những cần làm để một chương trình đồng đẳng thành công."
+      video: 
+      youtube: _6dBG_GHnBk
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “New Peer Models“
+        vi: "Các mô hình đồng đẳng viên mới"
+      oneliner:
+        en: “When budgets get cut then we need to think carefully about how to get the most benefit out of our activities. Discover what Ho Chi Minh City is considering in terms of its future approach in peer counselling.”
+        vi: "Khi ngân sách bị cắt giảm chúng ta cần phải suy nghĩ cẩn thận làm thế nào để có được lợi ích nhiều nhất từ các hoạt động của mình. Hãy khám phá thành phố Hồ Chí Minh đang cân nhắc gì về cách tiếp cận tương lai của mình trong tư vấn đồng đẳng."
+      video: 
+      youtube: QSCrM849SCY
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+
+- id: 3_5
+  chapter_number: "3"
+  title:
+    en: “Peer Challenges“
+    vi: "Thách thức với đồng đẳng viên"
+  content:
+    en: "The work of community peers involved in HIV prevention is challenging to say the least. Having to deal with their own life challenges is tricky enough given the personal history of most peers. Learn what makes life hard for these community heroes."
+    vi: "Cong việc của các giáo dục viên đồng đẳng cộng đồng tham gia phòng chống HIV là thử thách lớn. Phải đối phó với những thách thức cuộc sống riêng của họ là đủ khó khăn cho lịch sử cá nhân của hầu hết các đồng đẳng viên khác. Tìm hiểu những gì làm cuộc sống khó khăn cho những anh hùng cộng đồng này."
+  video: 
+  youtube: I5IUknaBSfg
+  extras:
+    - title:
+        en: “Peer Development“
+        vi: "Phát triển đồng đẳng viên"
+      oneliner:
+        en: “A lot goes into making a valuable peer counsellor.  Watch this video to learn more about what they do and how they are trained for this important job.”
+        vi: "Cần rất nhiều thứ để tạo nên một tư vấn viên đồng đẳng có giỏi. Xem video này để tìm hiểu thêm về những gì họ làm và họ được đào tạo cho công việc quan trọng này như thế nào."
+      video: 
+      youtube: zvKNqnOKrVA
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 3_6
+  chapter_number: "3"
+  title:
+    en: "Peer Training & Review"
+    vi: "Đào tạo và đánh giá đồng đẳng viên"
+  content:
+    en: "Training is critical in any job but dealing with the challenges of HIV prevention and counselling is no walk in the park. Hear from Vũ Ngọc Thuý Phương  as we learn what goes into making a good peer counsellor."
+    vi: "Đào tạo rất quan trọng trong bất kỳ công việc nào nhưng đối phó với những thách thức về phòng chống HIV và tư vấn thì không phải cuộc đi bộ trong công viên. Lắng nghe từ Vũ Ngọc Thuý Phương, khi chúng tôi tìm hiểu những gì cần làm để tạo nên một tư vấn viên đồng đẳng tốt."
+  video: 
+  youtube: qEFPUVQKkjI
+  extras:
+    - title:
+        en: “Training Challenges“
+        vi: "Thách thức trong đào tạo"
+      oneliner:
+        en: "As we said in the film before, being a peer counsellor isn’t easy. Hear what makes it challenging to ensure that the peer workforce is well trained and able to keep people in the care they need.”
+        vi: ”Như chúng tôi đã nói trong các bộ phim trước, là một tư vấn viên đồng đẳng là không dễ dàng. Lắng nghe những thách thức để đảm bảo rằng các lực lượng giáo dục viên đồng đẳng được đào tạo tốt và có khả năng để cung cấp cho mọi người sự chăm sóc mà họ cần.”
+      video: 
+      youtube: K3CuOjdncGE
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Peer Program Review“
+        vi: "Đánh giá chương trình đồng đẳng viên"
+      oneliner:
+        en: “The ongoing review of the peer program is an important stage in ensuring the support that peers provides works as well as it needs to. Learn what assessment they undertake.”
+        vi: “Việc rà soát liên tục chương trình giáo dục đồng đẳng là một giai đoạn quan trọng trong việc đảm bảo sự hỗ trợ cho việc cung cấp đồng đẳng viên. Tìm hiểu những đánh giá họ cần đảm nhận.”
+      video: 
+      youtube: N2IetvqDvHs
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 3_7
+  chapter_number: "3"
+  title:
+    en: "Role of Testing"
+    vi: "Vai trò của thử nghiệm"
+  content:
+    en: "Early detection allows PLWHIV to manage their infection and more effectively avoid transmitting HIV to other people. So testing is the key first-step in controlling the spread of HIV in the community."
+    vi: "Phát hiện sớm cho phép PLWHIV quản lý bệnh của họ và tránh lây truyền HIV cho người khác một cách hiệu quả hơn. Vì vậy, thử nghiệm là bước đầu quan trọng trong việc kiểm soát sự lây lan của HIV trong cộng đồng."
+  video: 
+  youtube: prphPTLB3Uo
+
+- id: 3_8
+  chapter_number: "3"
+  title:
+    en: “Maternal Prevention“
+    vi: "Ngăn ngừa mẹ sang con"
   content:
     en: "Prevention methods are numerous and varied and they have changed a lot over time. However, the core activities are around bednets, mosquito spraying, and reducing the need for people to go to the forests for their income.  Watch these videos and the additional films below to get the full picture on how we are currently working to control malaria. There are many additional films here so we encourage you to take your time!"
     vi: "Phương pháp phòng bệnh có rất nhiều, đa dạng và thay đổi rất lớn theo thời gian. Tuy nhiên, các hoạt động cốt lõi vẫn xung quanh ngủ mùng, phun tẩm và giảm nhu cầu vào rừng để kiếm sống. Hãy xem những đoạn phim và những đoạn phim phụ dưới đây để có cái nhìn toàn cảnh về cách chúng ta đang quản lý bệnh sốt rét. Có nhiều bộ phim phụ nên chúng tôi khuyến khích bạn cứ thư thả."
-  video: 0113_POC_PRO2_Prevention_4.8
-  youtube: z4YaUcAL62s
+  video: 
+  youtube: 21_YrYCCG0U
   extras:
     - title:
-        en: "The Health Post"
-        vi: "Trạm Y Tế"
+        en: “Maternal ARV“
+        vi: "ARV cho thai phụ"
       oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.8.B1
-      youtube: ifbXbRvtevs
-    - title:
-        en: "The Activities"
-        vi: "Các Hoạt Động"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.8.B2
-      youtube: r_jwoII2p68
-    - title:
-        en: "Fighting The Vector"
-        vi: "Phòng Chống Trung Gian"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.8.B3
-      youtube: 84OukeGzBtE
-    - title:
-        en: "More Prevention"
-        vi: "Các Cách Phòng Chống Khác"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Prevention_4.8.B4
-      youtube: 4bGs_gWyNoE
-    - title:
-        en: “Community Visits“
-        vi: "Thăm Cộng Đồng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_8
-      youtube: eTB_xnf87vs
-      type: "community"
+        en: “The regimen has changed over time but giving mother ARV as early as possible is essential in controlling childhood HIV infections.”
+        vi: “Phác đồ đã thay đổi theo thời gian nhưng cho mẹ điều trị ARV càng sớm càng tốt là điều cần thiết trong việc kiểm soát lây nhiễm HIV ở trẻ em.”
+      video: 
+      youtube: f6-J7mb_hL4
+      type: “professional”
       image: thumb_placeholder.jpg
     - title:
-        en: “Community Awareness“
-        vi: "Nhận Thức Cộng Đồng"
+        en: “Post-natal Care“
+        vi: "Chăm sóc hậu sản"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_1
-      youtube: mEI1gGIrHgc
-      type: "community"
+        en: “Learn what mothers and their carers do to reduce the risk of infection for babies after they are born.“
+        vi: “Tìm hiểu những gì các bà mẹ và người chăm sóc họ làm để giảm thiểu nguy cơ lây nhiễm cho trẻ sơ sinh sau khi được sinh ra.”
+      video: 
+      youtube: miklbkCqwzE
+      type: “professional”
       image: thumb_placeholder.jpg
     - title:
-        en: “Access to Bednets“
-        vi: "Tiếp Cận Mùng Màng"
+        en: “Staff Safety”
+        vi: "Dự phòng cho nhân viên y tế"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_4
-      youtube: BoVU-tFjKCE
-      type: "community"
+        en: “Birthing, by its nature, typically means blood. When it comes to HIV, blood can equal transmission. Learn how medical staff protect themselves when working with women as they give birth.”
+        vi:”Sinh nở, bởi bản chất của nó, thường có nghĩa là máu. Khi nói đến HIV, máu có thể bằng truyền. Tìm hiểu cách các nhân viên y tế bảo vệ mình khi làm việc với phụ nữ khi họ sinh con.”
+      video: 
+      youtube: 4ngdgKIzFPQ
+      type: “professional”
       image: thumb_placeholder.jpg
-    - title:
-        en: “Changing Attitudes to Bednets“
-        vi: "Thay Đổi Thái Độ Về Mùng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_6
-      youtube: VwUycfik1mU
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Lem on Bednets“
-        vi: "Lem Nói Về Ngủ Mùng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_5
-      youtube: meGJvh8TlBM
-      type: "community"
-      image: thumb_placeholder.jpg
+  
 
-
-- id: 4_9
+- id: 3_9
   chapter_number: "3"
   title:
-    en: "The Big Picture"
-    vi: "Cái Nhìn Toàn Diện"
+    en: “Engaging Community”
+    vi: "Liên kết cộng đồng"
   content:
-    en: "So we now know that there are plenty of things being done to fight malaria transmission in these communities.  However, here some bigger ideas on what it takes to tackle the disease properly and head towards elimination - a long time goal of malaria scientists."
-    vi: "Bây giờ chúng ta biết rằng có nhiều việc đang được tiến hành để chống lại lây nhiễm sốt rét trong cộng đồng. Tuy nhiên, đây là vài ý chính để giải quyết căn bệnh tốt và triệt để - một mục tiêu dài hạn của các nhà khoa học sốt rét."
-  video: 0113_POC_PRO2_Prevention_4.9
-  youtube: HnhEni4jmcg
+    en: "Engaging communities by working with people who are HIV+ is empowering for both the newly infected and those who help them.  Nguyễn Anh Phong from VNP+ explains why it is essential that solutions and support for people living with HIV comes from those same communities."
+    vi: "Tham gia cộng đồng bằng cách làm việc với những người có HIV+ là nâng cao vị thế cho cả các ca nhiễm mới và những người giúp đỡ họ. Nguyễn Anh Phong từ VNP+ giải thích lý do tại sao cần có các giải pháp và hỗ trợ cho những người sống chung với HIV đến từ những cộng đồng tương tự."
+  video: 
+  youtube: RFuOOynJyV4
+  extras:
+    - title:
+        en: “Community Leadership“
+        vi: "Dẫn dắt cộng đồng "
+      oneliner:
+        en: “It takes community to help community.  Hear how!”
+        vi: “Cần có cộng đồng để giúp đỡ cộng đồng. Lắng nghe cách thực hiện!”
+      video: 
+      youtube: ha85DwJPnEg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Communicating Risk“
+        vi: "Truyền thông nguy cơ"
+      oneliner:
+        en: “Respected, veteran Community group organiser Phạm Thanh Vân of  Tinh Than Network talks about his approach to community work.”
+        vi: “Nhà tổ chức nhóm cựu chiến binh cộng đồng Phạm Thanh Vân của Tinh Thần Network nói về cách tiếp cận của mình với công việc cộng đồng.”
+      video: 
+      youtube: Uh_TVpv3SKY
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Prevention Tools“
+        vi: "Dụng cụ ngăn ngừa"
+      oneliner:
+        en: “Community advocates need the right tools in hand to ensure they can help keep people safe.  Needles, condoms and lube are some of the essential tools.”
+        vi: “Những người ủng hộ cộng đồng cần những công cụ thích hợp trong tay để đảm bảo họ có thể giúp cho mọi người an toàn. Bơm tiêm, bao cao su và chất bôi trơn là một số trong những công cụ cần thiết.”
+      video: 
+      youtube: uaoIwrpmvek
+      type: “professional”
+      image: thumb_placeholder.jpg
+
 
 
 
 # Chapter 4
-- id: 5_1
+- id: 4_1
   chapter_number: "4"
   title:
-    en: "Diagnosis"
-    vi: "Chuẩn Đoán"
+    en: “The Testing System“
+    vi: "Hệ thống xét nghiệm"
   content:
-    en: "An essential part of controlling malaria is not just diagnosis but more importantly - early diagnosis. Here we explore why diagnosis is really important not just in helping people get well but also in controlling malaria. See the additional films for an explanation of how malaria diagnosis has improved over time and various other essential factors of diagnosis."
-    vi: "Một phần quan trọng của việc kiểm soát sốt rét không chỉ là chuẩn đoán mà là chuẩn đoán sớm. Ở đây chúng ta khám phá tại sao chuẩn đoán lại quan trọng không chỉ trong điều trị mà còn trong việc kiểm soát sốt rét. Xem những đoạn phim phụ để được giải đáp về cách chuẩn đoán sốt rét đã cải thiện theo thời gian như thế nào, và những yếu tố quan trọng khác trong chuẩn đoán."
-  video: 0113_POC_PRO2_Treatment_5.1
-  youtube: 5lXQxlESnjQ
+    en: "Testing is very closely controlled and managed by the Provincial Aids Committee and Pasteur Institute. Hear how they do their job and how testing is getting better."
+    vi: ""
+  video: 
+  youtube: t8Kk5cszAZY
   extras:
     - title:
-        en: "Improvements to Diagnosis"
-        vi: "Cải Tiến Trong Chuẩn Đoán"
+        en: “Testing Models”
+        vi: "Mô hình xét nghiệm"
       oneliner:
-        en:
+        en: “Discover what new models HCMC can try in an attempt to reach a target that 90% of infected people know their status.”
         vi:
-      video: 0113_POC_PRO2_Treatment_5.1.B1
-      youtube: rRzlhh-HHr0
+      video: 
+      youtube: aUuUVXzGpNQ
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Testing Training”
+        vi: "Đào tạo xét nghiệm"
+      oneliner:
+        en: “Training is an essential component of any good system. Pasteur Institute takes training from all over the world and shares it within their organization.”
+        vi:
+      video: 
+      youtube: pSKyQUXcYd4
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 4_2
+  chapter_number: "4"
+  title:
+    en: "VCT: Finding Testing"
+    vi: "VCT: Truy cập dịch vụ xét nghiệm"
+  content:
+    en: "When people are concerned about their HIV status, how do they find the voluntary counselling and testing services?"
+    vi: ""
+  video: 
+  youtube: kcNtbVoiTtY
+
+
+- id: 4_3
+  chapter_number: "4"
+  title:
+    en: "VCT: Testing Process"
+    vi: "VCT: Quá trình xét nghiệm"
+  content:
+    en: "Meet  Đoàn Thị Thu Hà , a testing counsellor based in District 10’s busy testing centre. Learn how she sensitively leads her clients through the testing process."
+    vi: "Ở đâ."
+  video: 
+  youtube: 8dcCbZ-vjd68
+
+
+- id: 4_4
+  chapter_number: "4"
+  title:
+    en: "VCT: Pre-test Counselling"
+    vi: "VCT: Tư vấn trước xét nghiệm"
+  content:
+    en: "There is counselling both before and after an HIV test.  Pre-test counselling prepares clients for what could be the most difficult news of their life."
+    vi: "Có nh"
+  video: 0113_POC_PRO2_Treatment_5.4
+  youtube: gItp03m-Y0U
+  extras:
+    - title:
+        en: “Honesty Required“
+        vi: "Sự trung thực cần có "
+      oneliner:
+        en: “Honesty is a very important currency between the counsellor and client.  Without full disclosure, the service they can provide is limited.”
+        vi: “”
+      video: 
+      youtube: rVC101xrgAU
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Initial Results“
+        vi: "Kết quả ban đầu"
+      oneliner:
+        en: “After an undergoing a rapid test, clients are referred to secondary testing if a positive is given initially.”
+        vi: “”
+      video: 
+      youtube: C4pzCMjL-Qc
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Avoiding Results“
+        vi: "Tránh né kết quả"
+      oneliner:
+        en: “Many patients cannot deal with the pressure of hearing their test results – this means a lot of people simply don’t come to get them. ”
+        vi: “”
+      video: 
+      youtube: gsQhnf0bB5Q
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 4_5
+  chapter_number: "4"
+  title:
+    en: "VCT: Post-test Counselling"
+    vi: "VCT: Tư vấn sau xét nghiệm"
+  content:
+    en: "Post-test counselling is the start of a long road ahead to good HIV management."
+    vi: "N."
+  video: 
+  youtube: A5mvVjpeXNI
+  extras:
+    - title:
+        en: “Confidentiality“
+        vi: "Bảo mật thông tin"
+      oneliner:
+        en: “Confidentiality is a major concern for people at the testing stage but without registering officially they cannot get care.”
+        vi: “”
+      video: 
+      youtube: nQ5LG5bTtls
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 4_6
+  chapter_number: "4"
+  title:
+    en: “Testing Challenges“
+    vi: "Thử thách xét nghiệm"
+  content:
+    en: "Testing is incredibly important so it goes without saying that there are plenty of challenges to this important service."
+    vi: "Vi"
+  video: 
+  youtube: F0ko-vY96xA
+
+- id: 4_7
+  chapter_number: "4"
+  title:
+    en: “Status & Stigma”
+    vi: "Tình trạng nhiễm & Kỳ thị"
+  content:
+    en: "Stigma is a great disincentive for people to undergo testing.  Hear how in more detail."
+    vi: "K"
+  video: 
+  youtube: 91kx52bozfg
+
+- id: 4_8
+  chapter_number: "4"
+  title:
+    en: “Maternal Testing & Care”
+    vi: "Xét nghiệm & chăm sóc cho thai phụ"
+  content:
+    en: "Hear from Dr.Đặng Lê Dung Hạnh as she explains how testing is carried out on women who come into the hospital."
+    vi: "K"
+  video: 
+  youtube: vPODJxtdb5w
+  extras:
+    - title:
+        en: “Infants: Testing & Care“
+        vi: "Trẻ sơ sinh: chăm sóc & xét nghiệm"
+      oneliner:
+        en: “Testing to children takes experience on the doctors behalf, they need to know the signs of HIV well.”
+        vi: “”
+      video: 
+      youtube: u6Thkh1BBPo
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 4_9
+  chapter_number: "4"
+  title:
+    en: “Children: Explaining Status”
+    vi: "Trẻ em: gỉai thích tình trạng lây nhiễm"
+  content:
+    en: "Many think the process of revealing a child’s HIV status is difficult.  Here are some of the key things to consider from Dr. Thanh”
+    vi: "K"
+  video: 
+  youtube: 2Plglz805sg
+  extras:
+    - title:
+        en: “What to Reveal?“
+        vi: "Khi nào nên công bố?"
+      oneliner:
+        en: “There are government guidelines on revealing a child its HIV status. However, there are plenty of factors to consider.”
+        vi: “”
+      video: 
+      youtube: sL-jN908JEo
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Assessing Readiness“
+        vi: "Đánh giá sự sẵn sàng"
+      oneliner:
+        en: “How do we know when I child is ready to know their HIV status?  Hear from Dr. Thanh, an experienced child psychologist in HIV care.”
+        vi: “”
+      video: 
+      youtube: avHehxsvEb8
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Risk of Waiting“
+        vi: "Nguy cơ của trì hoãn"
+      oneliner:
+        en: “Sometimes it’s dangerous to not tell a child they are HIV positive. Here is when to have that discussion earlier.”
+        vi: “”
+      video: 
+      youtube: vcyAayMWHVs
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 4_10
+  chapter_number: "4"
+  title:
+    en: “Maternal Steps in Care”
+    vi: "Các bước chăm sóc cho thai phụ"
+  content:
+    en: "Caring for pregnant HIV+ women is not all that different to looking after any other woman. Learn what people do in these cases.”
+    vi: "K"
+  video: 
+  youtube: dPPjHtGkMYU
+  extras:
+    - title:
+        en: “Differences in Care“
+        vi: "Khác biệt trong chăm sóc"
+      oneliner:
+        en: “How does care differ between pregnant and non-pregnant women?”
+        vi: “”
+      video: 
+      youtube: UYW5jcROYDw
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 4_11
+  chapter_number: "4"
+  title:
+    en: “Counselling Prenant Women”
+    vi: "Tư vấn thai phụ"
+  content:
+    en: "If you have just been diagnosed HIV+ … and pregnant, there is a lot to think about and decisions to make.”
+    vi: "K"
+  video: 
+  youtube: 5DjOLcYZzkA
+  extras:
+    - title:
+        en: “Revealing Status“
+        vi: "Công bố tình trạng nhiễm"
+      oneliner:
+        en: “The challenges of managing the HIV status of a pregnant woman is complicated and the pitfalls are many. Hear how challenging it can be in such circumstances.”
+        vi: “”
+      video: 
+      youtube: oC9xkn5hmNw
+      type: “professional”
+      image: thumb_placeholder.jpg
+  extras:
+    - title:
+        en: “Who counsels mothers?“
+        vi: "Ai thực hiện tư vấn cho thai phụ?"
+      oneliner:
+        en: “There are care at most levels of hospital but the quality of care may differ. ”
+        vi: “”
+      video: 
+      youtube: Z2S4QUwIBJE
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 4_12
+  chapter_number: "4"
+  title:
+    en: “Drivers for Testing”
+    vi: "Động cơ xét nghiệm"
+  content:
+    en: "There are many different factors that drive testing but the changes in risk groups and their exposure to health communication is a big factor.”
+    vi: "K"
+  video: 
+  youtube: myis2-gHBqE
+
+
+# Chapter 5
+- id: 5_1
+  chapter_number: "5"
+  title:
+    en: “What are ARV?“
+    vi: "ARV là gì?"
+  content:
+    en: "ARV are Anti-retroviral drugs.  They are the difference between life and death for people who are HIV+. Discover more about what they are and why they are so important."
+    vi: "ARV là thuốc chống retrovirus. Chúng là sự khác biệt giữa sự sống và cái chết cho những người có HIV+. Khám phá xem chúng là gì và tại sao chúng quan trọng đến vậy."
+  video: 
+  youtube: Srn_RkwCGZ4
 
 - id: 5_2
-  chapter_number: "4"
+  chapter_number: "5"
   title:
-    en: "Symptoms"
-    vi: "Triệu Chứng"
+    en: "How ARV Work"
+    vi: "ARV hoạt động như thế nào?"
   content:
-    en: "There is a well known cycle of fever, sweats and chills associated with malaria, which is then followed by a 24 hour period that seems almost normal.  This confusing symptom cycle encourages people to initially ignore the illness, delaying diagnosis. Watch here for more details."
-    vi: "Có một chu kỳ phổ biến của cơn sốt, vã mồ hôi và ớn lạnh kết hợp của sốt rét, mà sau 24 giờ sau lại trở về bình thường. Chu kỳ triệu chứng khó hiểu này đã làm người bệnh chủ quan và chần chừ khám bệnh. Xem ở đây để thêm chi tiết."
-  video: 0113_POC_PRO2_Treatment_5.2
-  youtube: 9jrVHF3AI54
+    en: "Learn the basic science behind ARV and discover how they work to control the very clever HIV virus."
+    vi: "Tìm hiểu khoa học cơ bản đằng sau điều trị ARV và khám phá cách chúng làm việc để kiểm soát virus HIV rất thông minh."
+  video: 
+  youtube: E0OTc9u5wE8
   extras:
     - title:
-        en: “Treating Children”
-        vi: "Chữa Trị Cho Trẻ"
+        en: “The ARV Science“
+        vi: "Khoa học đằng sau ARV"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_5
-      youtube: VdIfMuPQ-iM
-      type: "community"
+        en: “Dig a bit deeper to learn some more about the science of ARV. These life saving drugs are just as clever as HIV.”
+        vi: “Đào sâu hơn một chút để biết thêm về khoa học của điều trị ARV. Những loại thuốc cứu người này cũng thông minh không kém HIV.”
+      video: 
+      youtube: aOqewmn_vuA
+      type: “professional”
       image: thumb_placeholder.jpg
     - title:
-        en: “Children - Recurring Malaria“
-        vi: "Trẻ Con: Tái Phát Sốt Rét"
+        en: “Conditions for ARV“
+        vi: "Điều kiện để điều trị ARV"
       oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_2
-      youtube: uMqObYjVA8Q
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Nhat Falls Sick“
-        vi: "Nhật Phát Bệnh"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Liem_2_5
-      youtube: W3SFn8-2toQ
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Seeking Care“
-        vi: "Tìm Kiếm Chăm Sóc"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_7
-      youtube: D_sYusczK8g
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Cycle of Symptoms“
-        vi: "Chu Kỳ Của Triệu Chứng"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_3
-      youtube: 1a6OzSc-w4Q
-      type: "community"
+        en: “ARV cannot necessarily be given out immediately. Find out when PLWHIV can access them.”
+        vi: “ARV có thể không nhất thiết phải được phân phát ngay lập tức. Tìm hiểu khi nào PLWHIV có thể tiếp cận chúng.”
+      video: 
+      youtube: _PihiwV3MEk
+      type: “professional”
       image: thumb_placeholder.jpg
 
 
 - id: 5_3
-  chapter_number: "4"
-  title:
-    en: "Cost of Treatment"
-    vi: "Chi Phí Chữa Trị"
-  content:
-    en: "Here we confirm that malaria treatment is free to all people in the area to ensure we can control the disease - with the support of the Vietnamese government and various major NGOs."
-    vi: "Ở đây chúng ta xác nhận rằng điều trị sốt rét là miễn phí cho mọi người để đảm bảo rằng chúng ta kiểm soát được bệnh với sự trợ giúp của chính phủ và các tổ chức phi chính phủ khác."
-  video: 0113_POC_PRO2_Treatment_5.3
-  youtube: 8g-5uAAp1rQ
-  extras:
-    - title:
-        en: “Hung Gets Tested”
-        vi: "Hùng Xét Nghiệm"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_2
-      youtube: d_q3b8wRSnE
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Lem Falls Sick”
-        vi: "Lem Phát Bệnh"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_1
-      youtube: rgLbOynKC6o
-      type: "community"
-      image: thumb_placeholder.jpg
-
-- id: 5_4
-  chapter_number: "4"
-  title:
-    en: "Challenges to Treatment"
-    vi: "Thách Thức Trong Việc Chữa Trị"
-  content:
-    en: "There are many challenges to treatment of malaria which can be dangerous for the patient but also ensure that malaria remains strong within the risk-groups."
-    vi: "Có nhiều thách thức trong điều trị sốt rét có thể gây nguy hiểm cho bệnh nhân, nhưng cũng đảm bảo rằng sốt rét còn tồn tại lâu trong nhóm nguy cơ cao."
-  video: 0113_POC_PRO2_Treatment_5.4
-  youtube: Enoe1_ZT5Mk
-  extras:
-    - title:
-        en: "Investing in Malaria"
-        vi: "Đầu Tư vào Sốt Rét"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Treatment_5.4.B1
-      youtube: PyHVRWvVUFw
-    - title:
-        en: “Getting Treated”
-        vi: "Được Chữa Trị"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_3
-      youtube: IKUI3mJPRTw
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Direct Follow Up”
-        vi: "Theo Dõi Trực Tiếp"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_6
-      youtube: rWP8voXdqtM
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “A Complicated Case”
-        vi: "Một Ca Phức Tạp"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_4
-      youtube: aVd9Wi_V9w4
-      type: "community"
-      image: thumb_placeholder.jpg
-    - title:
-        en: “Attitudes to Care”
-        vi: "Thái Độ Đối Với Chăm Sóc Y Tế"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC_PRO2_Lem_4_8
-      youtube: y6CHQcEAcuM
-      type: "community"
-      image: thumb_placeholder.jpg
-
-- id: 5_5
-  chapter_number: "4"
-  title:
-    en: "Malaria Drugs"
-    vi: "Thuốc Sốt Rét"
-  content:
-    en: "The current frontline drugs for treating malaria were largely developed in Vietnam, which is a really important but little know fact.  We have been at the forefront of Artemisinin research since the early 80’s, as led by our two guests on this site Nick White and Vietnam’s professor Tran Thinh Tien."
-    vi: "Những thuốc tuyến đầu để chữa trị sốt rét được phát triển mạnh ở Việt Nam, nó rất quan trọng nhưng lại ít được biết đến. Chúng ta đang đi đầu về nghiên cứu A-tê-mi-si-nin từ đầu những năm 80, được dẫn đầu bởi hai khách mời của chúng tôi là Nick White và giáo sư Trần Thịnh Tiến của Việt Nam."
-  video: 0113_POC_PRO2_Treatment_5.5
-  youtube: Bh5LYqc4nxo
-  extras:
-    - title:
-        en: “Taking Medication”
-        vi: "Lấy Thuốc"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2 Hung_1_7
-      youtube: Eis4SR_ccH0
-      type: "community"
-      image: thumb_placeholder.jpg
-
-
-- id: 5_6
-  chapter_number: "4"
-  title:
-    en: "Self Medication"
-    vi: "Tự Chữa Trị"
-  content:
-    en: "Self medication has become more common now that malaria is so focused on the risk-groups who go into the forests and plantations for work. However, this practise also threatens to support increasing drug resistance, as patients may not take the drugs responsibly. Hear more about this important part of the fight against malaria."
-    vi: "Việc tự chữa trị đã trở thành phổ biến hiện nay bởi sốt rét chỉ tập trung vào những nhóm có nguy cơ cao, vào rừng rẫy để làm việc. Tuy nhiên, cách làm này có thể dẫn đến việc kháng thuốc, bởi vì bệnh nhân có thể uống thuốc kém trách nhiệm hơn. Hãy nghe thêm về phần quan trọng  này trong việc chống lại sốt rét."
-  video: 0113_POC_PRO2_Treatment_5.6
-  youtube: BsRLSpHAeH4
-
-- id: 5_7
-  chapter_number: "4"
-  title:
-    en: "Drug Resistance"
-    vi: "Kháng Thuốc"
-  content:
-    en: "Drug resistance could see us completely vulnerable to malaria in the coming years if we do not find alternative treatments or combinations of drugs. Hear more from our researchers and healthworkers about the progress and risks of drug resistance."
-    vi: "Kháng thuốc có thể khiến chúng ta cực kỳ yếu đuối trước bệnh sốt rét trong những năm tới nếu chúng ta không tìm được thuốc thay thế và thuốc kết hợp. Hãy nghe những nhà nghiên cứu và nhân viên y tế nói về những tiến bộ và nguy cơ của kháng thuốc."
-  video: 0113_POC_PRO2_Treatment_5.7
-  youtube: NRwoTjEZMjI
-  extras:
-    - title:
-        en: "Drug Resistance Research"
-        vi: "Nghiên Cứu Kháng Thuôc"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Treatment_5.7.B1
-      youtube: Hws-2aNhK6c
-
-# Chapter 5
-- id: 6_1
   chapter_number: "5"
   title:
-    en: "Community on Channels"
-    vi: "Kênh Cộng Đồng"
-  content:
-    en: "Hear directly from community members about the kinds of communication they are aware of … Do you hear and see the same things?  How could they be improved?"
-    vi: "Lắng nghe trực tiếp từ cộng đồng về những biện pháp truyền thông mà họ biết. Bạn có thấy và nghe những điều tương tự không?Làm thế nào để chúng có thể được cải tiến?"
-  video: 0113_POC_PRO2_Communication_6.1
-  youtube: P4gVS5WBIoo
-
-- id: 6_2
-  chapter_number: "5"
-  title:
-    en: "Methods and Challenges"
-    vi: "Phương Thức Truyền Thông và Thách Thức: Chuyên Gia"
-  content:
-    en: "There is a lot going on to communicate how to avoid malaria in our communities. What can be done to reach the risk-groups and what are the channels we have to reach them?"
-    vi: "Có nhiều cách để truyền thông về sốt rét trong cộng đồng chúng ta. Cần thực hiện những gì để cảnh báo đến nhóm nguy cơ cao, và những kênh nào hiệu quả nhất?"
-  video: 0113_POC_PRO2_Communication_6.2
-  youtube: BipShnr9qVA
-  extras:
-    - title:
-        en: "Border Communication"
-        vi: "Truyền Thông tại Biên Giới"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Communication_6.2.B1
-      youtube: w-k7_Ny541M
-    - title:
-        en: "Changes in Attitude"
-        vi: "Thay Đổi Hành Vi"
-      oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Communication_6.2.B2
-      youtube: x60MCxvN69c
-
-- id: 6_3
-  chapter_number: "5"
-  title:
-    en: "Working with Non-Kinh"
-    vi: "Làm Việc với Người Thiểu Số"
+    en: “Drug Regimens“
+    vi: "Phác đồ điều trị"
   content:
     en: "Working with our local ethnic groups presents many challenges, such as culture and language. There are many ways we are already working to knock down these barriers - watch these videos to hear more.  Can you think of other ways to connect with local ethnic groups such as the S’tieng?"
     vi: "Làm việc với các hóm người thiểu số mang đến nhiều thách thức, ví dụ như văn hoc và ngôn ngữ. Có nhiều cách chúng ta đã và đang làm để đẩy lùi những rào cản, xem những bộ phim sau để tìm hiểu. Bạn có nghĩ được ra cách nào để kết nối với những dân tộc thiểu số như người S'Tiêng không?"
-  video: 0113_POC_PRO2_Communication_6.3
-  youtube: 5qtgtLIqNvM
-
-- id: 6_4
-  chapter_number: "5"
-  title:
-    en: "Communication Methods"
-    vi: "Phương Thức Truyền Thông"
-  content:
-    en: "There are plenty of ways that malaria can be communicated about.  Hear from Mr. Tam the head of T4G Binh Phuoc about how they are connecting with their communities."
-    vi: "Có nhiều cách để tuyên truyền về bệnh sốt rét. Hãy nghe ông Tâm, Trưởng nhóm T4G Bình Phước nói về cách họ kết nối với các nhóm cộng đồng."
-  video: 0113_POC_PRO2_Communication_6.4
-  youtube: eofmHmUTl-4
+  video: 
+  youtube: bXdlUCTQAA4
   extras:
     - title:
-        en: "Communication Effectiveness"
-        vi: "Hiệu Quả Từ Truyền Thông"
+        en: “Alternate Regimen“
+        vi: "Phác đồ thay thế"
       oneliner:
-        en:
-        vi:
-      video: 0113_POC_PRO2_Communication_6.4.B1
-      youtube: GP8hNbC2DY0
-    - title:
-        en: “Health Education“
-        vi: "Giáo Dục Sức Khỏe"
-      oneliner:
-        en: “XXX”
-        vi: ""
-      video: 0113_POC2_PRO2_Tam_3_8
-      youtube: aahqLGBGWPs
-      type: "community"
+        en: “Learn more about the different drug regimens for managing HIV.”
+        vi: “Tìm hiểu thêm về các phác đồ điều trị khác nhau để quản lý HIV.”
+      video: 
+      youtube: bXdlUCTQAA4
+      type: “professional”
       image: thumb_placeholder.jpg
+    - title:
+        en: “ARV for Children“
+        vi: "ARV cho trẻ em"
+      oneliner:
+        en: “Caring for HIV+ young people has changed a lot over time. Now the drugs are very similar but watch this video to find out more.”
+        vi: “Chăm sóc trẻ nhiễm HIV đã thay đổi rất nhiều theo thời gian. Bây giờ các loại thuốc này cũng vậy, nhưng hãy xem video này để tìm hiểu thêm.”
+      video: 
+      youtube: Fq96WmFjRXU
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Children’s Check-ups“
+        vi: "Khám định kỳ cho trẻ"
+      oneliner:
+        en: “Regular check ups for children are essential to make sure their treatment is successful. Watch this to find out why?”
+        vi: “Kiểm tra sức khỏe thường xuyên cho trẻ em là rất cần thiết để đảm bảo điều trị thành công. Xem để tìm hiểu lý do tại sao?”
+      video: 
+      youtube: -ag6r7zFCIg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Children: Improved ARV“
+        vi: "Trẻ em: Cải thiện ARV"
+      oneliner:
+        en: “Hear more about how ARV’s have changed for children over time.”
+        vi: “Nghe thêm về cách ARV đã thay đổi cho trẻ em theo thời gian thế nào.”
+      video: 
+      youtube: v5OzZMD0HXU
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 5_4
+  chapter_number: "5"
+  title:
+    en: "ARV & CD4 History"
+    vi: "Lịch sử ARV & CD4"
+  content:
+    en: "ARV and CD4 have a long interwoven history. Our knowledge about them and how we use them has changed a lot over the years."
+    vi: "ARV và CD4 có một lịch sử lâu dài đan xen lẫn nhau. Kiến thức của chúng ta về chúng và cách chúng ta sử dụng chúng đã thay đổi rất nhiều trong những năm qua."
+  video: 
+  youtube: D6ZgPdYYVBg
+
+
+- id: 5_5
+  chapter_number: "5"
+  title:
+    en: "Value of Research"
+    vi: "Giá trị của nghiên cứu"
+  content:
+    en: "ARV wouldn’t exist without research but the ongoing improvement of ARV is the result of hard science continuing every year."
+    vi: "ARV có thể đã không tồn tại nếu không có nghiên cứu nhưng sự cải thiện liên tục của điều trị ARV là kết quả của khoa học diễn ra liên tiếp hàng năm."
+  video: 
+  youtube: F-n1pyMX7Jc
+  
+
+- id: 5_6
+  chapter_number: "5"
+  title:
+    en: "ARV Challenges"
+    vi: "Thách thức của ARV"
+  content:
+    en: "What are the challenges people living with HIV face in staying to their regimen? Learn more about why this is critical and what happens when things don’t work out."
+    vi: "Các thách thức mà người sống chung với HIV phải đối mặt khi cố giữ phác đồ điều trị của họ là gì? Tìm hiểu thêm lý do tại sao việc này rất quan trọng và điều gì sẽ xảy ra khi mọi chuyện không suôn sẻ."
+  video: 
+  youtube: wfdwopURAM4
+  
+
+
+- id: 5_7
+  chapter_number: "5"
+  title:
+    en: "ARV Adherence"
+    vi: "Tuân thủ điều trị ARV"
+  content:
+    en: "Adherence is the key to survival for people living with HIV.  Without taking ARV to the clock everyday, resistance can be life threatening."
+    vi: "Tuân thủ điều trị là chìa khóa sống còn đối với người sống chung với HIV. Nếu không dùng thuốc ARV đúng đến từng giờ, kháng thể có thể đe dọa cuộc sống."
+  video: 
+  youtube: PT5KPXcqCEc
+ extras:
+    - title:
+        en: “Adherence Challenges“
+        vi: "Thách thức tuân thủ điều trị"
+      oneliner:
+        en: “Here are just some of the reasons that adherence can be a problem when it comes to ARV and the problems this creates. Learn more about these here.”
+        vi: “Dưới đây là một số lý do việc tuân thủ có thể là một vấn đề khi nói đến thuốc ARV và các vấn đề mà nó tạo ra. Tìm hiểu thêm ở đây.”
+      video: 
+      youtube: b3eUXwdb9Ok
+      type: “professional”
+      image: thumb_placeholder.jpg
+ 
+
+- id: 5_8
+  chapter_number: "5"
+  title:
+    en: "ARV & Community Challenges"
+    vi: "ARV & Thách thức cho cộng đồng"
+  content:
+    en: "There are many reasons why HIV+ people struggle to meet the needs placed on them as ARV users.  Hear just some of the issues people face … What is your experience?"
+    vi: "Có nhiều lý do tại sao người bị HIV+ phải vật lộn để đáp ứng nhu cầu đặt ra cho họ với tư cách là người sử dụng ARV. Lắng nghe một số những vấn đề mọi người phải đối mặt với ... Kinh nghiệm của bạn là gì?"
+  video: 
+  youtube: 5Cgo-rJKt98
+  
+
+# Chapter 6
+- id: 6_1
+  chapter_number: “6”
+  title:
+    en: "Prenatal Care"
+    vi: "Chăm sóc Tiền sản"
+  content:
+    en: "There is a lot that can be done for pregnant women who are HIV+. Discover how doctors care for them and avoid their children becoming positive."
+    vi: "Rất nhiều thứ có thể làm cho phụ nữ mang thai bị nhiễm HIV+. Khám phá cách các bác sĩ chăm sóc cho họ và tránh cho con họ bị dương tính."
+  video: 
+  youtube: YY_oICA7pZ0
+  
+- id: 6_2
+  chapter_number: “6”
+  title:
+    en: “Managing Labour“
+    vi: "Xử lý chuyển dạ "
+  content:
+    en: "There are a number of steps that avoid maternal HIV transmission. Watch here to hear how care is carried out in hospitals."
+    vi: "Có một số bước để tránh lây truyền HIV từ mẹ sang con. Xem ở đây để nghe về cách chăm sóc được thực hiện tại các bệnh viện."
+  video: 
+  youtube: bkJyNSNhbF4
+
+- id: 6_3
+  chapter_number: “6”
+  title:
+    en: “ARV in Pregnancy”
+    vi: "ARV trong thai kỳ"
+  content:
+    en: "Right now ARV are the only protection a positive mother has against their baby also becoming positive. Hear how this works."
+    vi: "Ngay bây giờ ARV là phương thức bảo vệ duy nhất mà một người mẹ dương tính có để bảo vệ con mình khỏi bị dương tính. Lắng nghe cách thực hiện việc này."
+  video: 
+  youtube: H6llK1nlWCY
+extras:
+    - title:
+        en: “Changing ARV“
+        vi: "Thay đổi ARV"
+      oneliner:
+        en: “As for all PLWHIV, ARV treatment has changed over time. Learn how their protection has improved.”
+        vi: “Đối với tất cả các PLWHIV, điều trị ARV đã thay đổi theo thời gian. Tìm hiểu cách bảo vệ của chúng đã được cải thiện.”
+      video: 
+      youtube: 59sOFLOMCr4
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 6_4
+  chapter_number: “6”
+  title:
+    en: “Children: Without Treatment”
+    vi: "Trẻ em: không điều trị"
+  content:
+    en: "The consequences for not treating HIV are poor for anyone. However the impact of not diagnosing children young can be life long."
+    vi: "Hậu quả của việc không điều trị HIV là rất tồi cho bất cứ ai. Tuy nhiên tác động của việc không chẩn đoán trẻ em từ sớm có thể kéo dài cả đời."
+  video: 
+  youtube: ZUjnVU2sZQI
+
+- id: 6_5
+  chapter_number: “6”
+  title:
+    en: “After Hospital Care”
+    vi: "Chăm sóc ngoại trú"
+  content:
+    en: "There is plenty that needs done once a mother and baby have left the hospital. Learn more about what is needed."
+    vi: "Có rất nhiều thứ cần làm một khi mẹ và em bé đã rời bệnh viện. Tìm hiểu thêm về những gì là cần thiết."
+  video: 
+  youtube: wAwvc1Y2InU
+extras:
+    - title:
+        en: “Status & Family Support“
+        vi: "Tình trạng nhiễm & hỗ trợ từ gia đình"
+      oneliner:
+        en: “Family support is an essential part of caring for PLWHIV.  Read how challenging this can be.”
+        vi: “Hỗ trợ từ gia đình là một phần quan trọng của việc chăm sóc cho PLWHIV. Đọc thêm về việc này đầy thách thức thế nào.”
+      video: 
+      youtube: yAIUHkf1gSc
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Orphans: Special Needs“
+        vi: "Trẻ mồ côi: nhu cầu đặc biệt"
+      oneliner:
+        en: “Even without HIV being orphaned is a complicated situation. Learn about the special needs of children without parents.”
+        vi: “Mặc dù không có HIV bị mồ côi là một tình huống phức tạp. Tìm hiểu về các nhu cầu đặc biệt của trẻ em không có cha mẹ.”
+      video: 
+      youtube: 6WtJZTJNCEg
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 6_6
+  chapter_number: “6”
+  title:
+    en: “Counselling Children“
+    vi: "Tư vấn Trẻ em"
+  content:
+    en: "Counselling children is essential to them coping as they grow older and learn to deal with being HIV+. Discover what counselling is available in Vietnam."
+    vi: "Tư vấn cho trẻ em là điều cần thiết để chúng đối phó khi lớn lên và học cách đối phó với việc bị nhiễm HIV+. Hãy khám phá dịch vụ tư vấn nào hiện có tại Việt Nam."
+  video: 
+  youtube: 45zoFUSnlmA
+extras:
+    - title:
+        en: “What to Tell?“
+        vi: "Nói những gì?"
+      oneliner:
+        en: “What to tell a child and when is a complicated question … Hear how an experienced child psychologist handles it.”
+        vi: “Nói gì và khi nào với một đứa trẻ là một câu hỏi phức tạp ... Lắng nghe một nhà tâm lý học trẻ em có kinh nghiệm xử lý như thế nào.”
+      video: 
+      youtube: UI_WhxbJxdc
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Counselling Cut“
+        vi: "Cắt giảm tư vấn"
+      oneliner:
+        en: “The move away from international funding has seen an absolute cut to counselling for children, amongst other services.”
+        vi: “Việc tách khỏi tài trợ quốc tế đã chứng kiến một đợt cắt giảm đáng kể trong tư vấn cho trẻ em, trong số các dịch vụ khác.”
+      video: 
+      youtube: 019gazU8Sb4
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 6_7
+  chapter_number: “6”
+  title:
+    en: “Inpatient / Outpatient”
+    vi: "Bệnh nhân nội/ ngoại trú"
+  content:
+    en: "Hear how children are managed between Inpatient and Outpatient clinics in HCMC."
+    vi: "Lắng nghe cách trẻ em được quản lý giữa các phòng khám nội trú và ngoại trú tại TP HCM."
+  video: 
+  youtube: CtyCbd6gq9M
+
+- id: 6_8
+  chapter_number: “6”
+  title:
+    en: “Moving to Adult Clinics“
+    vi: "Chuyển giao đến phòng khám người lớn"
+  content:
+    en: "When to move a child to adult care is a surprisingly difficult process.  Children form close alliances so moving on can be very hard."
+    vi: "Khi nào thì chuyển chăm sóc trẻ sang chăm sóc người lớn là một quá trình khó khăn một cách đáng ngạc nhiên. Trẻ em hình thành liên minh chặt chẽ nên việc thay đổi có thể rất khó khăn."
+  video: 
+  youtube: z5A5SZqi3XE
+extras:
+    - title:
+        en: “Preparing Everyone“
+        vi: "Chuẩn bị tâm lý"
+      oneliner:
+        en: “All sides need time to prepare for the move between adult and child services – the children and the professionals.”
+        vi: “Tất cả các bên cần có thời gian để chuẩn bị cho việc di chuyển giữa các dịch vụ người lớn và trẻ em - những đứa trẻ và các chuyên gia.”
+      video: 
+      youtube: /jOvnqVaWRx8
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Adult Clinic Environment“
+        vi: "Môi trường  phòng khám người lớn"
+      oneliner:
+        en: “Adult clinics are challenging for children for a number of reasons. Learn why here.”
+        vi: “Phòng khám dành cho người lớn đang thách thức cho trẻ em vì một số lý do. Tìm hiểu lý do tại sao ở đây.”
+      video: 
+      youtube: MSfHQziYMOY
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Counselling on Transition“
+        vi: "Tư vấn chuyển giao"
+      oneliner:
+        en: “Counselling can help transition children to adult care. Here are some of the ways.”
+        vi: “Tư vấn có thể giúp trẻ chuyển sang chăm sóc người lớn. Dưới đây là một số cách.”
+      video: 
+      youtube: PaMTAqyelPc
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 6_9
+  chapter_number: “6”
+  title:
+    en: “Challenges & Success“
+    vi: "Thách thức & Thành công"
+  content:
+    en: "There are plenty of reasons that care for HIV+ mothers and children can get difficult. Click here to learn more about this."
+    vi: "Có rất nhiều lý do mà chăm sóc cho các bà mẹ nhiễm HIV+ và trẻ em có thể gặp nhiều khó khăn. Bấm vào đây để tìm hiểu thêm về điều này."
+  video: 
+  youtube: YNo2xsT1GOc
+
+# Chapter 7
+- id: 7_1
+  chapter_number: “7”
+  title:
+    en: "Testing & Registering"
+    vi: "Xét nghiệm & Đăng ký"
+  content:
+    en: "Find out the basic process of enrolling someone in the testing and out patient system."
+    vi: "Hãy tìm hiểu thêm về quá trình cơ bản để đăng ký vào hệ thống xét nghiệm và điều trị ngoại trú."
+  video: 
+  youtube: cKjbqz8DeiY
+extras:
+    - title:
+        en: “Intensive Needs“
+        vi: "Nhu cầu cấp thiết"
+      oneliner:
+        en: “The needs of people who come in for testing are varied in terms of the support and counselling they need. However, once tested positive there are many services and much information they may need.”
+        vi: “Nhu cầu của từng cá nhân khác biệt tuỳ thuộc vào sự hỗ trợ và tư vấn mà họ cần. Tuy nhiên, khi xét nghiệm dương tính, có rất nhiều dịch vụ và thông tin mà họ cần được biết.”
+      video: 
+      youtube: flYrbK6QL_w
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Connecting Care“
+        vi: "Liên kết dịch vụ chăm sóc"
+      oneliner:
+        en: “The counselors may need to physically take clients to care to ensure they are brave enough to continue. Hear more about the varied ways VCT staff go beyond the call of duty.”
+        vi: “Các chuyên viên tư vấn đôi lúc cần phải trực tiếp đưa khách hàng của họ đến các dịch vụ chăm sóc để đảm bảo rằng họ có đủ can đảm để tiếp tục. Hãy nghe thêm về các cách khách nhau nhân viên VCT thường vượt khỏi khuôn khổ trách nhiệm của họ.”
+      video: 
+      youtube: tivzr3rr2sg
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 7_2
+  chapter_number: “7”
+  title:
+    en: “What & Where are OPC?“
+    vi: "OPC là gì & ở đâu"
+  content:
+    en: "OPC are Outpatient clinics. They provide care for people so they don’t have to go into large hospitals for smaller ongoing care – they are essential for a chronic condition like HIV."
+    vi: "OPC là các phòng khám ngoại trú. Nơi đây cung cấp các dịch vụ chăm sóc để các khách hàng không phải đến các cơ sở y tế lớn hơn để nhận được dịch vụ nhỏ nhưng liên tục – các cơ sở này rất quan trọng cho tình trạng mãn tính như HIV.”
+  video: 
+  youtube: Fqw6wDwFJ10
+extras:
+    - title:
+        en: “Caring Service“
+        vi: "Dịch vụ chăm sóc"
+      oneliner:
+        en: “Nguyễn Anh Phong outlines why a caring, family like service is essential for getting people treated and keeping them healthy.”
+        vi: “Anh Nguyễn Anh Phong chỉ ra vì sao một dịch vụ chăm sóc tận tâm và tạo cảm giác như gia đình lại quan trọng để giữ bệnh nhân và giúp họ khoẻ mạnh.”
+      video: 
+      youtube: BNz-Zk0Uwo0
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 7_3
+  chapter_number: “7”
+  title:
+    en: “Integrated Services“
+    vi: "Sát nhập dịch vụ"
+  content:
+    en: "Dr. Ngô Thị Ánh Đông explains how in an integrated service patients can be offered everything they need in one place."
+    vi: "Bs. Ngô Thị Ánh Đông giải thích vì sao tại một cơ sở dịch vụ y tế sát nhập bệnh nhân có thể nhận được tất cả những gì họ cần tại một nơi."
+  video: 
+  youtube: FSQUpzPfAwc
+extras:
+    - title:
+        en: “Localising Care“
+        vi: "Địa phương hoá dịch vụ"
+      oneliner:
+        en: “It is now possible for any health centre to offer HIV care and medication, so PLWHIV can readily access treatment near to their home”
+        vi: “Hiện nay, việc cung cấp dịch vụ chăm sóc và cấp phát thuốc điều trị HIV tại bất kỳ cơ sở y tế nào đã thành hiện thực, vì vậy người sống chung với HIV có thể tiếp cận các dịch vụ này gần nơi ở bất kỳ lúc nào.”
+      video: 
+      youtube: h6C4jfvBKfk
+      type: “professional”
+      image: thumb_placeholder.jpg
+ 
+- id: 7_4
+  chapter_number: “7”
+  title:
+    en: “Clinics Overwhelmed”
+    vi: "Phòng khám quá tải"
+  content:
+    en: "The reality is that despite their best efforts, many outpatient clinics are overwhelmed.  They cannot keep up with the demand."
+    vi: "Thực tế là dù đã cố gắng hết sức, một số các phòng khám ngoại trú vẫn bị quá tải. Họ không thể đáp ứng với nhu cầu đang tăng."
+  video: 
+  youtube: gQbEKD281d0
+  
+- id: 7_5
+  chapter_number: “7”
+  title:
+    en: “Role of Community Groups“
+    vi: "Vai trò của nhóm cộng đồng"
+  content:
+    en: "Community Groups need to work with Outpatient clinics to help provide better services and make sure everyone is looked after."
+    vi: "Các nhóm cộng đồng phải làm việc với các phòng khám ngoại trú để giúp họ cung cấp dịch vụ một các tốt hơn và tất cả mọi người đều được chăm sóc."
+  video: 
+  youtube: jo4seZ-25Co
+  
+- id: 7_6
+  chapter_number: “7”
+  title:
+    en: “Inpatients Seeking Care”
+    vi: "Bệnh nhân nội trú: truy cập dịch vụ chắm sóc"
+  content:
+    en: "What motivates people to seek care? Hear from clinical doctors as they discuss why people come late to care."
+    vi: "Điều gì là động lực cho việc tiếp cận dịch vụ chăm sóc? Hãy nghe các bác sĩ tại các phòng khám giải thích vì sao nhiều trường hợp tiếp cận dịch vụ muộn."
+  video: 
+  youtube: b7YROaLQssU
+extras:
+    - title:
+        en: “HIV Complications“
+        vi: "BIến chứng HIV"
+      oneliner:
+        en: “The reality is that in life, things go wrong. Very few people can stay on top of their health all of the time – even when they don’t have a chronic infection like HIV.”
+        vi: “Thực tế là trong cuộc sống, mọi thứ thường không xảy ra như mong muốn. Rất ít người để ý và kiểm tra tình trạng sức khoả của họ thường xuyên – dù ngay cả khi họ không mắc căn bệnh mãn tính như HIV.”
+      video: 
+      youtube: MRnFfUJX1jA
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Communities: Different Awareness“
+        vi: "Cộng đồng: khác biệt nhận thức"
+      oneliner:
+        en: “Different high-risk communities have different levels of awareness. Learn more about how risk groups differ.”
+        vi: “Sự khác biệt giữa cộng đồng nguy cơ cao và có các cấp độ nhận thức khác nhau. Hãy tìm hiểu thêm các nhóm này khác nhau ở những điểm nào.”
+      video: 
+      youtube: qJBb3ksKh5k
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 7_7
+  chapter_number: “7”
+  title:
+    en: “Treatment & Mortality“
+    vi: "Điều trị & mật độ tử vong"
+  content:
+    en: "Dr. Ngô Thị Kim Cúc  gives a detailed explanation of some common HIV co-infections such as Hepatitis."
+    vi: "Bs. Ngô Thị Kim Cúc giải thích chi tiết về các bệnh đồng nhiễm HIV thường gặp như viêm gan."
+  video: 
+  youtube: egC52hF3Tto
+extras:
+    - title:
+        en: “Various Symptoms“
+        vi: "Triệu chứng khác nhau"
+      oneliner:
+        en: “Here the doctor explores some of the common symptoms of different Co-infections.”
+        vi: “Tại đây, bác sĩ sẽ nói thêm về một số các triệu chứng thường gặp của các trường hợp đồng nhiễm khác nhau.”
+      video: 
+      youtube: yOGqFGiNJuA
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Challenges of IDU“
+        vi: "Thách thức IDU"
+      oneliner:
+        en: “There are many complications of working with the HIV+ community.  Hear what Nurse Oách Kim Nhung says about working with drug users.”
+        vi: “Làm việc với cộng đồng HIV+ có thể có một số rắc rối. Hãy nghe y tá Oách Kim Nhung kể về thời gian làm việc với bệnh nhân là ngừơi sử dụng ma tuý.”
+      video: 
+      youtube: VZP4Lws-GS0
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 7_8
+  chapter_number: “7”
+  title:
+    en: “ARV & Infections“
+    vi: "ARV & Nhiễm trùng "
+  content:
+    en: "Often ARV must stop when a patient has an opportunistic or co-infection. Learn about the balance between ARV and treating the infection."
+    vi: "Việc điều trị ARV thường phải dừng lại khi một bệnh nhân có triệu chứng nhiễm trùng cơ hội hoặc đồng nhiễm. Hãy tìm hiểu thêm về việc cân bằng điều trị ARV và các ca nhiễm."
+  video: 
+  youtube: rmf-AQ1DmMA
+extras:
+    - title:
+        en: “Treating Infections“
+        vi: "Điều trị nhiễm trùng  "
+      oneliner:
+        en: “Dr. Ngô Thị Kim Cúc details some examples of how different infections are treated and how long it takes.”
+        vi: “Bs.  Ngô Thị Kim Cúc giải thích sâu hơn về một số ví dụ của các ca nhiễm khác nhau được điều trị như thế nào và trong bao lâu.”
+      video: 
+      youtube: UPyRU93NkoU
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Persistent Infections“
+        vi: "Nhiễm trùng lặp lại"
+      oneliner:
+        en: “When infections won’t go away, doctors and patients need to make some very hard decisions. Learn more about the choice of treating immunity or the infection.”
+        vi: “Khi tình trạng nhiễm không thuyên giảm, bác sĩ và người bệnh nhân phải có những quyết định rất khó khăn. Hãy tìm hiểu thêm về những lựa chọn chữa trị miễn dịch hay nhiễm trùng.”
+      video: 
+      youtube: Bj7SFrDRL7E
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Multiple Infections“
+        vi: "Đa nhiễm trùng "
+      oneliner:
+        en: “Learn more about treatment challenges for patients with multiple infections. ”
+        vi: “Hãy tìm hiểu thêm về các thử thách trong điều trị cho các bệnh nhân với nhiều loại nhiễm trùng.”
+      video: 
+      youtube: F4YW9Y8vZo8
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 7_9
+  chapter_number: “7”
+  title:
+    en: “Improving Treatment”
+    vi: "Cải thiện điều trị "
+  content:
+    en: "Treatments for some infections have changed a lot, others don’t change much at all. Dr. Le Thuy covers some examples of both."
+    vi: "Điều trị một số loại nhiễm trùng đã thay đổi rất nhiều trong khi một số thì không. Bs. Thuỳ Lê nói về một số ví dụ của cả hai trường hợp."
+  video: 
+  youtube: ekfVz4m_Vo4
+  
+- id: 7_10
+  chapter_number: “7”
+  title:
+    en: “Severe Complication Risks”
+    vi: "Nguy cơ biến chứng nghiêm trọng"
+  content:
+    en: "Doctors and patients need to be very careful when transitioning between Outpatient and Inpatient care, the results can be dangerous."
+    vi: "Bác sĩ điều trị và bệnh nhân cần phải rất cẩn trọng trong quá trình chuyển gửi giữa cơ sở điều trị nội và ngoại trú, nếu không hậu quả sẽ rất nghiêm trọng."
+  video: 
+  youtube: iO3xWPq0f3w
+  
+
+# Chapter 8
+- id: 8_1
+  chapter_number: “8”
+  title:
+    en: “What are CBO?“
+    vi: "CBO là gì"
+  content:
+    en: "CBO are Community Based Organisations. They are community groups set up by and for people living with HIV."
+    vi: "CBO là các tổ chức cộng đồng. Họ là các nhóm cộng đồng được thành lập bởi và dành cho người sống chung với HIV."
+  video: 
+  youtube: 3yrJM1aS3w4
+extras:
+    - title:
+        en: “Neighbourhood & Community“
+        vi: "Cộng đồng & làng xóm"
+      oneliner:
+        en: “Mr. Phạm Thanh Vân  explains why he thinks a community group should be linked by where they live as well as being HIV+.”
+        vi: “Ông Phạm Thanh Vân sẽ giải thích thêm vì sao ông nghĩ các nhóm cộng đồng nên được liên kết dựa trên tình trạng nhiễm cũng như nơi họ sống.”
+      video: 
+      youtube: if8YvHsCceQ
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “The Role of CBO“
+        vi: "Vai trò của CBO"
+      oneliner:
+        en: “The role of the CBO in the HIV+ community is varied and changing but listen here for some ideas on what they do.”
+        vi: “Vai trò của CBO trong cộng đồng HIV+ là đa dạng và liên tục thay đổi nhưng hãy tìm hiểu thêm họ làm những gì tại đây.”
+      video: 
+      youtube: Y2mwxSsXQ_4
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 8_2
+  chapter_number: “8”
+  title:
+    en: “Community Potential“
+    vi: "Tiềm năng của CBO"
+  content:
+    en: "To have community members working for their brothers and sisters in the same community holds much potential. Listen in for some of ideas on the value they bring."
+    vi: "Có một thành viên trong cộng đồng làm việc đóng góp cho anh chị em trong cùng một cộng đồng có nhiều tiềm năng. Hãy lắng nghe thêm về các giá trị họ có thể mang tới cho cộng đồng."
+  video: 
+  youtube: 2xZ5_5WPwyY
+
+- id: 8_3
+  chapter_number: “8”
+  title:
+    en: “CBO Challenges”
+    vi: "Thách thức của CBO"
+  content:
+    en: "Community groups face enormous challenges in continuing to service their communities … Hear how some manage."
+    vi: "Các nhóm cộng đồng đối mặt với các thử thách to lớn khi phải tiếp tục phục vụ cho cộng đồng của họ…hãy nghe thêm họ đã xoay sở như thế nào."
+  video: 
+  youtube: abMRvXVA__o
+extras:
+    - title:
+        en: “Gaps in Care“
+        vi: "Khoảng trống trong dịch vụ chăm sóc"
+      oneliner:
+        en: “There are many challenges for PLWHIV in remaining healthy and on medication. Hear what Nguyen Anh Phong has to say about some of the challenges.”
+        vi: “XXXXXXXXXXXXX”
+      video: 
+      youtube: ps4L_ofr9KY
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Community Not Trusted“
+        vi: "Thiếu tin tưởng cộng đồng "
+      oneliner:
+        en: “Community members are often not wholly trusted members of broader society. This presents problems in organizing support groups.”
+        vi: “Các thành viên cộng đồng thường không được tín nhiệm bởi xã hội. Điều này tạo ra khó khăn cho việc tổ chức các nhóm hỗ trợ.”
+      video: 
+      youtube: BIoazJcbENw
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “CBO Non-registerable“
+        vi: "Tư cách pháp nhân cho CBO"
+      oneliner:
+        en: “CBOs cannot be registered as official organisations in Vietnam, which makes survival a very tricky thing.”
+        vi: “CBO không thể đăng ký tư cách pháp nhân tại Việt Nam, khiến cho việc tồn tại của họ là một thách đố.”
+      video: 
+      youtube: wX2gcU629vc
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 8_4
+  chapter_number: “8”
+  title:
+    en: “CBO Activities”
+    vi: "Hoạt động CBO"
+  content:
+    en: "What do CBOs do on a daily basis? Learn more from those who know them well."
+    vi: "Các hoạt động hàng ngày của CBO là gì? Hãy tìm hiểu để biết thêm từ những chuyên gia trong lĩnh vực.”
+  video: 
+  youtube: BErYsfTijcM
+extras:
+    - title:
+        en: “Social Science“
+        vi: "Khoa học xã hội"
+      oneliner:
+        en: “Mr. Pham Thanh Van explains the need for social science research and exactly what that means.”
+        vi: “Ông Phạm Thanh Vân giải thích nhu cầu của nghiên cứu khoa học xã hội và nó thật sự nghĩa là gì.”
+      video: 
+      youtube: KP8B2UwtnzQ
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Harm Reduction“
+        vi: "Giảm tác hại"
+      oneliner:
+        en: “Learn how social workers take a harm reduction approach where they focus on the risks community members take.”
+        vi: “Tìm hiểu thêm về cách các nhân viên hoạt động xã hội áp dụng phương pháp giảm tác hại khi tập trung vào các hành vi nguy cơ của cộng đồng.”
+      video: 
+      youtube: 89FGXMdgjDI
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Support: Fiance & Psychology“
+        vi: "Hỗ trợ: tài chính & tâm lý"
+      oneliner:
+        en: “Mr. Pham Thanh Van outlines how his CBO, Thinh Than Network has helped community members both financially and in psychological support – both are valuable.”
+        vi: “Ông Phạm Thanh Vân giải thích cách CBO của ông tên gọi Mạng lưới Tình Thân đã giúp các thành viên cộng đồng bằng sự hỗ trợ tài chính cũng như tâm lý – những hỗ trợ đều rất giá trị.”
+      video: 
+      youtube: vRg6V5TkgnQ
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 8_5
+  chapter_number: “8”
+  title:
+    en: “Invest in Community“
+    vi: "Đầu tư vào cộng đồng"
+  content:
+    en: "To gain the best results in caring for PLWHIV and reducing transmission, we need to invest in strengthening our current HIV+ communities."
+    vi: "Để nhận được kết quả tốt nhất từ việc chăm sóc người nhiễm và giảm lây nhiễm, chúng ta cần đầu tư vào cộng đồng HIV+ hiện tại."
+  video: 
+  youtube: HLaCp-I73OY
+
+- id: 8_6
+  chapter_number: “8”
+  title:
+    en: “Risk Group Needs“
+    vi: "Nhu cầu của nhóm nguy cơ"
+  content:
+    en: "Hear how different risk groups have developed the strengths and related communities in different ways."
+    vi: "Hãy lắng nghe để biết thêm các nhóm nguy cơ đã phát triển thế mạnh của họ và các cộng đồng liên quan bằng các cách khác nhau như thế nào."
+  video: 
+  youtube: DAIi1BEwzHs
+extras:
+    - title:
+        en: “Confidentiality“
+        vi: "Bảo mật thông tin"
+      oneliner:
+        en: “People are much more willing to share with people who have common experiences. Learn more about how this empowers CBOs.”
+        vi: “Mọi người thường sẽ sẵn sàng chia sẻ với những ai đã có trải nghiệm tương tự với họ. Hãy tìm hiểu thêm làm sao điều này tạo sức mạnh cho các CBO.”
+      video: 
+      youtube: _j2zrBHhhWE
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 8_7
+  chapter_number: “8”
+  title:
+    en: “Why Methadone?”
+    vi: "Tại sao Methadone?"
+  content:
+    en: "What is methadone? Find out as Dr. Ngo Thi Anh Dong takes us through the basics of how it works for drug addiction."
+    vi: "Methadone là gì? Hãy tìm hiểu thêm khi Bs. Ngô Thị Ánh Đông đưa chúng ta qua các kiến thức cơ bản về tác dụng của phương pháp này đối với tình trạng nghiện chất gây nghiện.”
+  video: 
+  youtube: B63iZnXJF0o
+
+- id: 8_8
+  chapter_number: “8”
+  title:
+    en: “Benefit of Methadone”
+    vi: "Lợi ích của Methadone"
+  content:
+    en: "Hear from Vũ Ngọc Thuý Phương, a peer counsellor of intravenous drug users, as she explains why Methadone is important."
+    vi: "Nghe chị Vũ Ngọc Thuý Phương, một giáo dục đồng đẳng viên cho người sử dụng và tiêm chích ma tuý, giải thích vì sao Methadone quan trọng."
+  video: 
+  youtube: 
+
+- id: 8_9
+  chapter_number: “8”
+  title:
+    en: “The Methadone Program“
+    vi: "Chương trình Methadone"
+  content:
+    en: "Methadone was only recently taken up in Vietnam. Discover how its been managed in HCMC."
+    vi: "Methadone chỉ được điều trị tại Việt Nam gần đây. Hãy khám phá phương pháp này đã được quản lý như thế nào tại TPHCM."
+  video: 
+  youtube: 6yOifoDwrZU
+extras:
+    - title:
+        en: “Treatment Guardian“
+        vi: "Người bảo lãnh điều trị"
+      oneliner:
+        en: “Learn why people in the methadone program need a personal guardian to ensure they take part.”
+        vi: “Tìm hiểu thêm lý do vì sao những ai tham gia vào chương trình Methadone cần một người bảo lãnh để đảm bảo họ tham gia.”
+      video: 
+      youtube: fS_BJB5XsF0
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Registering for Methadone“
+        vi: "Đăng ký điều trị Methadone"
+      oneliner:
+        en: “Methadone is a serious undertaking, so we need to have a well-managed system of care.”
+        vi: “Methadone là một sự cam kết nghiêm túc, vì vây chúng ta cần một hệ thống chăm sóc được quản lý tốt.”
+      video: 
+      youtube: j8S73pGn5hw
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 8_10
+  chapter_number: “8”
+  title:
+    en: "Methadone Doses"
+    vi: "Liều lượng Methadone"
+  content:
+    en: "Heroin users have habits of differing sizes, so it takes some time to work out the right dose of methadone."
+    vi: "Người sử dụng ma tuý có thói quen sử dụng khác nhau, vì vậy thường phải mất thời gian để tìm ra liều lượng methadone chính xác."
+  video: 
+  youtube: qoZdKUMigo8
+extras:
+    - title:
+        en: “Treatment Delivered“
+        vi: "Chuyển phát điều trị"
+      oneliner:
+        en: “Even if patients can’t make it to their clinic, they can still access their treatment.”
+        vi: “Ngay cả khi bệnh nhân không thể đến phòng khám, họ vẫn có thể tiếp nhận điều trị.”
+      video: 
+      youtube: L2KtkcsbwQ0
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+- id: 8_11
+  chapter_number: “8”
+  title:
+    en: “Paying for Methadone“
+    vi: "Thanh toán điều trị Methadone"
+  content:
+    en: "Methadone is only given out at a cost. While the cost is much less than heroin it can still be a challenge for some users."
+    vi: "Methadone vẫn tốn một chi phí nhất định. Tuy nhiên chi phí đó dù thấp hơn ma tuý vẫn là một thử thách với một số bệnh nhân điều trị."
+  video: 
+  youtube: IQ8x6HQLUI0
+
+
+# Chapter 9
+- id: 9_1
+  chapter_number: “9”
+  title:
+    en: “Global Problem & Change”
+    vi: "Vấn đề toàn cầu & thay đổi"
+  content:
+    en: "Stigma is possibly the greatest factor affecting HIV reduction in the world today but things have also improved significantly over time."
+    vi: ""
+  video: 
+  youtube: F472NJKDhzc
+  
+- id: 9_2
+  chapter_number: “9”
+  title:
+    en: “Stigma Statistics”
+    vi: "Thông số kỳ thị"
+  content:
+    en: "Mr. Nguyen Anh Phong, Director of the NGO called VNP+, has done the research: Stigma has changed but not gone away."
+    vi: ""
+  video: 
+  youtube: gzqirh7Reas
+extras:
+    - title:
+        en: “Stigma Going?“
+        vi: "Kỳ thị tiếp diễn?"
+      oneliner:
+        en: “Many people who work in the field of HIV feel that stigma is no longer a problem for PLWHIV. What do you think? How gone is it?”
+        vi: “”
+      video: 
+      youtube: 6mUUJKCmxtw
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 9_3
+  chapter_number: “9”
+  title:
+    en: “Impact of Stigma”
+    vi: "Tác động của kỳ thị?"
+  content:
+    en: "No matter how present, Stigma has an impact on PLWHIV; and that impact can be huge. "
+    vi: ""
+  video: 
+  youtube: v8Cj7e5c-f4
+extras:
+    - title:
+        en: “Stigma & Anxiety“
+        vi: "Kỳ thị & nỗi lo"
+      oneliner:
+        en: “Ms. Vũ Ngọc Thuý Phương, peer counsellor, explains how stigma can make PLWHIV anxious and paranoid.”
+        vi: “”
+      video: 
+      youtube: rf-fix3jC5c
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 9_4
+  chapter_number: “9”
+  title:
+    en: “Roots of Discrimination“
+    vi: "Gốc rễ của phân biệt đối xử"
+  content:
+    en: "Its association with “social evils” has significantly contributed to the stigma associated with HIV. Learn more about where this anxiety in the general community comes from."
+    vi: ""
+  video: 
+  youtube: cKEflHfIZwk
+extras:
+    - title:
+        en: “Fear & Family“
+        vi: "Nỗi lo sợ & gia đình"
+      oneliner:
+        en: “Families are not immune to discrimination when it comes to HIV.”
+        vi: “”
+      video: 
+      youtube: H2xgYB1xWZM
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Public Perceptions“
+        vi: "Nhận thức của công chúng"
+      oneliner:
+        en: “Respected Pediatric HIV specialist, Dr. Truong Huu Khanh, speaks out about the different ways HIV is perceived in Vietnam versus the rest of the world.”
+        vi: “”
+      video: 
+      youtube: k4IBD1x99VU
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 9_5
+  chapter_number: “9”
+  title:
+    en: “Discrimination in Care”
+    vi: "Phân biệt đối xử trong điều trị"
+  content:
+    en: "There are many ways that PLWHIV may be discriminated against. Medical care is not the least common place."
+    vi: ""
+  video: 
+  youtube: 0WVQyw61MSQ
+extras:
+    - title:
+        en: “Challenging Patients“
+        vi: "Bệnh nhân khó khăn"
+      oneliner:
+        en: “Not all patients are at ease with medical care. Some mistrust those that help them the most.”
+        vi: “”
+      video: 
+      youtube: gapxpBIjs3s
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 9_6
+  chapter_number: “9”
+  title:
+    en: “Disclosure & Risk”
+    vi: "Công bố & nguy cơ"
+  content:
+    en: "There are many risks associated with the disclosure of your HIV status. Some are for the patient but some impact medical staff too."
+    vi: ""
+  video: 
+  youtube: kIwGuW53wKE
+ extras:
+    - title:
+        en: “Employer Testing“
+        vi: "Đòi hỏi xét nghiệm khi tuyển dụng"
+      oneliner:
+        en: “Some employers still enforce compulsory HIV testing. Hear Ms. Vũ Ngọc Thuý Phương explain why that isn’t reasonable.”
+        vi: “”
+      video: 
+      youtube: 8i7jdLp6vG4
+      type: “professional”
+      image: thumb_placeholder.jpg
+ 
+- id: 9_7
+  chapter_number: “9”
+  title:
+    en: “Attitudes to Children”
+    vi: "Thái độ với trẻ em"
+  content:
+    en: "Dr. Truong Huu Khanh  explains that there is a lot of discrimination when it comes to children who are HIV+; usually from adults."
+    vi: ""
+  video: 
+  youtube: vBx4Rwsg_1I
+ extras:
+    - title:
+        en: “Stigma in Schools“
+        vi: "Kỳ thị trong trường học"
+      oneliner:
+        en: “Stigma can play a big part in the experience of HIV+ school aged children.  Hear what impact this has on young people.”
+        vi: “”
+      video: 
+      youtube: FRsl4uHpnAc
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+# Chapter 10
+- id: 10_1
+  chapter_number: “10”
+  title:
+    en: “Past Communication“
+    vi: "Truyền thông trong quá khứ"
+  content:
+    en: "Communication needs and goals have changed a lot. Learn more about how."
+    vi: ""
+  video: 
+  youtube: kgTIJAEKsiU
+  
+- id: 10_2
+  chapter_number: “10”
+  title:
+    en: “CBO Communication“
+    vi: "Truyền thông CBO"
+  content:
+    en: "Community groups have also changed a lot, especially how the communicate."
+    vi: ""
+  video: 
+  youtube: 3MZYyC5CP58
+extras:
+    - title:
+        en: “Reaching Children“
+        vi: "Tiếp cận trẻ em"
+      oneliner:
+        en: “How professionals reach out to children and young people is a little different to older communities. Discover how it differs.”
+        vi: “”
+      video: 
+      youtube: 8X3qpcId4d8
+      type: “professional”
+      image: thumb_placeholder.jpg
+ 
+- id: 10_3
+  chapter_number: “10”
+  title:
+    en: “Government Activites”
+    vi: "Hoạt động của chính phủ"
+  content:
+    en: "The government has been continuously trialing new innovations in communication with the HIV+ communities. Hear about some of their most successful activities."
+    vi: ""
+  video: 
+  youtube: Vj9g2DG-n_c
+extras:
+    - title:
+        en: “Government Partnerships“
+        vi: "Hợp tác với chính phủ"
+      oneliner:
+        en: “Importantly, the Provincial AIDS committee has worked with various government agencies and departments to deliver better HIV control and care.”
+        vi: “”
+      video: 
+      youtube: ipZzsOMmtqE
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 10_4
+  chapter_number: “10”
+  title:
+    en: “Community OUtreach“
+    vi: "Tiếp cận cộng đồng"
+  content:
+    en: "The ways we reach out to communities varies broadly when talking about face-to-face outreach. Hear about some of these activities here."
+    vi: ""
+  video: 
+  youtube: 3PjOCbEJv-4
+extras:
+    - title:
+        en: “Hotspot Targeting“
+        vi: "Nhắm tới điểm nóng"
+      oneliner:
+        en: “Hotspot targeting is a method where healthworkers and peer educators find risk group public places to do community outreach.”
+        vi: “”
+      video: 
+      youtube: 7OJsSdM8Tcw
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 10_5
+  chapter_number: “10”
+  title:
+    en: “Communication Challenges”
+    vi: "Thách thức truyền thông"
+  content:
+    en: "Listen here to discover more about the challenges faced in successful HIV communication."
+    vi: ""
+  video: 
+  youtube: v8Hij5DZqA4
+
+
+
+ # Chapter 11
+- id: 11_1
+  chapter_number: “11”
+  title:
+    en: "International Withdrawal"
+    vi: "Nguồn lực quốc tế rút lui"
+  content:
+    en: "Hear from many of our participants as we review the withdrawal of international funding from HIV in Vietnam. Understand the great impact of this change as the broader community seeks solutions while continuing to reduce the number of new infections."
+    vi: ""
+  video: 
+  youtube: 1PRBfdWXeZ4
+extras:
+    - title:
+        en: “Lost Services“
+        vi: "Thất thoát dịch vụ"
+      oneliner:
+        en: “Of course with financial cuts will come a loss of some services. Hear where some of the cuts will be and what that might mean for the community and professionals. ”
+        vi: “”
+      video: 
+      youtube: 7iczXyob8pg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Lost Knowledge“
+        vi: "Thất thoát kiến thức"
+      oneliner:
+        en: “Mr. Pham Thanh Van reflects on his observation that in working with young people he has seen a growing lack of knowledge about sexually transmitted diseases such as HIV. Coupled with budget cuts he is concerned about the future.”
+        vi: “”
+      video: 
+      youtube: wdNYnrjFprA
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+- id: 11_2
+  chapter_number: “11”
+  title:
+    en: "Pledge 90-90-90"
+    vi: "Cam kết 90-90-90"
+  content:
+    en: "The 90-90-90 pledge was a commitment made by Vietnam to WHO and UNAIDS to reduce the HIV in the country. See this video for more detail about what we have undertaken to achieve."
+    vi: ""
+  video: 
+  youtube: ucTmgbW60JM
+extras:
+    - title:
+        en: “90-90-90 & CBO“
+        vi: "90-90-90 & CBO"
+      oneliner:
+        en: “There is a strong role for community groups in achieving the 90-90-90 pledge by 2030. Hear from a range of CBO leaders about what they can do to help reach this challenging but valuable goal.”
+        vi: “”
+      video: 
+      youtube: dT-nNenjZaY
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “CBO Solutions“
+        vi: "Giải pháp CBO"
+      oneliner:
+        en: “Follow on with this video to hear what other solutions might come from the community organization sector.”
+        vi: “”
+      video: 
+      youtube: NV3HE8O1DD8
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+
+- id: 11_3
+  chapter_number: “11”
+  title:
+    en: "Outpatient Integration"
+    vi: "Sát nhập điều trị ngoại trú"
+  content:
+    en: "As a response to a new, smaller budget for HIV/AIDS control, the Ministry of Health is trying to make savings by establishing outpatient clinics inside all local health posts or local hospitals, so that the specialist clinics can be closed."
+    vi: ""
+  video: 
+  youtube: byARwXGxxU8
+extras:
+    - title:
+        en: “Challenges to Integration“
+        vi: "Thách thức sát nhập"
+      oneliner:
+        en: “There are many challenges to integration so join our participants and learn more about what obstacles they face.”
+        vi: “”
+      video: 
+      youtube: DJZAQFHqeJY
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Benefits & Risks“
+        vi: "Lợi ích & rủi ro"
+      oneliner:
+        en: “Of course with any great change comes potential benefits and risks. Learn what some of them are here.”
+        vi: “”
+      video: 
+      youtube: 6uDPTlUIyLI
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “3-In-1 Integration“
+        vi: "Sát nhập 3 trong 1"
+      oneliner:
+        en: “Dr. Ngo Thi Anh Dong explores in detail the specific services that are to be found in an integrated service. ”
+        vi: “”
+      video: 
+      youtube: HNmB8mk8EuU
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+
+- id: 11_4
+  chapter_number: “11”
+  title:
+    en: "Insurance for HIV"
+    vi: "Bảo hiểm cho HIV"
+  content:
+    en: "The move towards a user pays system is somewhat complicated by the ward level health insurance that is being established by the government. Learn more about how it might work and what the challenges are ahead."
+    vi: ""
+  video: 
+  youtube: aC2dzYwQPCg
+extras:
+    - title:
+        en: “Costs & Benefits?“
+        vi: "Chi phí & Lợi ích"
+      oneliner:
+        en: “Watch this to hear more of the costs and benefits that are part of the insurance based HIV care proposal.”
+        vi: “”
+      video: 
+      youtube: vNcuPXpepls
+      type: “professional”
+      image: thumb_placeholder.jpg
+  
+
+- id: 11_5
+  chapter_number: “11”
+  title:
+    en: "Insurance Challenges”
+    vi: "Thách thức bảo hiểm"
+  content:
+    en: "The stakes are high so continue on here to understand more about what the challenges are to establishing a viable health insurance scheme for PLWHIV. Has this been achieved anywhere in the world before?"
+    vi: ""
+  video: 
+  youtube: w77NrmW9CH4
+extras:
+    - title:
+        en: “Technical Barrier“
+        vi: "Rào cản kỹ thuật "
+      oneliner:
+        en: “Currently, local health centres cannot work with the government insurance system … Does it simply mean a change in name or is it a more complicated problem?”
+        vi: “”
+      video: 
+      youtube: 5li-8y1p-XA
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “No Personal ID“
+        vi: "Không giấy tờ cá nhân"
+      oneliner:
+        en: “An ongoing issue, especially for the poorest citizens, is their access to an ID card.  For various reasons many people cannot get cards, which is already a complication in HIV care in some cases.”
+        vi: “”
+      video: 
+      youtube: 8Xc_eRNhTHg
+      type: “professional”
+      image: thumb_placeholder.jpg
+    - title:
+        en: “Location of Registration“
+        vi: "Đăng ký lưu trú"
+      oneliner:
+        en: “As in the last video, location of registration is an issue tied to personal ID. Learn more about these challenges here.”
+        vi: “”
+      video: 
+      youtube: JWmRMosG50A
+      type: “professional”
+      image: thumb_placeholder.jpg
+
+
+- id: 11_6
+  chapter_number: “11”
+  title:
+    en: "Not Insured?"
+    vi: "Không được bảo hiểm?"
+  content:
+    en: "What would happen to people without insurance in this new system? This challenging question raises a number of issues."
+    vi: ""
+  video: 
+  youtube: nXUkjyCYMyg
+
+
+

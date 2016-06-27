@@ -7,43 +7,26 @@
 en:
   chapter: "Chapter"
   sitename: "Place of Change"
-  sitetopic: "Understanding Malaria"
-  homepage: "Learn where we stand in the fight to control malaria in Vietnam. Meet the communities affected by the disease and the healthworkers who help them."
+  sitetopic: "Understanding HIV”
+  homepage: ""
 
   home_chapter_title: "Explore the chapters"
-  home_chapter_text: "Find out more about the fight against malaria in Vietnam."
+  home_chapter_text: "Find out more about the fight against HIV in Vietnam."
   home_community_title: "Community Narratives"
-  home_community_text: "Hear from four community members effected by malaria."
+  home_community_text: "Hear from four community members effected by HIV.”
 
   extraheading: "Dive a bit deeper"
 
 vi:
   chapter: "Chương"
   sitename: "Nơi Thay Đổi"
-  sitetopic: "Hiểu Về Sốt Rét"
+  sitetopic: "Hiểu Về HIV”
   homepage: "Hãy tìm hiểu xem vị trí chúng ta đang đứng trong cuộc chiến chống lại bệnh sốt rét ở Việt Nam. Gặp gỡ những người cộng đồng từng bị ảnh hưởng bởi căn bệnh, và các nhân viên y tế giúp đỡ họ."
 
   home_chapter_title: "Khám phá các chương"
-  home_chapter_text: "Tìm hiểu thêm về cuộc chiến chống lại sốt rét ở Việt Nam."
+  home_chapter_text: "Tìm hiểu thêm về cuộc chiến chống lại HIV ở Việt Nam."
   home_community_title: "Câu chuyện về cộng đồng"
-  home_community_text: "Nghe câu chuyện của bốn người cộng đồng bị ảnh hưởng bởi sốt rét."
+  home_community_text: "Nghe câu chuyện của bốn người cộng đồng bị ảnh hưởng bởi HIV.”
 
   extraheading: "TIẾN VÀO SÂU HƠN"
 
-
-
-#
-# Animation films
-
-animation1:
-  title:
-    en: "Malaria Lifecycle: The Human Host"
-    vi: "Malaria Lifecycle: The Human Host"
-  video: "Malaria_Lifecycle_The_Human_Host"
-  youtube: gpfWjkGeGEM
-animation2:
-  title:
-    en: "Malaria Lifecycle: The Mosquito Host"
-    vi: "Malaria Lifecycle: The Mosquito Host"
-  video: "Malaria_Lifecycle_The_Mosquito_Host"
-  youtube: JA5dkcp5msE
