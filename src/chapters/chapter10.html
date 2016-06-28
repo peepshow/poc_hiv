@@ -1,0 +1,30 @@
+---
+layout: default
+type: chapter
+chapter_number: "10"
+image: chapter_10_feature.jpg
+
+en:
+  title: Communication
+  intro: "Communication around HIV has been a major aspect of prevention. AIDS sprung to infamy and with it a global response heavily demonised the virus - as ARV were years away from development – only social campaigns could encourage behaviour change as the sole way to fight the highly efficient killer. Now the messages are much more varied and subtle but one thing remains; as a disease with a broad social dimension communication is key in reducing and possibly eliminating it."
+vi:
+  title: Truyền thông
+  intro: "Truyền thông chung quanh HIV vẫn luôn là một khía cạnh quan trọng của công tác phòng chống. Khi AIDS trở thành đại dịch và phản ứng toàn cầu là biến con virus này thành ác quỷ - trong khi ARV đến vài năm nữa mới được tìm ra – chỉ có những chiến dịch xã hội mới có thể khuyến khích thay đổi hành vi và là cách duy nhất để chống lại sát nhân cao tay này. Hiện nay các thông điệp đã đa dạng và tinh tế hơn, tuy nhiên một điều vẫn đọng lại; với một bệnh dịch mang tính xã hội, truyền thông là chìa khoá để giảm và thậm chí loại trừ nó."
+---
+{% include header.html %}
+
+<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
+  <div id="bgimage" class="bgimage"></div>
+  <aside class="sidebar">
+    {% include chapter_nav.html %}
+    {% include theme_nav.html chapter_number=page.chapter_number %}
+  </aside>
+
+  <header id="intro" class="header--chapter">
+    {% include chapter_head.html %}
+  </header>
+
+  <main class="main" role="main">
+    {% include theme_loop.html chapter_number=page.chapter_number %}
+  </main>
+</div>

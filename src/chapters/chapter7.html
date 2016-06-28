@@ -1,0 +1,30 @@
+---
+layout: default
+type: chapter
+chapter_number: "7"
+image: chapter_7_feature.jpg
+
+en:
+  title: Outpatient and Inpatient
+  intro: "Outpatient care begins with testing in the community and can supply basic care to PLWHIV.  Once there are complications caused by HIV that cannot be treated as an outpatient then they may seek care in an inpatient hospital ward. This chapter explores the specific roles, tasks and challenges that each kind of care faces.  Both levels of care are likely to be seen by someone living with HIV at some point, so these services are critical in controlling HIV in the community."
+vi:
+  title: Bệnh nhân nội và ngoại trú
+  intro: "Dịch vụ chăm sóc ngoại trú bắt đầu từ xét nghiệm trong cộng đồng và khả năng cung cấp dịch vụ chăm sóc cơ bản cho người sống chung với HIV. Khi có những biến chứng gây ra bởi HIV không thể điều trị ngoại trú, bệnh nhân bắt buộc phải được điều trị nội trú tại bệnh viện. Chương này sẽ đi vào khám phá các vai trò cụ thể, nhiệm vụ và thách thức mỗi dịch vụ chăm sóc phải đối mặt. Từng tầng của dịch vụ chăm sóc đều có khả năng được tiếp cận bởi người sống chung với HIV tại một thời điểm nào đó, vì vậy các dịch vụ này là rất quan trọng trong việc kiểm soát tình trạng dịch HIV trong cộng đồng."
+---
+{% include header.html %}
+
+<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
+  <div id="bgimage" class="bgimage"></div>
+  <aside class="sidebar">
+    {% include chapter_nav.html %}
+    {% include theme_nav.html chapter_number=page.chapter_number %}
+  </aside>
+
+  <header id="intro" class="header--chapter">
+    {% include chapter_head.html %}
+  </header>
+
+  <main class="main" role="main">
+    {% include theme_loop.html chapter_number=page.chapter_number %}
+  </main>
+</div>

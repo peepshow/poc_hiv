@@ -14,26 +14,36 @@
     z-index: -1;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #fff;
   }
-  &.chapter1 .bgimage { background-image: url(../images/bg_whatitis.jpg); }
-  &.chapter2 .bgimage { background-image: url(../images/bg_transmission.jpg); }
-  &.chapter3 .bgimage { background-image: url(../images/bg_prevention.jpg); }
-  &.chapter4 .bgimage { background-image: url(../images/bg_treatment.jpg); }
-  &.chapter5 .bgimage { background-image: url(../images/bg_communication.jpg); }
-
+  &.chapter1 .bgimage { background-image: url(../images/bg_1.jpg); }
+  &.chapter2 .bgimage { background-image: url(../images/bg_2.jpg); }
+  &.chapter3 .bgimage { background-image: url(../images/bg_3.jpg); }
+  &.chapter4 .bgimage { background-image: url(../images/bg_4.jpg); }
+  &.chapter5 .bgimage { background-image: url(../images/bg_5.jpg); }
+  &.chapter6 .bgimage { background-image: url(../images/bg_6.jpg); }
+  &.chapter7 .bgimage { background-image: url(../images/bg_7.jpg); }
+  &.chapter8 .bgimage { background-image: url(../images/bg_8.jpg); }
+  &.chapter9 .bgimage { background-image: url(../images/bg_9.jpg); }
+  &.chapter10 .bgimage { background-image: url(../images/bg_10.jpg); }
+  &.chapter11 .bgimage { background-image: url(../images/bg_11.jpg); }
 }
+
+
+
+
 .header--chapter {
-  @include span-columns(12);
+  @include span-columns(6);
   //background-color: rgba(250,50,50,0.2);
-  padding-left: 30vw;
+  margin: 18vh 0 0 36vw;
   min-height: 60vh;
   text-align: left;
   color: white;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 
   hgroup {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 5em;
     h1 {
       //font-size: 3rem;
       font-weight: 400;
@@ -50,12 +60,24 @@
       letter-spacing: 0.04em;
     }
   }
+
+}
+
+.sidebar {
+  @include span-columns(3);
+  margin-top: 13vh;
+  //background-color: rgba(#444, 0.2);
+  position: fixed;
+  z-index: 999;
 }
 
 
+
 .theme {
-  @include span-columns(12);
-  padding: 10vh 3vw 20vh 30vw;
+  @include span-columns(9);
+  @include shift(3);
+  padding: 10vh 4vw 20vh;
+
   position: relative;
 
   .bg_overlay {
@@ -92,6 +114,7 @@
   //@include span-columns(10);
   margin: 0 0 4vh;
   position: relative;
+  box-shadow: 2px 0 70px rgba(50,50,50,0.5), 2px 0 16px rgba(50,50,50,0.6);
 
   .video--caption {
     position: absolute;
@@ -189,11 +212,13 @@
   height: 170px;
   position: relative;
   overflow: hidden;
-  box-shadow: 0px 0px 43px #474747;
+  box-shadow: 2px 0 30px rgba(50,50,50,0.3), 2px 0 10px rgba(50,50,50,0.6);
+
   .caption {
     position: absolute;
     top: 1.2em;
     left: 1.2em;
+    padding-right: 1.6em;
   }
   h2 {
     font-size: 1em;
@@ -207,12 +232,13 @@
     font-size: 0.8em;
   }
   img {
-    position: absolute;
-    top: 0;
-    left: 0;
+    top: -5%;
+    left: -5%;
+    right: -5%;
+    bottom: -5%;
+    min-height: 110%;
+    min-width: 110%;
     filter: blur(3px) brightness(0.7);
-    min-height: 100%;
-    width: 100%;
     transition: all 0.2s cubic-bezier(0.68, 0.09, 0.81, 0.99);
   }
   &::after {

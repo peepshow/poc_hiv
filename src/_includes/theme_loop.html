@@ -41,7 +41,7 @@
           <header class="theme--header">
             <h2 class="Content-title js-Content-title slideInUp">{{theme.title[site.active_lang]}}</h2>
           </header>
-          <p>{{theme.oneliner[site.active_lang]}}</p>
+          <p>{{theme.content[site.active_lang]}}</p>
         </figcaption>
       </figure>
 
@@ -58,7 +58,7 @@
               <img src="{{site.baseurl}}/assets/images/{{extra.image}}" alt="">
               <div class="caption">
                 <h2>{{extra.title[site.active_lang]}}</h2>
-                <p>{{extra.oneliner[site.active_lang] | truncatewords: 15 }}</p>
+                <p>{{extra.oneliner[site.active_lang] | truncatewords: 20 }}</p>
               </div>
             </a>
 

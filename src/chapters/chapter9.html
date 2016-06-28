@@ -1,0 +1,30 @@
+---
+layout: default
+type: chapter
+chapter_number: "9"
+image: chapter_9_feature.jpg
+
+en:
+  title: Stigma
+  intro: "Stigma is central to the experience that HIV+ communities have with HIV/AIDS. From the start of the pandemic through to now, the stigma associated with the disease for a raft of reasons has significantly affected our ability to control the transmission of HIV through good prevention activities.  A history connected to prostitution and drug use, and an association with social taboos such as homosexuality, has ensured that HIV needs to be treated clinically, socially and psychologically. This is a complex mix to get right, and while care has improved it’s an ongoing battle to fix the associations the public holds of HIV and people who have HIV."
+vi:
+  title: Kỳ thị
+  intro: "Vấn đề kỳ thị là trọng điểm của trải nghiệm mà cộng đồng người chung sống với HIV có với HIV/AIDS. Từ những ngày đầu của dịch, sự kỳ thị đã gắn liền với căn bệnh vì rất nhiều lý do và ảnh hưởng rất lớn đến khả năng kiểm soát mật độ lây nhiễm qua các hoạt động phòng chống hiệu quả. Với một lịch sử gắn liền với mại dâm và sử dụng ma tuý, và mối liên hệ với chủ đề cấm kỵ như đồng tính, đã khiến cho HIV cần được điều trị về mặt y tế, xã hội và tâm lý. Nó là một sự kết hợp phức tạp và rất khó để thực hiện đúng, và trong khi dịch vụ chăm sóc đã cải thiện đáng kể, vẫn còn một cuộc chiến đang diễn ra để xoá bỏ những liên tưởng công chúng đang có với HIV và người sống chung với HIV."
+---
+{% include header.html %}
+
+<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
+  <div id="bgimage" class="bgimage"></div>
+  <aside class="sidebar">
+    {% include chapter_nav.html %}
+    {% include theme_nav.html chapter_number=page.chapter_number %}
+  </aside>
+
+  <header id="intro" class="header--chapter">
+    {% include chapter_head.html %}
+  </header>
+
+  <main class="main" role="main">
+    {% include theme_loop.html chapter_number=page.chapter_number %}
+  </main>
+</div>

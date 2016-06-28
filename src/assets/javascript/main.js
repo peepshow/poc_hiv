@@ -69,6 +69,21 @@
     .setTween(bgMove)
     .addTo(ctrl);
 
+    // Move the aside navigation
+    // var bgheight = $('#bgimage').height();
+    // var bgMove = TweenLite.to($('#bgimage'), 1, {
+    //   y: '-=' + (bgheight / 2),
+    //   ease: Linear.easeNone
+    // })
+    //
+    // new ScrollMagic.Scene({
+    //   duration: $(document).height() * 2,
+    //   triggerElement: 'body',
+    //   triggerHook: 0.5,
+    // })
+    // .setTween(bgMove)
+    // .addTo(ctrl);
+
   }
 
   if($('#chapter').length > 0 ){

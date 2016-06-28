@@ -7,10 +7,26 @@
   oneliner:
     en: "Story introduction text"
     vi: "Câu chuyện của Tâm introduction text"
-  video: POC_3_-_Binh_Phuoc_-_Tam
-  youtube: PEzjHRUJ-H0
   image: "story_1.jpg"
   previewimg: "story_1_preview.jpg"
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
 
 - id: story_2
   title:
@@ -19,10 +35,26 @@
   oneliner:
     en: "Story introduction text"
     vi: "Câu chuyện của Tâm introduction text"
-  video: POC_3_-_Binh_Phuoc_-_Liem
-  youtube: haH6z3_3MaY
   image: "story_2.jpg"
   previewimg: "story_2_preview.jpg"
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
 
 - id: story_3
   title:
@@ -31,10 +63,26 @@
   oneliner:
     en: "Story introduction text"
     vi: "Câu chuyện của Tâm introduction text"
-  video: POC_3_-_Binh_Phuoc_-_Hung
-  youtube: _xIMonAIGvE
   image: "story_3.jpg"
   previewimg: "story_3_preview.jpg"
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
 
 - id: story_4
   title:
@@ -43,7 +91,23 @@
   oneliner:
     en: "Story introduction text"
     vi: "Câu chuyện của Tâm introduction text"
-  video: POC_3_-_Binh_Phuoc_-_Dieu_Lem
-  youtube: gEHJrDZfJ4M
   image: "story_4.jpg"
   previewimg: "story_4_preview.jpg"
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0
+  - video:
+    title:
+      en:
+      vi:
+    url: POC_3_-_Binh_Phuoc_-_Tam
+    youtube: PEzjHRUJ-H0  

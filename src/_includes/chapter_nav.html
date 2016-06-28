@@ -1,10 +1,17 @@
 <nav class="chapter_nav">
+  <h4>Chapter:</h4>
   <ul>
-    <li><a href="{{ site.baseurl }}/chapters/chapter1.html" class="{% if page.url == '/chapters/chapter1.html' %}active{% endif %}">Chapter 1</a></li>
-    <li><a href="{{ site.baseurl }}/chapters/chapter2.html" class="{% if page.url == '/chapters/chapter2.html' %}active{% endif %}">Chapter 2</a></li>
-    <li><a href="{{ site.baseurl }}/chapters/chapter3.html" class="{% if page.url == '/chapters/chapter3.html' %}active{% endif %}">Chapter 3</a></li>
-    <li><a href="{{ site.baseurl }}/chapters/chapter4.html" class="{% if page.url == '/chapters/chapter4.html' %}active{% endif %}">Chapter 4</a></li>
-    <li><a href="{{ site.baseurl }}/chapters/chapter5.html" class="{% if page.url == '/chapters/chapter5.html' %}active{% endif %}">Chapter 5</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter1.html" class="{% if page.url == '/chapters/chapter1.html' %}active{% endif %}">1</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter2.html" class="{% if page.url == '/chapters/chapter2.html' %}active{% endif %}">2</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter3.html" class="{% if page.url == '/chapters/chapter3.html' %}active{% endif %}">3</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter4.html" class="{% if page.url == '/chapters/chapter4.html' %}active{% endif %}">4</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter5.html" class="{% if page.url == '/chapters/chapter5.html' %}active{% endif %}">5</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter6.html" class="{% if page.url == '/chapters/chapter6.html' %}active{% endif %}">6</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter7.html" class="{% if page.url == '/chapters/chapter7.html' %}active{% endif %}">7</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter8.html" class="{% if page.url == '/chapters/chapter8.html' %}active{% endif %}">8</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter9.html" class="{% if page.url == '/chapters/chapter9.html' %}active{% endif %}">9</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter10.html" class="{% if page.url == '/chapters/chapter10.html' %}active{% endif %}">10</a></li>
+    <li><a href="{{ site.baseurl }}/chapters/chapter11.html" class="{% if page.url == '/chapters/chapter11.html' %}active{% endif %}">11</a></li>
   </ul>
-  <h3><span>Chapter {{page.chapter_number}}:</span> {{page.[site.active_lang]title}}</h3>
+  <h3>{{ page[site.active_lang].title }}</h3>
 </nav>
