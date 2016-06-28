@@ -9,24 +9,25 @@
     vi: "Câu chuyện của Tâm introduction text"
   image: "story_1.jpg"
   previewimg: "story_1_preview.jpg"
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
+  clips:
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
 
 - id: story_2
   title:
@@ -37,24 +38,25 @@
     vi: "Câu chuyện của Tâm introduction text"
   image: "story_2.jpg"
   previewimg: "story_2_preview.jpg"
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
+  clips:
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
 
 - id: story_3
   title:
@@ -65,24 +67,25 @@
     vi: "Câu chuyện của Tâm introduction text"
   image: "story_3.jpg"
   previewimg: "story_3_preview.jpg"
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
+  clips:
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
 
 - id: story_4
   title:
@@ -93,21 +96,22 @@
     vi: "Câu chuyện của Tâm introduction text"
   image: "story_4.jpg"
   previewimg: "story_4_preview.jpg"
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0
-  - video:
-    title:
-      en:
-      vi:
-    url: POC_3_-_Binh_Phuoc_-_Tam
-    youtube: PEzjHRUJ-H0  
+  clips:
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0
+    - video:
+      title:
+        en:
+        vi:
+      url: POC_3_-_Binh_Phuoc_-_Tam
+      youtube: PEzjHRUJ-H0 
