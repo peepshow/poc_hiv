@@ -14,18 +14,19 @@
     z-index: -1;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: top center;
   }
-  &.chapter1 .bgimage { background-image: url(../images/bg_1.jpg); }
-  &.chapter2 .bgimage { background-image: url(../images/bg_2.jpg); }
-  &.chapter3 .bgimage { background-image: url(../images/bg_3.jpg); }
-  &.chapter4 .bgimage { background-image: url(../images/bg_4.jpg); }
-  &.chapter5 .bgimage { background-image: url(../images/bg_5.jpg); }
-  &.chapter6 .bgimage { background-image: url(../images/bg_6.jpg); }
-  &.chapter7 .bgimage { background-image: url(../images/bg_7.jpg); }
-  &.chapter8 .bgimage { background-image: url(../images/bg_8.jpg); }
-  &.chapter9 .bgimage { background-image: url(../images/bg_9.jpg); }
-  &.chapter10 .bgimage { background-image: url(../images/bg_10.jpg); }
-  &.chapter11 .bgimage { background-image: url(../images/bg_11.jpg); }
+  &.chapter1 .bgimage { background-image: url(../images/chapters/bg_01.jpg); }
+  &.chapter2 .bgimage { background-image: url(../images/chapters/bg_02.jpg); }
+  &.chapter3 .bgimage { background-image: url(../images/chapters/bg_03.jpg); }
+  &.chapter4 .bgimage { background-image: url(../images/chapters/bg_04.jpg); }
+  &.chapter5 .bgimage { background-image: url(../images/chapters/bg_05.jpg); }
+  &.chapter6 .bgimage { background-image: url(../images/chapters/bg_06.jpg); }
+  &.chapter7 .bgimage { background-image: url(../images/chapters/bg_07.jpg); }
+  &.chapter8 .bgimage { background-image: url(../images/chapters/bg_08.jpg); }
+  &.chapter9 .bgimage { background-image: url(../images/chapters/bg_09.jpg); }
+  &.chapter10 .bgimage { background-image: url(../images/chapters/bg_10.jpg); }
+  &.chapter11 .bgimage { background-image: url(../images/chapters/bg_11.jpg); }
 }
 
 
