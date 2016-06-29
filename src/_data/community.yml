@@ -2,116 +2,130 @@
 #
 - id: story_1
   title:
-    en: "Tam’s Story"
-    vi: "Câu chuyện của Tâm"
+    en: "Kieu’s Story"
+    vi: "Chuyện của Kiều"
   oneliner:
-    en: "Story introduction text"
-    vi: "Câu chuyện của Tâm introduction text"
+    en: "Kieu discovered she was HIV+ during a routine test while pregnant with her third child – luckily the baby later tested negative. She then safely had a fourth child. Hear her story of living with HIV."
+    vi: "Kiều phát hiện cô bị nhiễm HIV+ trong một lần đi khám thai định kỳ cho đứa con thứ ba của cô - may thay,  đứa bé được chẩn đoán âm tính. Sau đó, cô an toàn hạ sinh cho đứa con thứ tư. Hãy lắng nghe câu chuyện cô sống chung với HIV."
   image: "story_1.jpg"
   previewimg: "story_1_preview.jpg"
   clips:
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Becoming Positive"
+        vi: "Đứa con thứ tư"
+      url:
+      youtube: KAs5Y9Himmc
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "A Fourth Baby"
+        vi: "Đứa con thứ tư"
+      url:
+      youtube: QAFiwq2hLV8
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Living with HIV"
+        vi: "Sống chung với HIV"
+      url:
+      youtube: 9zvWEedeTHo
 
 - id: story_2
   title:
-    en: "Liem’s Story"
-    vi: "Câu chuyện của Liem"
+    en: "Qui’s Story"
+    vi: "Chuyện của Quí"
   oneliner:
-    en: "Story introduction text"
-    vi: "Câu chuyện của Tâm introduction text"
+    en: "Qui is young, educated and gay. He first questioned his HIV status after completing an online quiz about his behavior but it took the third attempt to see the test through.  Hear how Qui now supports his community."
+    vi: "Qui còn trẻ, có giáo dục và đồng tính. Cậu bắt đầu tự vấn tình trạng HIV của mình sau khi làm một bài trắc nghiệm trên mạng về hành vi, nhưng phải đến lần thứ ba cậu mới hiểu kết quả bài trắc nghiệm của mình. Hãy lắng nghe cách Qui ủng hộ cho cộng đồng của mình."
   image: "story_2.jpg"
   previewimg: "story_2_preview.jpg"
   clips:
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Becoming Positive"
+        vi: "Trở thành dương tính"
+      url:
+      youtube: b1Pk4zybWgU
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Community & Support"
+        vi: "Cộng đồng & Hỗ trợ"
+      url:
+      youtube: cmLQgrxoayc
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Sharing My Status"
+        vi: "Bộc lộ tình trạng nhiễm"
+      url:
+      youtube: gALES550O2I
 
 - id: story_3
   title:
-    en: "Hung's Story"
-    vi: "Câu chuyện của Hung"
+    en: "Long’s Story"
+    vi: "Chuyện của Long"
   oneliner:
-    en: "Story introduction text"
-    vi: "Câu chuyện của Tâm introduction text"
+    en: "Long is a creative and independent spirit but at the same time he found art and music he found heroin. Hear how Long beats addiction and faces HIV by supporting his community."
+    vi: "Long là một tâm hồn sáng tạo và tự do, nhưng khi tìm thấy nghệ thuật và âm nhạc, anh đồng thời cũng kết bạn với ma tuý. Lắng nghe Long đã đánh bại cơn nghiện và đối mặt với HIV nhờ sự giúp đỡ từ cộng đồng ra sao."
   image: "story_3.jpg"
   previewimg: "story_3_preview.jpg"
   clips:
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Finding Addiction"
+        vi: "Con đường nghiện ngập"
+      url:
+      youtube: H8ueKwrINlk
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "The Rehabilitation Centre"
+        vi: "Trung tâm cai nghiện"
+      url:
+      youtube: -JnE2cPkMHk
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Back in the Community"
+        vi: "Trở về cộng đồng"
+      url:
+      youtube: a4n3jpHSEjI
+    - video:
+      title:
+        en: "My Brother"
+        vi: "Em tôi"
+      url:
+      youtube: XmPn1WzOcRg
+    - video:
+      title:
+        en: "Giving Back"
+        vi: "Đền đáp"
+      url:
+      youtube: 4tPFhOgvoLs
+
+
 
 - id: story_4
   title:
-    en: "Lem's Story"
+    en: "Kim’s Story"
     vi: "Câu chuyện của Lem"
   oneliner:
-    en: "Story introduction text"
-    vi: "Câu chuyện của Tâm introduction text"
+    en: "Kim comes from a very difficult background surrounded by poverty, prostitution, addiction and HIV/AIDS.  Hear how Kim avoided becoming HIV+ while a teenage sex worker but was later infected by her partner."
+    vi: "Kim xuất thân từ một gia cảnh khó khăn, bao bọc bởi sự nghèo khó, tệ nạn mại dâm, nghiện ngập và HIV/AIDS. Hãy nghe xem cô đã tránh bị HIV+ khi đang làm gái mại dâm ra sao nhưng sau đó lại bị lây nhiễm bởi bạn tình của mình thế nào."
   image: "story_4.jpg"
   previewimg: "story_4_preview.jpg"
   clips:
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "Life on the Streets"
+        vi: "Cuộc sống đường phố"
+      url:
+      youtube: 2iOGB5jNIis
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0
+        en: "My Diagnosis"
+        vi: "Chẩn đoán của tôi"
+      url:
+      youtube: Ay3Jp5G3SLM
     - video:
       title:
-        en:
-        vi:
-      url: POC_3_-_Binh_Phuoc_-_Tam
-      youtube: PEzjHRUJ-H0 
+        en: "My Baby"
+        vi: "Con tôi"
+      url:
+      youtube: deHU4BGZhyI

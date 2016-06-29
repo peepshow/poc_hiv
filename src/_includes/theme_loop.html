@@ -54,7 +54,7 @@
 
           {% for extra in theme.extras %}
 
-            <a href="" data-modal="#{{extra.video}}_modal" class="extra_card modal__trigger {{extra.type}}">
+            <a href="" data-modal="#{{extra.youtube}}_modal" class="extra_card modal__trigger {{extra.type}}">
               <img src="{{site.baseurl}}/assets/images/{{extra.image}}" alt="">
               <div class="caption">
                 <h2>{{extra.title[site.active_lang]}}</h2>
@@ -67,7 +67,7 @@
           </div>
           {% for extra in theme.extras %}
             <!-- Modal -->
-            <div id="{{extra.video}}_modal" class="modal modal__bg" role="dialog" aria-hidden="true">
+            <div id="{{extra.youtube}}_modal" class="modal modal__bg" role="dialog" aria-hidden="true">
               <div class="modal__dialog">
                 <div class="modal__content video_holder">
                   <div id="video_container" class="full--video extra-pop">
@@ -82,7 +82,7 @@
                     </video> -->
 
                     <video
-                      id="{{theme.id}}_modal_video"
+                      id="{{extra.youtube}}_modal_video"
                       class="video-js  vjs-polyzor-skin"
                       controls
                       width="640" height="264"
