@@ -8,27 +8,12 @@ image: chapter_1_feature.jpg
 
 en:
   title: What it is
-  intro: "Explore this chapter to learn more about the science of HIV. Even if you know a lot, there will be more to hear and think about in this chapter. The virus is highly adapted to survive in humans and even to avoid defeat by any obvious means. So far the only way to beat HIV/AIDS is to either not get infected or to control the virus for life with drugs. Only recently have the ARV drugs become good enough to offer a full life expectancy but due to the recent HIV emergence, no one has been able to test that theory in full.  There will be many innovations in the coming decades around HIV but where do our hopes for elimination lie?"
+  intro: "HIV is a virus that attacks the body’s own defenses - the immune system – making it less able to fight other diseases and infections. Untreated HIV leads to AIDS, when the body can no longer fight infections. There is no cure for HIV/AIDS, so beating it depends on preventing new infections and treating existing infections – for life. Recently the ARV drugs have become good enough to offer a normal life expectancy. There will be many innovations in the coming decades around HIV, and maintaining effort in preventing, diagnosing and treating HIV/AIDS is critical in order to work towards eventual elimination."
 vi:
   title: Nó là gì
-  intro: "Khám phá chương này để tìm hiểu thêm về khoa học phía sau HIV. Thậm chí nếu bạn đã biết rất nhiều, sẽ vẫn có nhiều điều để lắng nghe và suy nghĩ trong chương này. Vi-rút này rất dễ thích nghi để sống sót trong cơ thể người và thậm chí để tránh bị tiêu diệt bởi bất kỳ phương thức rõ ràng nào. Đến nay, cách duy nhất để đánh lại HIV/AIDS là hoặc tránh không bị nhiễm hoặc dùng thuốc cả đời để kiểm soát con vi-rút. Chỉ đến gần đây thì thuốc ARV mới trở nên đủ tốt để có thể giúp con người sống đủ tuổi thọ nhưng do sự xuất hiện gần đây của HIV, chưa ai có đủ khả năng để kiểm chứng lý thuyết này một cách đầy đủ. Sẽ có nhiều đổi mới trong các thập kỷ kế tiếp xung quanh HIV nhưng hi vọng có thể xoá bỏ nó nằm ở đâu?"
+  intro: "HIV là một virus tấn công hệ thống miễn dịch – cơ chế phòng thủ của cơ thể - khiến nó không thể chống lại các loại bệnh và nhiễm trùng. HIV không được chữa trị dẫn đến AIDS, khi cơ thể không thể chống lại các bệnh nhiễm trùng. Không có thuốc chữa nào cho HIV/AIDS, vì vậy để đối phó thì tuỳ thuộc vào phòng ngừa nhiễm trùng mới và điêu trị tình trạng nhiễm trùng hiện tại – suốt đời. Hiện tại ARV đã rất tân tiến và cho phép người bệnh có một tuổi thọ bình thường. Sẽ có nhiều sự cải tiến xoay quanh HIV trong các thập niên tiếp theo, và tiếp tục nỗ lực phòng ngừa, chẩn đoán và chữa trị HIV/AIDS là vô cùng quan trọng trong việc tiến tới loại trừ hoàn toàn"
 ---
 
+
 {% include header.html %}
-
-<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
-  <div id="bgimage" class="bgimage"></div>
-
-  <aside class="sidebar">
-    {% include chapter_nav.html %}
-    {% include theme_nav.html chapter_number=page.chapter_number %}
-  </aside>
-
-  <header id="intro" class="header--chapter">
-    {% include chapter_head.html %}
-  </header>
-
-  <main class="main" role="main">
-    {% include theme_loop.html chapter_number=page.chapter_number %}
-  </main>
-</div>
+{% include chapter_content.html %}

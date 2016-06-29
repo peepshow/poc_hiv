@@ -1670,9 +1670,9 @@
 
 # Chapter 9
 - id: 9_1
-  chapter_number: “9"
+  chapter_number: "9"
   title:
-    en: “Global Problem & Change"
+    en: "Global Problem & Change"
     vi: "Vấn đề toàn cầu & thay đổi"
   content:
     en: "Stigma is possibly the greatest factor affecting HIV reduction in the world today but things have also improved significantly over time."
@@ -1681,9 +1681,9 @@
   youtube: F472NJKDhzc
 
 - id: 9_2
-  chapter_number: “9"
+  chapter_number: "9"
   title:
-    en: “Stigma Statistics"
+    en: "Stigma Statistics"
     vi: "Thông số kỳ thị"
   content:
     en: "Mr. Nguyen Anh Phong, Director of the NGO called VNP+, has done the research: Stigma has changed but not gone away."
@@ -1913,7 +1913,6 @@
   youtube: v8Hij5DZqA4
 
 
-
  # Chapter 11
 - id: 11_1
   chapter_number: "11"
@@ -1979,9 +1978,8 @@
       type: "professional"
       image: thumb_placeholder.jpg
 
-
 - id: 11_3
-  chapter_number: “11"
+  chapter_number: "11"
   title:
     en: "Outpatient Integration"
     vi: "Sát nhập điều trị ngoại trú"
@@ -1992,39 +1990,38 @@
   youtube: byARwXGxxU8
   extras:
     - title:
-        en: “Challenges to Integration“
+        en: "Challenges to Integration"
         vi: "Thách thức sát nhập"
       oneliner:
-        en: “There are many challenges to integration so join our participants and learn more about what obstacles they face."
-        vi: “Có nhiều thách thức để hội nhập, vậy nên hãy cùng với những người tham gia của chúng tôi tìm hiểu thêm về những gì trở ngại mà họ phải đối mặt."
+        en: "There are many challenges to integration so join our participants and learn more about what obstacles they face."
+        vi: "Có nhiều thách thức để hội nhập, vậy nên hãy cùng với những người tham gia của chúng tôi tìm hiểu thêm về những gì trở ngại mà họ phải đối mặt."
       video:
       youtube: DJZAQFHqeJY
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
     - title:
-        en: “Benefits & Risks“
+        en: "Benefits & Risks"
         vi: "Lợi ích & rủi ro"
       oneliner:
-        en: “Of course with any great change comes potential benefits and risks. Learn what some of them are here."
-        vi: “Tất nhiên bất kỳ sự thay đổi lớn nào đều mang đến lợi ích và rủi ro tiềm ẩn. Tìm hiểu một số tại đây."
+        en: "Of course with any great change comes potential benefits and risks. Learn what some of them are here."
+        vi: "Tất nhiên bất kỳ sự thay đổi lớn nào đều mang đến lợi ích và rủi ro tiềm ẩn. Tìm hiểu một số tại đây."
       video:
       youtube: 6uDPTlUIyLI
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
     - title:
-        en: “3-In-1 Integration“
+        en: "3-In-1 Integration"
         vi: "Sát nhập 3 trong 1"
       oneliner:
-        en: “Dr. Ngo Thi Anh Dong explores in detail the specific services that are to be found in an integrated service. "
-        vi: “Bác sĩ Ngô Thị Anh Đông tìm hiểu chi tiết các dịch vụ cụ thể được tìm thấy trong một dịch vụ tích hợp."
+        en: "Dr. Ngo Thi Anh Dong explores in detail the specific services that are to be found in an integrated service. "
+        vi: "Bác sĩ Ngô Thị Anh Đông tìm hiểu chi tiết các dịch vụ cụ thể được tìm thấy trong một dịch vụ tích hợp."
       video:
       youtube: HNmB8mk8EuU
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
 
-
 - id: 11_4
-  chapter_number: “11"
+  chapter_number: "11"
   title:
     en: "Insurance for HIV"
     vi: "Bảo hiểm cho HIV"
@@ -2035,19 +2032,18 @@
   youtube: aC2dzYwQPCg
   extras:
     - title:
-        en: “Costs & Benefits?“
+        en: "Costs & Benefits?"
         vi: "Chi phí & Lợi ích"
       oneliner:
-        en: “Watch this to hear more of the costs and benefits that are part of the insurance based HIV care proposal."
-        vi: “Xem này nghe nhiều hơn về chi phí và lợi ích là một phần của đề nghị chăm sóc HIV bảo hiểm dựa."
+        en: "Watch this to hear more of the costs and benefits that are part of the insurance based HIV care proposal."
+        vi: "Xem này nghe nhiều hơn về chi phí và lợi ích là một phần của đề nghị chăm sóc HIV bảo hiểm dựa."
       video:
       youtube: vNcuPXpepls
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
 
-
 - id: 11_5
-  chapter_number: “11"
+  chapter_number: "11"
   title:
     en: "Insurance Challenges"
     vi: "Thách thức bảo hiểm"
@@ -2058,39 +2054,38 @@
   youtube: w77NrmW9CH4
   extras:
     - title:
-        en: “Technical Barrier“
+        en: "Technical Barrier"
         vi: "Rào cản kỹ thuật "
       oneliner:
-        en: “Currently, local health centres cannot work with the government insurance system … Does it simply mean a change in name or is it a more complicated problem?"
-        vi: “Hiện nay, các trung tâm y tế địa phương không thể làm việc với các hệ thống bảo hiểm của chính phủ ... Liệu nó chỉ đơn giản có nghĩa là một sự thay đổi về tên, nó là một vấn đề phức tạp hơn?"
+        en: "Currently, local health centres cannot work with the government insurance system … Does it simply mean a change in name or is it a more complicated problem?"
+        vi: "Hiện nay, các trung tâm y tế địa phương không thể làm việc với các hệ thống bảo hiểm của chính phủ ... Liệu nó chỉ đơn giản có nghĩa là một sự thay đổi về tên, nó là một vấn đề phức tạp hơn?"
       video:
       youtube: 5li-8y1p-XA
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
     - title:
-        en: “No Personal ID“
+        en: "No Personal ID"
         vi: "Không giấy tờ cá nhân"
       oneliner:
-        en: “An ongoing issue, especially for the poorest citizens, is their access to an ID card.  For various reasons many people cannot get cards, which is already a complication in HIV care in some cases."
-        vi: “Một vấn đề đang diễn ra, đặc biệt là đối với các công dân nghèo nhất, là để họ tiếp cận một thẻ ID. Vì nhiều lý do nhiều người không thể nhận được thẻ, mà đã là một biến chứng trong việc chăm sóc HIV trong một số trường hợp."
+        en: "An ongoing issue, especially for the poorest citizens, is their access to an ID card.  For various reasons many people cannot get cards, which is already a complication in HIV care in some cases."
+        vi: "Một vấn đề đang diễn ra, đặc biệt là đối với các công dân nghèo nhất, là để họ tiếp cận một thẻ ID. Vì nhiều lý do nhiều người không thể nhận được thẻ, mà đã là một biến chứng trong việc chăm sóc HIV trong một số trường hợp."
       video:
       youtube: 8Xc_eRNhTHg
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
     - title:
-        en: “Location of Registration“
+        en: "Location of Registration"
         vi: "Đăng ký lưu trú"
       oneliner:
-        en: “As in the last video, location of registration is an issue tied to personal ID. Learn more about these challenges here."
-        vi: “Như trong đoạn video cuối cùng, địa điểm đăng ký là một vấn đề gắn liền với ID cá nhân. Tìm hiểu thêm về những thách thức ở đây."
+        en: "As in the last video, location of registration is an issue tied to personal ID. Learn more about these challenges here."
+        vi: "Như trong đoạn video cuối cùng, địa điểm đăng ký là một vấn đề gắn liền với ID cá nhân. Tìm hiểu thêm về những thách thức ở đây."
       video:
       youtube: JWmRMosG50A
-      type: “professional"
+      type: "professional"
       image: thumb_placeholder.jpg
 
-
 - id: 11_6
-  chapter_number: “11"
+  chapter_number: "11"
   title:
     en: "Not Insured?"
     vi: "Không được bảo hiểm?"

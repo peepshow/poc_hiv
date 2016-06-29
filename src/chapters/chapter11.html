@@ -6,25 +6,11 @@ image: chapter_11_feature.jpg
 
 en:
   title: Policy and The Future
-  intro: "The future of HIV control in Vietnam does not lie on a clear path. With a number of major changes to how treatment and testing is funded and delivered, there are a lot of open questions that will need to be answered very soon indeed. International funds are all withdrawing, bringing a raft of changes that fundamentally change how care has been given. A new priority placed on efficient services that are light and effective, which are to be coupled with a drive to share costs between the government and the HIV+ community through insurance.  While all sides try to remain positive there is a lot to be worked out and many of the often-poor PLWHIV are more than anxious about the future."
+  intro: "The future of HIV/AIDS control in Vietnam does not lie on a clear path.  International funding is being withdrawn due to the improving economic condition in the country.  This will bring a raft of changes that fundamentally change how care is given. While all stakeholders try to remain positive there is a lot to be worked out to ensure our control of HIV/AIDS continues to grow."
 vi:
   title: Chính sách và Tương lai
   intro: "Tương lai của công tác phòng chống HIV tại Việt Nam không bằng phẳng. Với những thay đổi trong việc tài trợ và cung cấp dịch vụ điều trị xét nghiệm HIV, sẽ còn rất nhiều câu hỏi mở ra cần được trả lời cấp bách. Các nguồn tài trợ quốc tế đang rút dần, dẫn đến một loạt các thay đổi sẽ thay đổi cơ cấu của việc thực hiện dịch vụ chăm sóc. Một nhu cầu cấp thiết được đặt ra cho các dịch vụ hiệu quả và linh động, phối hợp với động cơ chia sẻ chi phí giữa chính phủ và cộng đồng ngừoi sống chung với HIV qua cơ chế bảo hiểm y tế. Trong khi tất cả các bên đều đang cố gắng giữ lạc quan, vãn còn rất nhiều vấn đề cần được giải quyết và rất nhiều các cá nhân chung sống với HIV khó khăn đang rất lo lắng về tương lai của họ."
 ---
+
 {% include header.html %}
-
-<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
-  <div id="bgimage" class="bgimage"></div>
-  <aside class="sidebar">
-    {% include chapter_nav.html %}
-    {% include theme_nav.html chapter_number=page.chapter_number %}
-  </aside>
-
-  <header id="intro" class="header--chapter">
-    {% include chapter_head.html %}
-  </header>
-
-  <main class="main" role="main">
-    {% include theme_loop.html chapter_number=page.chapter_number %}
-  </main>
-</div>
+{% include chapter_content.html %}

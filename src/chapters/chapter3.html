@@ -6,27 +6,12 @@ image: chapter_3_feature.jpg
 
 en:
   title: Prevention
-  intro: "Prevention is a complicated undertaking when dealing with HIV.  When the science is just as challenging as the social conditions behind the pandemic, you know you have a difficult fight on your hands. The emergence of good quality and affordable medication has been critical in controlling the disease, as has good social and economic support."
+  intro: "Prevention is a complicated undertaking when dealing with HIV.  The human behaviors and social factors are just as important as the biology of the infection – and just as challenging to address. The development of good quality and affordable medication has been critical in controlling the disease, as has good social and economic support."
 vi:
-  title: "Phòng Chống"
-  intro: "Phòng chống là một công việc phức tạp khi đối phó với HIV. Khi khoa học cũng khó khăn như các điều kiện xã hội đằng sau đại dịch, bạn biết bạn đang có một cuộc chiến khó khăn trên tay. Sự xuất hiện của thuốc chất lượng tốt và giá cả hợp lý đã luôn vô cùng quan trọng trong việc kiểm soát căn bệnh này, cũng như sự hỗ trợ tốt về kinh tế và xã hội."
+  title: Phòng Chống
+  intro: "Phòng chống là một công việc phức tạp khi đối phó với HIV. Những hành vi của con người và yếu tố xã hội có cùng tầm quan trọng với yếu tố sinh học của căn bệnh  - và cũng đầy thách thức trong xử lý. Sự xuất hiện của thuốc chất lượng tốt và giá cả hợp lý đã luôn vô cùng quan trọng trong việc kiểm soát căn bệnh này, cũng như sự hỗ trợ tốt về kinh tế và xã hội."
 ---
+
+
 {% include header.html %}
-
-
-
-<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
-  <div id="bgimage" class="bgimage"></div>
-<aside class="sidebar">
-  {% include chapter_nav.html %}
-  {% include theme_nav.html chapter_number=page.chapter_number %}
-</aside>
-
-<header id="intro" class="header--chapter">
-  {% include chapter_head.html %}
-</header>
-
-<main class="main" role="main">
-  {% include theme_loop.html chapter_number=page.chapter_number %}
-</main>
-</div>
+{% include chapter_content.html %}

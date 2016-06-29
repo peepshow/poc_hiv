@@ -1,6 +1,6 @@
 main {
 	position: relative;
-	z-index: 2;
+  z-index: 88;
   //
 	// /* fix bug on iOS */
 	height: 100vh;
@@ -24,7 +24,7 @@ main {
 
 .cd-nav-trigger {
 	position: fixed;
-	z-index: 3;
+	z-index: 99;
 	right: 1vw;
 	//top: 10px;
 	height: 40px;

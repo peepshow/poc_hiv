@@ -98,7 +98,7 @@
     $(".video-js").each(function (videoIndex) {
 
       var videoId = $(this).attr('id');
-      var blurb = $(this).parents('.main_video');
+      var blurb = $(this).parents('.video_holder');
 
       videojs(videoId).ready(function() {
         this.on("play", function(e) {

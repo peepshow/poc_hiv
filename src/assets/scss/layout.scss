@@ -3,7 +3,7 @@
  */
 .site-header {
   position: fixed;
-  z-index: 100;
+  z-index: 77;
   padding: 2vh 2vw;
   width: 100%;
 }
@@ -369,7 +369,7 @@ div[class*="layer-"] {
 
 
 $modal-z: 1000;
-$modal-bg: rgba(20,20,20, 0.5);
+$modal-bg: rgba(20,20,20, 0.8);
 $modal-width: 100%;
 
 $space: 2.4rem;
@@ -421,7 +421,7 @@ $ease: transition all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   &__content {
     will-change: transform, opacity;
     position: relative;
-    padding: $space;
+    padding: 0;
     //background: $modal-bg;
     background-clip: padding-box;
     //box-shadow: 0 12px 15px 0 rgba(black, 0.25);
@@ -494,10 +494,10 @@ $ease: transition all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 
 .demo-close {
   position: absolute;
-  top: 0;
-  right: 0;
-  margin: $space / 2;
-  padding: $space / 4;
+  top: -2.2em;
+  right: -2.2em;
+  margin: 0;
+  padding: 0.4rem;
   background: $yellow;
   border-radius: 50%;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);

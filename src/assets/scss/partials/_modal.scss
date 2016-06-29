@@ -44,7 +44,7 @@
     text-align: left;
     transition: opacity 0.25s ease;
     visibility: hidden;
-    z-index: 99999999999;
+    z-index: 9999;
 
     @include media($large-screen) {
       padding-top: 10em;

@@ -39,7 +39,7 @@ title: Overview
                 <div class="chapter-card" data-depth="0.80">
 
                   <a href="{{ site.baseurl }}/chapters/chapter{{ chapter.number | strip_html }}.html" class="{% if page.url == '/chapters/chapter{{ chapter.number }}.html' %}active{% endif %}">
-                    <div data-depth="0.90" class="layer-1"><img src="{{site.baseurl}}/assets/images/{{chapter.image}}" alt="Chapter {{chapter.number}}: {{ chapter.title.[site.active_lang] }}" /></div>
+                    <div data-depth="0.90" class="layer-1"><img src="{{site.baseurl}}/assets/images/chapters/bg_{{chapter.number}}.jpg" alt="Chapter {{chapter.number}}: {{ chapter.title.[site.active_lang] }}" /></div>
                     <div data-offset="3" class="layer-2">
                       <h2>{{ chapter.title.[site.active_lang] }}</h2>
                     </div>

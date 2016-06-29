@@ -6,29 +6,12 @@ image: chapter_2_feature.jpg
 
 en:
   title: Transmission
-  intro: "HIV Transmission is well documented and understood in Vietnam as it is strongly focused on risk group behaviours that have allowed the disease to prosper within certain highly beneficial situations.  The significant sex work industry and consumption of intravenous drugs such as heroin, created somewhat of a haven in the early days of HIV in Vietnam.  The trends in transmission are constantly changing so researchers need to wok hard to keep on top of those developments – always looking out for who might be the new high risk group."
+  intro: "HIV can be transmitted in different ways, but always by direct contact with body fluids of someone who has HIV. In Vietnam the risk groups and behaviors linked to HIV transmission are well documented and understood. In the early days of HIV in Vietnam, transmission was able to take off due to the significant sex work industry and populations using intravenous drugs such as heroin. These are still some of the main risk groups, however the trends in transmission are constantly changing so researchers need to work hard to keep on top of those developments."
 vi:
-  title: "Lây Nhiễm"
-  intro: "Truyền nhiễm HIV được lưu giữ và tìm hiểu rất kỹ ở Việt Nam vì nó tập trung mạnh vào các nhóm hành vi nguy cơ đã tạo điều kiện cho căn bệnh được phát triển trong một số tình huống có lợi. Ngành công nghiệp mại dâm và việc tiêu thụ các loại thuốc phiện tiêm như he-ro-in một cách đáng kể, đã tạo ra một dạng thiên đường trong những ngày đầu của HIV tại Việt Nam. Các xu hướng truyền bệnh đang thường xuyên thay đổi nên các nhà nghiên cứu cần làm việc cật lực để nắm bắt được những sự phát triển này – luôn luôn tìm kiếm những người có thể là nhóm nguy cơ cao mới."
+  title: Lây Nhiễm
+  intro: "HIV có thể được lẫy nhiễm qua nhiều cách, nhưng thông thường là qua tiếp xúc trực tiếp với dịch cơ thể của người mang mầm bệnh HIV. Tại Việt Nam, các nhóm nguy cơ và có hành vi nguy cơ liên quan đến lây nhiễm HIV được ghi nhận và tìm hiểu thấu đáo. Vào những ngày đầu của HIV tại Việt Nam, mật độ lây nhiễm lan nhanh là nhờ vào quy mô của ngành lao động tình dục và một dân số sử dụng tiêm chất gây nghiện qua đường tiêm chích như ma tuý. Đây vẫn là các nhóm nguy cơ chính, tuy nhiên xu hướng lây nhiễm đang có sự thay đổi liên tục, vì vậy các nhà nghiên cứu đang làm việc ngày đêm để theo dõi các sự tiến triển này."
 ---
 
+
 {% include header.html %}
-
-
-<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
-
-  <div id="bgimage" class="bgimage"></div>
-
-  <aside class="sidebar">
-    {% include chapter_nav.html %}
-    {% include theme_nav.html chapter_number=page.chapter_number %}
-  </aside>
-
-  <header id="intro" class="header--chapter">
-    {% include chapter_head.html %}
-  </header>
-
-  <main class="main" role="main">
-    {% include theme_loop.html chapter_number=page.chapter_number %}
-  </main>
-</div>
+{% include chapter_content.html %}

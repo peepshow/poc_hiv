@@ -7,26 +7,11 @@ image: chapter_4_feature.jpg
 
 en:
   title: Testing and Diagnosis
-  intro: "Diagnosis and therefore testing is the most essential aspect of both care and prevention.  Many people are diagnosed too late which means their chance of transmission has been higher all the while getting it under control more slowly. Learn more about this essential aspect of care and prevention."
-
+  intro: "HIV testing and diagnosis is the most essential aspect of both care and prevention.  Early testing means people are aware of their HIV status and can take steps to prevent onwards transmission to others. They can also begin to access the support and care they need to manage their illness. Learn more about this essential aspect of care and prevention."
 vi:
-  title: "Chẩn đoán và Xét nghiệm"
-  intro: "Chuẩn đoán và xét nghiệm là khía cạnh quan trọng nhất trong chăm sóc và phòng ngừa. Bệnh nhân không được chẩn đoán kịp thời khiến cho khả năng lây nhiễm của họ cao hơn và chậm kiểm soát bệnh. Hãy tìm hiểu thêm về khía cạnh quan trọng này của chăm sóc và phòng ngừa."
+  title: Chẩn đoán và Xét nghiệm
+  intro: "Chuẩn đoán và xét nghiệm HIV là khía cạnh quan trọng nhất trong chăm sóc và phòng ngừa. Bệnh nhân không được chẩn đoán kịp thời khiến cho khả năng lây nhiễm của họ cao hơn và chậm kiểm soát bệnh. Hãy tìm hiểu thêm về khía cạnh quan trọng này của chăm sóc và phòng ngừa."
 ---
+
 {% include header.html %}
-
-<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
-  <div id="bgimage" class="bgimage"></div>
-<aside class="sidebar">
-  {% include chapter_nav.html %}
-  {% include theme_nav.html chapter_number=page.chapter_number %}
-</aside>
-
-<header id="intro" class="header--chapter">
-  {% include chapter_head.html %}
-</header>
-
-<main class="main" role="main">
-  {% include theme_loop.html chapter_number=page.chapter_number %}
-</main>
-</div>
+{% include chapter_content.html %}

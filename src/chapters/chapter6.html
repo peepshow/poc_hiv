@@ -6,25 +6,11 @@ image: chapter_6_feature.jpg
 
 en:
   title: Maternal and Childhood Care
-  intro: "Maternal HIV transmission and the infection of young children or babies has its own set of challenges and needs. Explore some of the specialist services and care required for managing avoiding HIV+ births and also life after the baby is born. While maternal transmission isn’t a high-risk group, the challenges are many."
+  intro: "Controlling maternal HIV transmission to infants presents its own unique set of challenges and demands. Explore some of the specialist services and care required to reduce the risk of mother to child HIV transmission. While maternal transmission does not make ranks as a high-risk group, the challenges are many."
 vi:
   title: Chăm sóc thai phụ và trẻ em
   intro: "Lây nhiễm HIV trong quá trình mang thai và lây nhiễm ở trẻ sơ sinh và trẻ nhỏ có những thử thách và nhu cầu riêng. Khám phá một số các dịch vụ chăm sóc chuyên biệt cần được thực hiện để ngăn ngừa các ca sinh bị lây nhiễm cũng như sau khi sinh. Dù lây truyền từ mẹ sang con không phải là nhóm nguy cơ cao, thách thức vẫn rất nhiều cho nhóm này."
 ---
+
 {% include header.html %}
-
-<div id="chapter" class="chapter_wrap chapter{{ page.chapter_number }}">
-  <div id="bgimage" class="bgimage"></div>
-  <aside class="sidebar">
-    {% include chapter_nav.html %}
-    {% include theme_nav.html chapter_number=page.chapter_number %}
-  </aside>
-
-  <header id="intro" class="header--chapter">
-    {% include chapter_head.html %}
-  </header>
-
-  <main class="main" role="main">
-    {% include theme_loop.html chapter_number=page.chapter_number %}
-  </main>
-</div>
+{% include chapter_content.html %}
