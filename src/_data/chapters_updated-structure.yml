@@ -1,98 +1,92 @@
-# Chapter 1
+# Chapters
 #
+
 - number: "1"
-  title:
-    en:  What Is It
-    vi:  Nó Là Gì?
-  intro:
-    en: "Explore this chapter to learn more about the science of HIV. Even if you know a lot, there will be more to hear and think about in this chapter. The virus is highly adapted to survive in humans and even to avoid defeat by any obvious means. So far the only way to beat HIV/AIDS is to either not get infected or to control the virus for life with drugs. Only recently have the ARV drugs become good enough to offer a full life expectancy but due to the recent HIV emergence, no one has been able to test that theory in full.  There will be many innovations in the coming decades around HIV but where do our hopes for elimination lie?"
-    vi: "Khám phá chương này để tìm hiểu thêm về khoa học phía sau HIV. Thậm chí nếu bạn đã biết rất nhiều, sẽ vẫn có nhiều điều để lắng nghe và suy nghĩ trong chương này. Vi-rút này rất dễ thích nghi để sống sót trong cơ thể người và thậm chí để tránh bị tiêu diệt bởi bất kỳ phương thức rõ ràng nào. Đến nay, cách duy nhất để đánh lại HIV/AIDS là hoặc tránh không bị nhiễm hoặc dùng thuốc cả đời để kiểm soát con vi-rút. Chỉ đến gần đây thì thuốc ARV mới trở nên đủ tốt để có thể giúp con người sống đủ tuổi thọ nhưng do sự xuất hiện gần đây của HIV, chưa ai có đủ khả năng để kiểm chứng lý thuyết này một cách đầy đủ. Sẽ có nhiều đổi mới trong các thập kỷ kế tiếp xung quanh HIV nhưng hi vọng có thể xoá bỏ nó nằm ở đâu?"
-  image: chapter_1_feature.jpg
+  en:
+    title: What it is
+    intro: "HIV is a virus that attacks the body’s own defenses - the immune system – making it less able to fight other diseases and infections. Untreated HIV leads to AIDS, when the body can no longer fight infections. There is no cure for HIV/AIDS, so beating it depends on preventing new infections and treating existing infections – for life. Recently the ARV drugs have become good enough to offer a normal life expectancy. There will be many innovations in the coming decades around HIV, and maintaining effort in preventing, diagnosing and treating HIV/AIDS is critical in order to work towards eventual elimination."
+  vi:
+    title: Nó là gì
+    intro: "HIV là một virus tấn công hệ thống miễn dịch – cơ chế phòng thủ của cơ thể - khiến nó không thể chống lại các loại bệnh và nhiễm trùng. HIV không được chữa trị dẫn đến AIDS, khi cơ thể không thể chống lại các bệnh nhiễm trùng. Không có thuốc chữa nào cho HIV/AIDS, vì vậy để đối phó thì tuỳ thuộc vào phòng ngừa nhiễm trùng mới và điêu trị tình trạng nhiễm trùng hiện tại – suốt đời. Hiện tại ARV đã rất tân tiến và cho phép người bệnh có một tuổi thọ bình thường. Sẽ có nhiều sự cải tiến xoay quanh HIV trong các thập niên tiếp theo, và tiếp tục nỗ lực phòng ngừa, chẩn đoán và chữa trị HIV/AIDS là vô cùng quan trọng trong việc tiến tới loại trừ hoàn toàn"
 
 - number: "2"
-  title:
-    en: Transmission
-    vi: Lây Nhiễm
-  intro:
-    en: "HIV Transmission is well documented and understood in Vietnam as it is strongly focused on risk group behaviours that have allowed the disease to prosper within certain highly beneficial situations.  The significant sex work industry and consumption of intravenous drugs such as heroin, created somewhat of a haven in the early days of HIV in Vietnam.  The trends in transmission are constantly changing so researchers need to wok hard to keep on top of those developments – always looking out for who might be the new high risk group."
-    vi: "Truyền nhiễm HIV được lưu giữ và tìm hiểu rất kỹ ở Việt Nam vì nó tập trung mạnh vào các nhóm hành vi nguy cơ đã tạo điều kiện cho căn bệnh được phát triển trong một số tình huống có lợi. Ngành công nghiệp mại dâm và việc tiêu thụ các loại thuốc phiện tiêm như he-ro-in một cách đáng kể, đã tạo ra một dạng thiên đường trong những ngày đầu của HIV tại Việt Nam. Các xu hướng truyền bệnh đang thường xuyên thay đổi nên các nhà nghiên cứu cần làm việc cật lực để nắm bắt được những sự phát triển này – luôn luôn tìm kiếm những người có thể là nhóm nguy cơ cao mới."
-  image: chapter_2_feature.jpg
+  en:
+    title: Transmission
+    intro: "HIV can be transmitted in different ways, but always by direct contact with body fluids of someone who has HIV. In Vietnam the risk groups and behaviors linked to HIV transmission are well documented and understood. In the early days of HIV in Vietnam, transmission was able to take off due to the significant sex work industry and populations using intravenous drugs such as heroin. These are still some of the main risk groups, however the trends in transmission are constantly changing so researchers need to work hard to keep on top of those developments."
+  vi:
+    title: Lây Nhiễm
+    intro: "HIV có thể được lẫy nhiễm qua nhiều cách, nhưng thông thường là qua tiếp xúc trực tiếp với dịch cơ thể của người mang mầm bệnh HIV. Tại Việt Nam, các nhóm nguy cơ và có hành vi nguy cơ liên quan đến lây nhiễm HIV được ghi nhận và tìm hiểu thấu đáo. Vào những ngày đầu của HIV tại Việt Nam, mật độ lây nhiễm lan nhanh là nhờ vào quy mô của ngành lao động tình dục và một dân số sử dụng tiêm chất gây nghiện qua đường tiêm chích như ma tuý. Đây vẫn là các nhóm nguy cơ chính, tuy nhiên xu hướng lây nhiễm đang có sự thay đổi liên tục, vì vậy các nhà nghiên cứu đang làm việc ngày đêm để theo dõi các sự tiến triển này."
 
-- number: "3"
-  title:
-    en: Prevention
-    vi: Phòng Chống
-  intro:
-    en: "Prevention is a complicated undertaking when dealing with HIV.  When the science is just as challenging as the social conditions behind the pandemic, you know you have a difficult fight on your hands. The emergence of good quality and affordable medication has been critical in controlling the disease, as has good social and economic support."    vi: "Phòng chống là một công việc phức tạp khi đối phó với HIV. Khi khoa học cũng khó khăn như các điều kiện xã hội đằng sau đại dịch, bạn biết bạn đang có một cuộc chiến khó khăn trên tay. Sự xuất hiện của thuốc chất lượng tốt và giá cả hợp lý đã luôn vô cùng quan trọng trong việc kiểm soát căn bệnh này, cũng như sự hỗ trợ tốt về kinh tế và xã hội."
-  image: chapter_3_feature.jpg
 
-- number: "4"
-  title:
-    en: Testing and Diagnosis
-    vi: Chẩn đoán và Xét nghiệm
-  intro:
-    en: "Diagnosis and therefore testing is the most essential aspect of both care and prevention.  Many people are diagnosed too late which means their chance of transmission has been higher all the while getting it under control more slowly. Learn more about this essential aspect of care and prevention."
-    vi: "Chuẩn đoán và xét nghiệm là khía cạnh quan trọng nhất trong chăm sóc và phòng ngừa. Bệnh nhân không được chẩn đoán kịp thời khiến cho khả năng lây nhiễm của họ cao hơn và chậm kiểm soát bệnh. Hãy tìm hiểu thêm về khía cạnh quan trọng này của chăm sóc và phòng ngừa."
-  image: chapter_4_feature.jpg
+- number: “3”
+  en:
+    title: Prevention
+    intro: "Prevention is a complicated undertaking when dealing with HIV.  The human behaviors and social factors are just as important as the biology of the infection – and just as challenging to address. The development of good quality and affordable medication has been critical in controlling the disease, as has good social and economic support."
+  vi:
+    title: Phòng Chống
+    intro: "Phòng chống là một công việc phức tạp khi đối phó với HIV. Những hành vi của con người và yếu tố xã hội có cùng tầm quan trọng với yếu tố sinh học của căn bệnh  - và cũng đầy thách thức trong xử lý. Sự xuất hiện của thuốc chất lượng tốt và giá cả hợp lý đã luôn vô cùng quan trọng trong việc kiểm soát căn bệnh này, cũng như sự hỗ trợ tốt về kinh tế và xã hội."
 
-- number: "5"
-  title:
-    en: ARV
-    vi: ARV
-  intro:
-    en: "ARV are the life preserving drugs that now allow PLWHIV the possibility of living a normal life expectancy. However with great treatment comes great risk and the inconsistent use of ARV can result in drug resistance.  As are only 3 or 3 regimen for ARV this presents quite a challenge for PLWHIV. Taking the right pills everyday for their remaining life, at the right time of day. Not easy for the most organsied person let alone the often poorer HIV community members."
-    vi: "ARV là phương thuốc đã cho người sống chung với HIV một cơ hội có quãng đời bình thường. Tuy nhiên cùng với phương pháp điều trị tuyệt vời là những rủi ro và việc điều trị thất thường của ARV sẽ dẫn đến kháng thuốc. Vì chỉ có 3 phác đồ điều trị cho ARV, điều này là một thử thách cho người chung sống với HIV. Uống đúng loại thuốc vào đúng giờ cho đến cuối đời không hề dễ  cho những ai ngăn nắp đừng nói đến cộng đồng khó khăn hơn về mặt kinh tế này."
-  image: chapter_5_feature.jpg
+- number: “4”
+  en:
+    title: Testing and Diagnosis
+    intro: "HIV testing and diagnosis is the most essential aspect of both care and prevention.  Early testing means people are aware of their HIV status and can take steps to prevent onwards transmission to others. They can also begin to access the support and care they need to manage their illness. Learn more about this essential aspect of care and prevention."
+  vi:
+    title: Chẩn đoán và Xét nghiệm
+    intro: "Chuẩn đoán và xét nghiệm HIV là khía cạnh quan trọng nhất trong chăm sóc và phòng ngừa. Bệnh nhân không được chẩn đoán kịp thời khiến cho khả năng lây nhiễm của họ cao hơn và chậm kiểm soát bệnh. Hãy tìm hiểu thêm về khía cạnh quan trọng này của chăm sóc và phòng ngừa."
 
-- number: "6"
-  title:
-    en: Maternal and Childhood Care
-    vi: Chăm sóc thai phụ và trẻ em
-  intro:
-    en: "Maternal HIV transmission and the infection of young children or babies has its own set of challenges and needs. Explore some of the specialist services and care required for managing avoiding HIV+ births and also life after the baby is born. While maternal transmission isn’t a high-risk group, the challenges are many."
-    vi: "Lây nhiễm HIV trong quá trình mang thai và lây nhiễm ở trẻ sơ sinh và trẻ nhỏ có những thử thách và nhu cầu riêng. Khám phá một số các dịch vụ chăm sóc chuyên biệt cần được thực hiện để ngăn ngừa các ca sinh bị lây nhiễm cũng như sau khi sinh. Dù lây truyền từ mẹ sang con không phải là nhóm nguy cơ cao, thách thức vẫn rất nhiều cho nhóm này."
-  image: chapter_6_feature.jpg
+- number: “5”
+  en:
+    title: ARV
+    intro: "ARV are the life preserving drugs that allow the HIV + community the prospect of normal life expectancy. However with great treatment comes great risk and the inconsistent use of ARV can result in drug resistance.  As there are limited ARV regimens this presents quite a challenge for HIV+ communities. Taking the right pills everyday for life - at the right time of day - is not going to be easy for the most organised person. What happens to those living more complex lives?"
+  vi:
+    title: ARV
+    intro: "ARV là phương thuốc đã cho người sống chung với HIV một cơ hội có tuổi thọ bình thường. Tuy nhiên cùng với phương pháp điều trị tuyệt vời là những rủi ro và việc điều trị thất thường của ARV sẽ dẫn đến kháng thuốc. Vì chỉ có 3 phác đồ điều trị cho ARV, điều này là một thử thách cho người chung sống với HIV. Uống đúng loại thuốc vào đúng giờ cho đến cuối đời không hề dễ  cho những ai ngăn nắp đừng nói đến cộng đồng khó khăn hơn về mặt kinh tế này."
 
-- number: "7"
-  title:
-    en: Outpatient and Inpatient
-    vi: Bệnh nhân nội và ngoại trú
-  intro:
-    en: "Outpatient care begins with testing in the community and can supply basic care to PLWHIV.  Once there are complications caused by HIV that cannot be treated as an outpatient then they may seek care in an inpatient hospital ward. This chapter explores the specific roles, tasks and challenges that each kind of care faces.  Both levels of care are likely to be seen by someone living with HIV at some point, so these services are critical in controlling HIV in the community."
-    vi: "Dịch vụ chăm sóc ngoại trú bắt đầu từ xét nghiệm trong cộng đồng và khả năng cung cấp dịch vụ chăm sóc cơ bản cho người sống chung với HIV. Khi có những biến chứng gây ra bởi HIV không thể điều trị ngoại trú, bệnh nhân bắt buộc phải được điều trị nội trú tại bệnh viện. Chương này sẽ đi vào khám phá các vai trò cụ thể, nhiệm vụ và thách thức mỗi dịch vụ chăm sóc phải đối mặt. Từng tầng của dịch vụ chăm sóc đều có khả năng được tiếp cận bởi người sống chung với HIV tại một thời điểm nào đó, vì vậy các dịch vụ này là rất quan trọng trong việc kiểm soát tình trạng dịch HIV trong cộng đồng."
-  image: chapter_7_feature.jpg
+- number: “6”
+  en:
+    title: Maternal and Childhood Care
+    intro: "Controlling maternal HIV transmission to infants presents its own unique set of challenges and demands. Explore some of the specialist services and care required to reduce the risk of mother to child HIV transmission. While maternal transmission does not make ranks as a high-risk group, the challenges are many."
+  vi:
+    title: Chăm sóc thai phụ và trẻ em
+    intro: "Lây nhiễm HIV trong quá trình mang thai và lây nhiễm ở trẻ sơ sinh và trẻ nhỏ có những thử thách và nhu cầu riêng. Khám phá một số các dịch vụ chăm sóc chuyên biệt cần được thực hiện để ngăn ngừa các ca sinh bị lây nhiễm cũng như sau khi sinh. Dù lây truyền từ mẹ sang con không phải là nhóm nguy cơ cao, thách thức vẫn rất nhiều cho nhóm này."
 
-- number: "8"
-  title:
-    en: CBO and IDU
-    vi: CBO and IDU
-  intro:
-    en: "In this chapter we are exploring two different areas. The work of Community Based Organisations or CBO, and some specific aspects of HIV for intravenous drug users or IDU. CBO are groups formed by and for specific HIV+ communities. Often established by people who were once of the same risk groups but who now offer support for people newly diagnosed or struggling to manage their health. A kind of peer support network. These CBO provide many services and a kind of support that is more empathetic in nature that is not typically possible with government agencies. IDU and the use of Methadone in care are the other part of this chapter.  This section is really important due to the heavy burden of HIV that IDU carried historically in Vietnam."    vi: "Trong chương này chúng ta khám phá 2 lĩnh vực khác nhau. Công việc của các nhóm tự lực hay còn gọi là CBO, và một số khía cạnh cụ thể của HIV đối với người sử dụng tiêm chích ma tuý. CBO là các nhóm thành lập bởi và dành riêng cho cộng đồng người nhiễm HIV. Thường xuyên được tạo nên bởi các cá nhân đã từng nằm trong cùng nhóm nguy cơ nhưng hiện nay giang tay giúp đỡ các trường hợp mới phát hiện hoặc đang gặp khó khăn điều trị. Một mạng lưới hỗ trợ của đồng đẳng viên. Các CBO này cung cấp rất nhiều loại dịch vụ và một sự hỗ trợ mang tính cảm thông mà thường các cơ quan chính phủ khó thường khó thực hiện. IDU và điều trị Methadone là phàn còn lại của chương này. Nó rất quan trọng vì gánh nặng HIV mà cộng đồng IDU đã gánh trong quá khứ tại Việt Nam."
-  image: chapter_8_feature.jpg
+- number: “7”
+  en:
+    title: Outpatient and Inpatient
+    intro: "Outpatient care begins with testing in the community and assists the HIV+ community in the daily management of their disease.  When people experience HIV related complications,  that cannot be treated as an outpatient, they may need to become an Inpatient in a hospital. This chapter explores the specific roles, tasks and challenges filled by these two types of care.  Both levels of care are likely to be necessary by all people living with HIV at some time - so these services are critical in controlling HIV in the community."
+  vi:
+    title: Bệnh nhân nội và ngoại trú
+    intro: "Dịch vụ chăm sóc ngoại trú bắt đầu từ xét nghiệm trong cộng đồng và khả năng cung cấp dịch vụ chăm sóc cơ bản cho người sống chung với HIV. Khi có những biến chứng gây ra bởi HIV không thể điều trị ngoại trú, bệnh nhân bắt buộc phải được điều trị nội trú tại bệnh viện. Chương này sẽ đi vào khám phá các vai trò cụ thể, nhiệm vụ và thách thức mỗi dịch vụ chăm sóc phải đối mặt. Từng tầng của dịch vụ chăm sóc đều có khả năng được tiếp cận bởi người sống chung với HIV tại một thời điểm nào đó, vì vậy các dịch vụ này là rất quan trọng trong việc kiểm soát tình trạng dịch HIV trong cộng đồng."
 
-- number: "9"
-  title:
-    en: Stigma
-    vi: Kỳ thị
-  intro:
-    en: "Stigma is central to the experience that HIV+ communities have with HIV/AIDS. From the start of the pandemic through to now, the stigma associated with the disease for a raft of reasons has significantly affected our ability to control the transmission of HIV through good prevention activities.  A history connected to prostitution and drug use, and an association with social taboos such as homosexuality, has ensured that HIV needs to be treated clinically, socially and psychologically. This is a complex mix to get right, and while care has improved it’s an ongoing battle to fix the associations the public holds of HIV and people who have HIV."
-    vi: "Vấn đề kỳ thị là trọng điểm của trải nghiệm mà cộng đồng người chung sống với HIV có với HIV/AIDS. Từ những ngày đầu của dịch, sự kỳ thị đã gắn liền với căn bệnh vì rất nhiều lý do và ảnh hưởng rất lớn đến khả năng kiểm soát mật độ lây nhiễm qua các hoạt động phòng chống hiệu quả. Với một lịch sử gắn liền với mại dâm và sử dụng ma tuý, và mối liên hệ với chủ đề cấm kỵ như đồng tính, đã khiến cho HIV cần được điều trị về mặt y tế, xã hội và tâm lý. Nó là một sự kết hợp phức tạp và rất khó để thực hiện đúng, và trong khi dịch vụ chăm sóc đã cải thiện đáng kể, vẫn còn một cuộc chiến đang diễn ra để xoá bỏ những liên tưởng công chúng đang có với HIV và người sống chung với HIV."
-  image: chapter_9_feature.jpg
+- number: “8”
+  en:
+    title: CBO and IDU
+    intro: "In this chapter we are exploring two different areas. The work of Community Based Organisations or CBO, and some specific aspects of HIV for intravenous drug users or IDU.CBO are groups formed by and for specific HIV+ communities. Often established by people of the same risk groups, but who now offer support for people newly diagnosed or struggling to manage their health. CBO provide an important peer support network. The use of Methadone in controlling drug addiction plays a significant part in controlling HIV/AIDS in Vietnam. Learn how this important treatment is managed in Ho Chi Minh City and how it helps communities at risk.."
+  vi:
+    title: CBO và IDU
+    intro: "Trong chương này chúng ta khám phá 2 lĩnh vực khác nhau. Công việc của các nhóm tự lực hay còn gọi là CBO, và một số khía cạnh cụ thể của HIV đối với người sử dụng tiêm chích ma tuý.CBO là các nhóm thành lập bởi và dành riêng cho cộng đồng người nhiễm HIV. Thường xuyên được tạo nên bởi các cá nhân đã từng nằm trong cùng nhóm nguy cơ nhưng hiện nay giang tay giúp đỡ các trường hợp mới phát hiện hoặc đang gặp khó khăn điều trị. Một mạng lưới hỗ trợ của đồng đẳng viên. Các CBO này cung cấp rất nhiều loại dịch vụ và một sự hỗ trợ mang tính cảm thông mà thường các cơ quan chính phủ khó thường khó thực hiện. IDU và điều trị Methadone là phàn còn lại của chương này. Nó rất quan trọng vì gánh nặng HIV mà cộng đồng IDU đã gánh trong quá khứ tại Việt Nam."
 
-- number: "10"
-  title:
-    en: Communication
-    vi: Truyền thông
-  intro:
-    en: "Communication around HIV has been a major aspect of prevention. AIDS sprung to infamy and with it a global response heavily demonised the virus - as ARV were years away from development – only social campaigns could encourage behaviour change as the sole way to fight the highly efficient killer. Now the messages are much more varied and subtle but one thing remains; as a disease with a broad social dimension communication is key in reducing and possibly eliminating it."
-    vi: "Truyền thông chung quanh HIV vẫn luôn là một khía cạnh quan trọng của công tác phòng chống. Khi AIDS trở thành đại dịch và phản ứng toàn cầu là biến con virus này thành ác quỷ - trong khi ARV đến vài năm nữa mới được tìm ra – chỉ có những chiến dịch xã hội mới có thể khuyến khích thay đổi hành vi và là cách duy nhất để chống lại sát nhân cao tay này. Hiện nay các thông điệp đã đa dạng và tinh tế hơn, tuy nhiên một điều vẫn đọng lại; với một bệnh dịch mang tính xã hội, truyền thông là chìa khoá để giảm và thậm chí loại trừ nó."
-  image: chapter_10_feature.jpg
+- number: “9”
+  en:
+    title: Stigma
+    intro: "Stigma is central to the experience of HIV+ communities. From the start of the pandemic through to now, the stigma associated with the disease has significantly affected our ability to control the transmission of HIV. A history connected to prostitution and drug use, and an association with social taboos such as homosexuality, has ensured that HIV needs to be treated clinically, socially and psychologically. This is a complex mix to get right."
+  vi:
+    title: Kỳ thị
+    intro: "Vấn đề kỳ thị là trọng điểm của trải nghiệm mà cộng đồng người chung sống với HIV có với HIV/AIDS. Từ những ngày đầu của dịch, sự kỳ thị đã gắn liền với căn bệnh vì rất nhiều lý do và ảnh hưởng rất lớn đến khả năng kiểm soát mật độ lây nhiễm qua các hoạt động phòng chống hiệu quả. Với một lịch sử gắn liền với mại dâm và sử dụng ma tuý, và mối liên hệ với chủ đề cấm kỵ như đồng tính, đã khiến cho HIV cần được điều trị về mặt y tế, xã hội và tâm lý. Nó là một sự kết hợp phức tạp và rất khó để thực hiện đúng, và trong khi dịch vụ chăm sóc đã cải thiện đáng kể, vẫn còn một cuộc chiến đang diễn ra để xoá bỏ những liên tưởng công chúng đang có với HIV và người sống chung với HIV."
 
-- number: "11"
-  title:
-    en: Policy and The Future
-    vi: Chính sách và Tương lai
-  intro:
-    en: "The future of HIV control in Vietnam does not lie on a clear path. With a number of major changes to how treatment and testing is funded and delivered, there are a lot of open questions that will need to be answered very soon indeed. International funds are all withdrawing, bringing a raft of changes that fundamentally change how care has been given. A new priority placed on efficient services that are light and effective, which are to be coupled with a drive to share costs between the government and the HIV+ community through insurance.  While all sides try to remain positive there is a lot to be worked out and many of the often-poor PLWHIV are more than anxious about the future."
-    vi: "Tương lai của công tác phòng chống HIV tại Việt Nam không bằng phẳng. Với những thay đổi trong việc tài trợ và cung cấp dịch vụ điều trị xét nghiệm HIV, sẽ còn rất nhiều câu hỏi mở ra cần được trả lời cấp bách. Các nguồn tài trợ quốc tế đang rút dần, dẫn đến một loạt các thay đổi sẽ thay đổi cơ cấu của việc thực hiện dịch vụ chăm sóc. Một nhu cầu cấp thiết được đặt ra cho các dịch vụ hiệu quả và linh động, phối hợp với động cơ chia sẻ chi phí giữa chính phủ và cộng đồng ngừoi sống chung với HIV qua cơ chế bảo hiểm y tế. Trong khi tất cả các bên đều đang cố gắng giữ lạc quan, vãn còn rất nhiều vấn đề cần được giải quyết và rất nhiều các cá nhân chung sống với HIV khó khăn đang rất lo lắng về tương lai của họ."
-  image: chapter_11_feature.jpg
+
+- number: “10”
+  en:
+    title: Communication
+    intro: "Communication around HIV has been a major aspect of prevention. AIDS sprung to infamy and with it a global response that heavily demonised the virus – which also cast a shadow over people diagnosed as HIV+. Now we have ARV and better life expectancy, the communication and messaging is much more varied and intelligent but one thing remains; communication is key in controlling HIV/AIDS."
+  vi:
+    title: Truyền thông
+    intro: "Truyền thông chung quanh HIV vẫn luôn là một khía cạnh quan trọng của công tác phòng chống. Khi AIDS trở thành đại dịch và phản ứng toàn cầu là biến con virus này thành ác quỷ - trong khi ARV đến vài năm nữa mới được tìm ra – chỉ có những chiến dịch xã hội mới có thể khuyến khích thay đổi hành vi và là cách duy nhất để chống lại sát nhân cao tay này. Hiện nay các thông điệp đã đa dạng và tinh tế hơn, tuy nhiên một điều vẫn đọng lại; với một bệnh dịch mang tính xã hội, truyền thông là chìa khoá để giảm và thậm chí loại trừ nó"
+
+- number: “11”
+  en:
+    title: Policy and The Future
+    intro: "The future of HIV/AIDS control in Vietnam does not lie on a clear path.  International funding is being withdrawn due to the improving economic condition in the country.  This will bring a raft of changes that fundamentally change how care is given. While all stakeholders try to remain positive there is a lot to be worked out to ensure our control of HIV/AIDS continues to grow."
+  vi:
+    title: Chính sách và Tương lai
+    intro: "Tương lai của công tác phòng chống HIV tại Việt Nam không bằng phẳng. Với những thay đổi trong việc tài trợ và cung cấp dịch vụ điều trị xét nghiệm HIV, sẽ còn rất nhiều câu hỏi mở ra cần được trả lời cấp bách. Các nguồn tài trợ quốc tế đang rút dần, dẫn đến một loạt các thay đổi sẽ thay đổi cơ cấu của việc thực hiện dịch vụ chăm sóc. Một nhu cầu cấp thiết được đặt ra cho các dịch vụ hiệu quả và linh động, phối hợp với động cơ chia sẻ chi phí giữa chính phủ và cộng đồng ngừoi sống chung với HIV qua cơ chế bảo hiểm y tế. Trong khi tất cả các bên đều đang cố gắng giữ lạc quan, vãn còn rất nhiều vấn đề cần được giải quyết và rất nhiều các cá nhân chung sống với HIV khó khăn đang rất lo lắng về tương lai của họ."
