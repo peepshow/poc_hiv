@@ -10,23 +10,20 @@
   image: "story_1.jpg"
   previewimg: "story_1_preview.jpg"
   clips:
-    - video:
-      title:
+    - title:
         en: "Becoming Positive"
         vi: "Đứa con thứ tư"
-      url:
+      video: ""
       youtube: KAs5Y9Himmc
-    - video:
-      title:
+    - title:
         en: "A Fourth Baby"
         vi: "Đứa con thứ tư"
-      url:
+      video: ""
       youtube: QAFiwq2hLV8
-    - video:
-      title:
+    - title:
         en: "Living with HIV"
         vi: "Sống chung với HIV"
-      url:
+      video: ""
       youtube: 9zvWEedeTHo
 
 - id: story_2
@@ -39,23 +36,20 @@
   image: "story_2.jpg"
   previewimg: "story_2_preview.jpg"
   clips:
-    - video:
-      title:
+    - title:
         en: "Becoming Positive"
         vi: "Trở thành dương tính"
-      url:
+      video: ""
       youtube: b1Pk4zybWgU
-    - video:
-      title:
+    - title:
         en: "Community & Support"
         vi: "Cộng đồng & Hỗ trợ"
-      url:
+      video: ""
       youtube: cmLQgrxoayc
-    - video:
-      title:
+    - title:
         en: "Sharing My Status"
         vi: "Bộc lộ tình trạng nhiễm"
-      url:
+      video: ""
       youtube: gALES550O2I
 
 - id: story_3
@@ -68,35 +62,30 @@
   image: "story_3.jpg"
   previewimg: "story_3_preview.jpg"
   clips:
-    - video:
-      title:
+    - title:
         en: "Finding Addiction"
         vi: "Con đường nghiện ngập"
-      url:
+      video: ""
       youtube: H8ueKwrINlk
-    - video:
-      title:
+    - title:
         en: "The Rehabilitation Centre"
         vi: "Trung tâm cai nghiện"
-      url:
+      video: ""
       youtube: -JnE2cPkMHk
-    - video:
-      title:
+    - title:
         en: "Back in the Community"
         vi: "Trở về cộng đồng"
-      url:
+      video: ""
       youtube: a4n3jpHSEjI
-    - video:
-      title:
+    - title:
         en: "My Brother"
         vi: "Em tôi"
-      url:
+      video: ""
       youtube: XmPn1WzOcRg
-    - video:
-      title:
+    - title:
         en: "Giving Back"
         vi: "Đền đáp"
-      url:
+      video: ""
       youtube: 4tPFhOgvoLs
 
 
@@ -111,21 +100,18 @@
   image: "story_4.jpg"
   previewimg: "story_4_preview.jpg"
   clips:
-    - video:
-      title:
+    - title:
         en: "Life on the Streets"
         vi: "Cuộc sống đường phố"
-      url:
+      video: ""
       youtube: 2iOGB5jNIis
-    - video:
-      title:
+    - title:
         en: "My Diagnosis"
         vi: "Chẩn đoán của tôi"
-      url:
+      video: ""
       youtube: Ay3Jp5G3SLM
-    - video:
-      title:
+    - title:
         en: "My Baby"
         vi: "Con tôi"
-      url:
+      video: ""
       youtube: deHU4BGZhyI
